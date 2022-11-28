@@ -1,0 +1,53 @@
+webmaster_verifications:
+  google: Nt_CftRIypA9xVS7Znb2VkrsYbtIDuFWHryxSAC6OwM
+
+# Files excluded from Jekyll builds
+exclude:
+- .editorconfig
+- .jekyll-cache
+- .gitignore
+- .github
+- "*.gpg"
+- "*.tmp"
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- CNAME
+- gcweb-jekyll.gemspec
+- Gemfile
+- Gemfile.lock
+- LICENSE*
+- node_modules
+- screenshot.png
+- SECURITY.md
+- README.md
+- vendor/*
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: without-h1
+      pageclass: "cnt-wdth-lmtd"
+      share: True
+  -
+    scope:
+      path: "accessibility/"
+    values:
+      css:
+        - https://design.canada.ca/css/split-h1.css
+        - https://design.canada.ca/css/custom.css
+        - https://use.fontawesome.com/releases/v5.15.4/css/all.css
+      lang: "en"
+  -
+    scope:
+      path: "accessibilite/"
+    values:
+      css:
+        - https://design.canada.ca/css/split-h1.css
+        - https://design.canada.ca/css/custom.css
+        - https://use.fontawesome.com/releases/v5.15.4/css/all.css
+      lang: "fr"
+plugins:
+  - jekyll-remote-theme
+remote_theme: wet-boew/gcweb-jekyll
