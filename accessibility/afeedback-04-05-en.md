@@ -1,11 +1,11 @@
 ---
-altLangPage: /experimental/prycrane/accessibility/afeedback-04-05-fr.html
+altLangPage: /accessibilite/afeedback-04-05-fr.html
 breadcrumbs:
 - title: "[Institution name]"
   link: #
 - title: Accessibility at [Institution name]
   link: /prycrane/accessibility/afeedback-04-01-en.html  
-dateModified: 2022-11-25
+dateModified: 2022-11-29
 description: 
   en: Accessibility plan at [Institution name]
 title: Accessibility plan at [Institution name]
