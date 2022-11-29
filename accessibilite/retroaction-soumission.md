@@ -1,11 +1,11 @@
 ---
-altLangPage: /experimental/prycrane/accessibility/afeedback-04-04-en.html
+altLangPage: /accessibility/feedback-acknowledgement.html
 breadcrumbs:
 - title: "[nom de l’institution]"
   link: #
 - title: Accessibilité à [nom de l’institution]
-  link: /prycrane/accessibility/afeedback-04-01-fr.html 
-dateModified: 2022-11-25
+  link: /accessibility/accessibilite.html
+dateModified: 2022-11-29
 description: 
   fr: Découvrez comment [nom de l’institution] utilise les rétroactions sur l’accessibilité en consultant la description de notre processus.
 title: Votre rétroaction a été soumise
