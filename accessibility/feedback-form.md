@@ -1,7 +1,7 @@
 ---
-altLangPage: /experimental/prycrane/accessibility/afeedback-04-03-fr.html
+altLangPage: /accessibilite/formulaire-retroaction.html
 breadcrumbs: false
-dateModified: 2022-11-28
+dateModified: 2022-11-29
 description: 
   en: "Provide feedback on [Institution name]’s accessibility plan, barriers you have experienced, or any matter related to accessibility."
 layout: form
@@ -15,7 +15,7 @@ title: "[Institution name]’s accessibility feedback form"
 <div class="row mrgn-tp-lg">
   <div class="col-md-8">
     <p>Provide feedback on [institution name]’s accessibility plan, barriers you have experienced, or any matter related to accessibility.</p>
-    <p>You can consult the <a href="afeedback-04-02-en.html">Accessibility feedback process</a> for other ways to provide feedback and how we use your feedback.</p>
+    <p>You can consult the <a href="feedback-process.html">Accessibility feedback process</a> for other ways to provide feedback and how we use your feedback.</p>
     <details class="mrgn-tp-lg">
       <summary>Privacy disclaimer</summary>
       <div class="row mrgn-tp-lg">
