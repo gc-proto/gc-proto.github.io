@@ -1,17 +1,17 @@
 ---
-altLangPage: /experimental/prycrane/accessibility/afeedback-04-02-fr.html
+altLangPage: /accessibilite/processus-retroaction.html
 breadcrumbs:
 - title: "[Institution name]"
   link: #
 - title: "Accessibility at [Institution name]"
-  link: /prycrane/accessibility/afeedback-04-01-en.html  
-dateModified: 2022-11-25
+  link: /accessibility/accessibility.html  
+dateModified: 2022-11-29
 description: 
   en: "Your feedback will help [institution name] identify and break down accessibility barriers."
 title: "Accessibility feedback process at [institution name]"
 ---
 <h1 property="name" id="wb-cont" dir="ltr">Accessibility feedback process at [institution name]</h1>
-<p>Your feedback will help [institution name] identify and break down accessibility barriers. Provide feedback on <a href="afeedback-04-05-en.html">[institution name]’s Accessibility Plan</a>, your experience of our accessibility, or any other matter related to accessibility. Find out how we'll use your feedback.</p>
+<p>Your feedback will help [institution name] identify and break down accessibility barriers. Provide feedback on <a href="plan.html">[institution name]’s Accessibility Plan</a>, your experience of our accessibility, or any other matter related to accessibility. Find out how we'll use your feedback.</p>
 <h2>On this page</h2>
 <ul>
   <li><a href="#how">How to provide feedback</a></li>
@@ -22,7 +22,7 @@ title: "Accessibility feedback process at [institution name]"
 </ul>
 <h2 id="how">How to provide feedback</h2>
 <ul class="mrgn-tp-lg">
-  <li><a href="afeedback-04-03-en.html">Accessibility feedback form</a></li>
+  <li><a href="feedback-form.html">Accessibility feedback form</a></li>
   <li>Video Relay Services (American Sign Language or Langue des signes québécoise)</li>
   <li>TTY at: <a href="tel:[insert TTY number]">[insert TTY number]</a></li>
 </ul>

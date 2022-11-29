@@ -4,8 +4,8 @@ breadcrumbs:
 - title: "[nom de l’institution]"
   link: #
 - title: Accessibilité à [nom de l’institution]
-  link: /prycrane/accessibility/afeedback-04-01-fr.html  
-dateModified: 2022-11-25
+  link: /accessibilite/accessibilite.html  
+dateModified: 2022-11-29
 description: 
   fr: "Votre rétroaction aidera [nom de l’institution] à cerner et à éliminer les obstacles à l’accessibilité."
 title: "Processus de rétroaction sur l’accessibilité à [nom de l’institution]"
@@ -22,7 +22,7 @@ title: "Processus de rétroaction sur l’accessibilité à [nom de l’institut
 </ul>
 <h2 id="comment">Comment fournir une rétroaction</h2>
 <ul class="mrgn-tp-lg">
-  <li><a href="afeedback-04-03-fr.html">Formulaire de rétroaction sur l’accessibilité</a></li>
+  <li><a href="formulaire-retroaction.html">Formulaire de rétroaction sur l’accessibilité</a></li>
   <li>Services de relais vidéo (American Sign Language ou langue des signes québécoise)</li>
   <li>ATS au : [insérer le numéro d’ATS]</li>
 </ul>

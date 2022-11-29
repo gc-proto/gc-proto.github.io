@@ -4,10 +4,10 @@ breadcrumbs:
 - title: "[Institution name]"
   link: #
 - title: Accessibility plan at [Institution name]
-  link: /prycrane/accessibility/afeedback-04-01-en.html 
-dateModified: 2022-11-23
+  link: accessibility/accessibility.html 
+dateModified: 2022-11-29
 description: 
-  en: Find out how [institution name] uses accessibility feedback by consulting the description of our process.
+  en: Accessibility feedback form acknowledgement
 title: Accessibility feedback form acknowledgement
 ---
 <h1 property="name" id="wb-cont" dir="ltr">Accessibility feedback form acknowledgement</h1>

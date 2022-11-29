@@ -3,7 +3,7 @@ altLangPage: /experimental/prycrane/accessibility/afeedback-04-01-en.html
 breadcrumbs:
 - title: "[nom de l’institution]"
   link: #
-dateModified: 2022-11-25
+dateModified: 2022-11-29
 description: 
   en: "Find [institution name]'s accessibility plan and provide feedback."
 title: "Accessibilité à [nom de l’institution]"
@@ -17,7 +17,7 @@ title: "Accessibilité à [nom de l’institution]"
         <li>Donnez votre avis sur notre plan sur l’accessibilité.</li>
         <li>Décrivez les obstacles à l’accessibilité que vous avez rencontrés avec [nom de l’institution].</li>
       </ul>
-      <div><a class="provisional btn btn-call-to-action" href="afeedback-04-03-fr.html">Fournir une rétroaction</a></div>
+      <div><a class="provisional btn btn-call-to-action" href="formulaire-retroaction.html">Fournir une rétroaction</a></div>
     </div>
   </div>
 </div>
@@ -28,11 +28,11 @@ title: "Accessibilité à [nom de l’institution]"
       <h2 class="wb-inv">Services and information</h2>
       <div class="wb-eqht row">
         <div class="col-lg-4 col-md-6">
-          <h3><a href="afeedback-04-05-fr.html">Plan sur l’accessibilité</a></h3>
+          <h3><a href="plan">Plan sur l’accessibilité</a></h3>
           <p>Politiques, programmes, pratiques et services qui aident notre organisation à contribuer à l’objectif d’un Canada accessible et sans obstacles</p>
         </div>
               <div class="col-lg-4 col-md-6">
-          <h3><a href="afeedback-04-02-fr.html">Processus de rétroaction</a></h3>
+          <h3><a href="processus-retroaction.html">Processus de rétroaction</a></h3>
           <p>Différentes façons de fournir une rétroaction, comment demander des formats substituts, ce que nous faisons de votre rétroaction et comment garder votre rétroaction anonyme</p>
         </div>
       </div>
