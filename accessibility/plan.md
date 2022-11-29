@@ -1,5 +1,5 @@
 ---
-altLangPage: /experimental/prycrane/accessibilite/plan.html
+altLangPage: /accessibilite/plan.html
 breadcrumbs:
 - title: "[Institution name]"
   link: #
