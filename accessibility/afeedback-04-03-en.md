@@ -1,7 +1,7 @@
 ---
-altLangPage: /experimental/prycrane/accessibility/afeedback-04-03-fr.html
+altLangPage: /accessibilite/afeedback-04-03-fr.html
 breadcrumbs: false
-dateModified: 2022-11-28
+dateModified: 2022-11-29
 description: 
   en: "Provide feedback on [Institution name]’s accessibility plan, barriers you have experienced, or any matter related to accessibility."
 layout: form
