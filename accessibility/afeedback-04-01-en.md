@@ -1,11 +1,5 @@
 ---
-css:
-- https://design.canada.ca/css/split-h1.css
-- https://design.canada.ca/css/custom.css
-- https://use.fontawesome.com/releases/v5.15.4/css/all.css
-layout: without-h1
-pageclass: cnt-wdth-lmtd
-altLangPage: /experimental/prycrane/accessibility/afeedback-04-01-fr.html
+altLangPage: /accessibilite/afeedback-04-01-fr.html
 breadcrumbs:
 - title: "[institution name]"
   link: #
@@ -14,7 +8,7 @@ share: True
 title: "Accessibility at [institution name]"
 description: 
   en: "Find [institution name]'s accessibility plan and provide feedback."
-dateModified: 2022-11-23
+dateModified: 2022-11-29
 ---
 <div class="container">
 	<div class="row">

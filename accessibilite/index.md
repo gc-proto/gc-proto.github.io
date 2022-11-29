@@ -3,7 +3,7 @@ altLangPage: /accessibility/
 breadcrumbs:
 - title: Système de conception de Canada.ca
   link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-dateModified: 2022-11-25
+dateModified: 2022-11-29
 description: 
   fr: Modèles pour le plan d’accessibilité d’une institution et la section de rétroaction. 
 layout: without-h1

@@ -1,7 +1,7 @@
 ---
-altLangPage: /experimental/prycrane/accessibility/afeedback-04-03-en.html
+altLangPage: /accessibility/afeedback-04-03-en.html
 breadcrumbs: false
-dateModified: 2022-11-25
+dateModified: 2022-11-29
 description: 
   fr: "Fournissez une rétroaction sur le plan d’accessibilité de [nom de l’institution], les obstacles que vous avez rencontrés ou toute question liée à l’accessibilité."
 layout: form
@@ -9,9 +9,9 @@ nomenu: true
 noReportProblem: true
 nositesearch: true
 share: false
-title: "[Institution name]’s accessibility feedback form"
+title: "Formulaire de rétroaction sur l’accessibilité de [nom de l’institution]"
 ---
-<h1 property="name" id="wb-cont" dir="ltr">Accessibility feedback form</h1>
+<h1 property="name" id="wb-cont" dir="ltr">Formulaire de rétroaction sur l’accessibilité de [nom de l’institution]</h1>
 <div class="row mrgn-tp-lg">
   <div class="col-md-8">
     <p>Fournissez une rétroaction sur le plan d’accessibilité de [nom de l’institution], les obstacles que vous avez rencontrés ou toute question liée à l’accessibilité.</p>
