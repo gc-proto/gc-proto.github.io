@@ -1,5 +1,5 @@
 ---
-altLangPage: /experimental/prycrane/accessibility/afeedback-04-02-en.html
+altLangPage: /accessibility/feedback-process.html
 breadcrumbs:
 - title: "[nom de l’institution]"
   link: #
@@ -11,7 +11,7 @@ description:
 title: "Processus de rétroaction sur l’accessibilité à [nom de l’institution]"
 ---
 <h1 property="name" id="wb-cont" dir="ltr">Processus de rétroaction sur l’accessibilité à [nom de l’institution]</h1>
-<p>Votre rétroaction aidera [nom de l’institution] à cerner et à éliminer les obstacles à l’accessibilité. Fournissez une rétroaction sur le <a href="afeedback-04-05-fr.html">plan sur l’accessibilité</a> de [nom de l’institution], votre expérience de notre accessibilité ou toute autre question liée à l’accessibilité. Découvrez comment nous utiliserons votre rétroaction.</p>
+<p>Votre rétroaction aidera [nom de l’institution] à cerner et à éliminer les obstacles à l’accessibilité. Fournissez une rétroaction sur le <a href="plan.html">plan sur l’accessibilité</a> de [nom de l’institution], votre expérience de notre accessibilité ou toute autre question liée à l’accessibilité. Découvrez comment nous utiliserons votre rétroaction.</p>
 <h2>Sur cette page</h2>
 <ul>
   <li><a href="#comment">Comment fournir une rétroaction</a></li>
