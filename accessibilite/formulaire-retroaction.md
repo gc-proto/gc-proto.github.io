@@ -15,7 +15,7 @@ title: "[Institution name]’s accessibility feedback form"
 <div class="row mrgn-tp-lg">
   <div class="col-md-8">
     <p>Fournissez une rétroaction sur le plan d’accessibilité de [nom de l’institution], les obstacles que vous avez rencontrés ou toute question liée à l’accessibilité.</p>
-    <p>Vous pouvez consulter le <a href="afeedback-04-02-fr.html">processus de rétroaction</a> sur l’accessibilité pour découvrir d’autres façons de fournir une rétroaction et comment nous utilisons votre rétroaction.</p>
+    <p>Vous pouvez consulter le <a href="processus-retroaction.html">processus de rétroaction</a> sur l’accessibilité pour découvrir d’autres façons de fournir une rétroaction et comment nous utilisons votre rétroaction.</p>
     <details class="mrgn-tp-lg">
       <summary>Avis de confidentialité</summary>
       <div class="row mrgn-tp-lg">
