@@ -32,7 +32,7 @@ defaults:
       share: True
   -
     scope:
-      path: "/accessibility/"
+      path: "accessibility"
     values:
       css:
         - https://design.canada.ca/css/split-h1.css
@@ -41,7 +41,7 @@ defaults:
       lang: "en"
   -
     scope:
-      path: "/accessibilite/"
+      path: "accessibilite"
     values:
       css:
         - https://design.canada.ca/css/split-h1.css
