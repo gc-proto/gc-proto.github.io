@@ -1,5 +1,5 @@
 ---
-altLangPage: /experimental/prycrane/accessibility/afeedback-04-01-en.html
+altLangPage: /accessibility/accessibility.html
 breadcrumbs:
 - title: "[nom de l’institution]"
   link: #
@@ -28,7 +28,7 @@ title: "Accessibilité à [nom de l’institution]"
       <h2 class="wb-inv">Services and information</h2>
       <div class="wb-eqht row">
         <div class="col-lg-4 col-md-6">
-          <h3><a href="plan">Plan sur l’accessibilité</a></h3>
+          <h3><a href="plan.html">Plan sur l’accessibilité</a></h3>
           <p>Politiques, programmes, pratiques et services qui aident notre organisation à contribuer à l’objectif d’un Canada accessible et sans obstacles</p>
         </div>
               <div class="col-lg-4 col-md-6">
