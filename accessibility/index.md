@@ -17,5 +17,5 @@ title: Accessibility templates
       <li><a href="feedback-acknowledgement.html">Accessibility feedback form acknowledgement</a></li>
     </ul></li>
   <li><a href="feedback-process.html">Accessibility feedback process at [institution name]</a></li>
-  <li><a href="feedback-plan.html">Accessibility plan at [Institution name]</a></li>
+  <li><a href="plan.html">Accessibility plan at [Institution name]</a></li>
 </ul>
