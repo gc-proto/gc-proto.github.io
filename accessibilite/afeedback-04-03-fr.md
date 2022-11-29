@@ -1,7 +1,7 @@
 ---
-altLangPage: /experimental/prycrane/accessibility/afeedback-04-03-en.html
+altLangPage: /accessibility/afeedback-04-03-en.html
 breadcrumbs: false
-dateModified: 2022-11-25
+dateModified: 2022-11-29
 description: 
   fr: "Fournissez une rétroaction sur le plan d’accessibilité de [nom de l’institution], les obstacles que vous avez rencontrés ou toute question liée à l’accessibilité."
 layout: form
