@@ -6,7 +6,6 @@ breadcrumbs:
 dateModified: 2022-11-29
 description: 
   fr: Modèles pour le plan d’accessibilité d’une institution et la section de rétroaction. 
-layout: without-h1
 title: Modèles d’accessibilité
 ---
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Modèles d’accessibilité</span>: <span>Système de conception de Canada.ca</span></span></h1>
