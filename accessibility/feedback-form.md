@@ -34,7 +34,7 @@ title: "[Institution name]’s accessibility feedback form"
             Outreach Activities and will be retained for 7 years. Under the <em>Privacy Act</em> you have the right of access to, and correction of, your personal 
             information. To exercise either of these rights, contact [Institution name]’s ATIP Coordinator. If 
             you are not satisfied with Canadian Heritage’s response to your privacy concern, you may wish 
-            to Contact the Office of the Privacy Commissioner of Canada</p>
+            to Contact the Office of the Privacy Commissioner of Canada.</p>
           <h2 class="h3">Contact information</h2>
           <ul class="mrgn-tp-lg">
             <li>[Institution name]’s ATIP Coordinator</li>
