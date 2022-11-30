@@ -7,11 +7,11 @@ breadcrumbs:
   link: /accessibility/accessibility.html  
 dateModified: 2022-11-29
 description: 
-  en: "Your feedback will help [institution name] identify and break down accessibility barriers."
-title: "Accessibility feedback process at [institution name]"
+  en: "Your feedback will help [Institution name] identify and break down accessibility barriers."
+title: "Accessibility feedback process at [Institution name]"
 ---
-<h1 property="name" id="wb-cont" dir="ltr">Accessibility feedback process at [institution name]</h1>
-<p>Your feedback will help [institution name] identify and break down accessibility barriers. Provide feedback on <a href="plan.html">[institution name]’s Accessibility Plan</a>, your experience of our accessibility, or any other matter related to accessibility. Find out how we'll use your feedback.</p>
+<h1 property="name" id="wb-cont" dir="ltr">Accessibility feedback process at [Institution name]</h1>
+<p>Your feedback will help [Institution name] identify and break down accessibility barriers. Provide feedback on <a href="plan.html">[Institution name]’s Accessibility Plan</a>, your experience of our accessibility, or any other matter related to accessibility. Find out how we'll use your feedback.</p>
 <h2>On this page</h2>
 <ul>
   <li><a href="#how">How to provide feedback</a></li>
