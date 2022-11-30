@@ -14,7 +14,7 @@ title: "[Institution name]’s accessibility feedback form"
 <h1 property="name" id="wb-cont" dir="ltr">Accessibility feedback form</h1>
 <div class="row mrgn-tp-lg">
   <div class="col-md-8">
-    <p>Provide feedback on [institution name]’s accessibility plan, barriers you have experienced, or any matter related to accessibility.</p>
+    <p>Provide feedback on [Institution name]’s accessibility plan, barriers you have experienced, or any matter related to accessibility.</p>
     <p>You can consult the <a href="feedback-process.html">Accessibility feedback process</a> for other ways to provide feedback and how we use your feedback.</p>
     <details class="mrgn-tp-lg">
       <summary>Privacy disclaimer</summary>
