@@ -77,7 +77,7 @@ title: "[Institution name]’s accessibility feedback form"
             <input class="form-control full-width input-lg" id="feedback_type3_desc" name="feedback_type3_desc" type="text" />
           </div>
         </div>
-        <div class="wb-fieldflow gc-font-2019" data-wb-fieldflow='{"noForm": true, "renderas":"checkbox", "gcChckbxrdio":true}'>
+        <div class="wb-fieldflow gc-font-2019" data-wb-fieldflow='{"noForm": true, "noreqlabel": true, "renderas":"checkbox", "gcChckbxrdio":true}'>
           <p>2. Select all the areas that are relevant to your comments</p>
           <ul>
             <li data-wb-fieldflow='{"action": "query", "name": "areas", "value": "areas4"}'>Physical environment (door knob, ramp, elevator, etc.)</li>
