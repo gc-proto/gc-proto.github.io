@@ -17,5 +17,5 @@ title: Modèles d’accessibilité
       <li><a href="retroaction-soumission.html">Accusé de réception du formulaire de rétroaction sur l’accessibilité</a></li>
     </ul></li>
   <li><a href="processus-retroaction.html">Processus de rétroaction sur l’accessibilité à [nom de l’institution]</a></li>
-  <li><a href="plan.html">Plan d’accessibilité de [nom de l’institution]</a></li>
+  <li><a href="plan.html">Plan sur l’accessibilité de [nom de l’institution]</a></li>
 </ul>
