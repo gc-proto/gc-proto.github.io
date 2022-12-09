@@ -87,7 +87,7 @@ title: Accessibility templates - Documentation
     <p>Screenshot of the Government of Canada's website titled 'Accessibility at Institution name'. There is a green button named 'Provide feedback', then 2 links: Accessibility Plan and Feedback process.</p>
     </details></figcaption>
 </figure>
-<p><a href="">Working examples - Institutional accessibility page</a></p>
+<p><a href="accessibility.html">Working examples - Institutional accessibility page</a></p>
 <h4>Design considerations</h4>
 <ul>
   <li>Likely top task will be giving feedback, so the page uses the Super-task button</li>
@@ -103,5 +103,21 @@ title: Accessibility templates - Documentation
     <p>Screenshot of the Government of Canada's website titled 'Accessibility plan at Institution name' with a link to a Sample Accessibility Plan Template. Under it there is a link titled 'List of accessibility plans from other institutions'.</p>
     </details></figcaption>
 </figure>
-  <p><a href="">Working examples - Accessibility plan</a></p>
+  <p><a href="plan.html">Working examples - Accessibility plan</a></p>
   <h4>Design considerations</h4>
+<p>Ensure the plan meets the requirements outlined in Guidance on accessibility plans:</p>
+<ul>
+  <li>This guidance includes a content template for the plan itself</li>
+<ul>
+<p>People are encouraged to provide feedback on accessibility plans - ensure there is a link to the feedback process and/or feedback form from within the plan itself.</p>
+<p>To ist with findability, TBS is creating a central index for accessibility plans on the Open government site:</p>
+  <ul>
+    <li>Include a link from your plan to the central index</li>
+    <li>Setadata record for your plan
+•	See annex for instructions
+According to the Procedures for publishing, institutional accessibility plans are considered publications:
+•	Request an ISSN and submit a copy to publications.gc.ca
+•	See annex for instructions
+Institutions must notify the Accessibility Commissioner at the Canadian Human Rights Commission within 48 hours of publishing their accessibility plans:
+•	Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s “My Accessibility Portal” service
+•	Include a link or URL for the plan in the email you send
