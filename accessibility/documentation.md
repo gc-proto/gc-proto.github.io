@@ -205,11 +205,11 @@ title: Accessibility templates - Documentation
   <h3>Create a metadata record on open.canada.ca</h3>
   <p>To ensure your institutional accessibility plan is included in the central index on open.canada.ca, you need to submit a metadata record:</p>
 <ol>
-  <li>Create a <a href="http://registry.open.canada.ca/">registry account</a>: select Request an Account.  It can take up to 24 hours for the account to be activated.</li>
+  <li>Create a <a href="http://registry.open.canada.ca/">registry account</a>: select <em>Request an Account</em>.  It can take up to 24 hours for the account to be activated.</li>
   <li>Once your account has been created, you will be able to create your record by populating the required metadata.<br>
     <em>Note</em>: you will require your institution’s IMSO approval for releasing a record.  Once approval is given, you will not require an additional approval for future updates.  We do not require you to provide the approval to us.</li>
-  <li>Select Create Open Information Asset on the registry landing page.</li>
-  <li>Select Institutional Accessibility Plans from the dropdown and complete the metadata fields.<br>
+  <li>Select <em>Create Open Information Asset</em> on the registry landing page.</li>
+  <li>Select <em>Institutional Accessibility Plans</em> from the dropdown and complete the metadata fields.<br>
   This form allows you to describe each resource assigned to a dataset or asset.</li>
   </ol>
 <p>Once completed, your record will be placed in the Open Government Registry publishing queue for review and publication within 24 hours.</p>
