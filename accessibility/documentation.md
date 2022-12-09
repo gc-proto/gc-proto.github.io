@@ -110,14 +110,19 @@ title: Accessibility templates - Documentation
   <li>This guidance includes a content template for the plan itself</li>
 <ul>
 <p>People are encouraged to provide feedback on accessibility plans - ensure there is a link to the feedback process and/or feedback form from within the plan itself.</p>
-<p>To ist with findability, TBS is creating a central index for accessibility plans on the Open government site:</p>
+<p>To ist with findability, TBS is creating a central index for accessibility plans on the <a href="https://open.canada.ca/">Open government site</a>:</p>
   <ul>
     <li>Include a link from your plan to the central index</li>
-    <li>Setadata record for your plan
-•	See annex for instructions
-According to the Procedures for publishing, institutional accessibility plans are considered publications:
-•	Request an ISSN and submit a copy to publications.gc.ca
-•	See annex for instructions
-Institutions must notify the Accessibility Commissioner at the Canadian Human Rights Commission within 48 hours of publishing their accessibility plans:
-•	Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s “My Accessibility Portal” service
-•	Include a link or URL for the plan in the email you send
+    <li>Submit a metadata record for your plan</li>
+    <li>See annex for instructions</li>
+  </ul>
+  <p>According to the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=27167">Procedures for publishing</a>, institutional accessibility plans are considered publications:</p>
+  <ul>
+    <li>Request an ISSN and submit a copy to publications.gc.ca</li>
+    <li>See annex for instructions</li>
+  </ul>
+<p>Institutions must notify the Accessibility Commissioner at the Canadian Human Rights Commission within 48 hours of publishing their accessibility plans:</p>
+  <ul>
+    <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
+    <li>Include a link or URL for the plan in the email you send</li>
+
