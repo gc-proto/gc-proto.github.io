@@ -6,8 +6,7 @@ breadcrumbs:
 - title: "Accessibility at [Institution name]"
   link: /accessibility/accessibility.html  
 dateModified: 2022-11-29
-description: 
-  en: "Your feedback will help [Institution name] identify and break down accessibility barriers."
+description: "Your feedback will help [Institution name] identify and break down accessibility barriers."
 title: "Accessibility feedback process at [Institution name]"
 ---
 <h1 property="name" id="wb-cont" dir="ltr">Accessibility feedback process at [Institution name]</h1>
