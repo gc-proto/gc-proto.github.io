@@ -45,8 +45,8 @@ title: Accessibility templates - Documentation
 <li>Designed for simplicity and with a focus on top user tasks like providing feedback, reviewing the plan, and understanding the process</li>
   <li>Built with standard WET code elements to maximize WCAG conformance</li>
   </ul>
-  <h3>Information structure</h3>
-  <p>Recommended information architecture for institutional websites</p>
+  <h3>Information structure and navigation</h3>
+  <h4>Recommended information architecture for institutional websites</h4>
   <figure class="gc-complex-img" role="group">
   <img src=" " alt="A long description can be found after the image">
   <figcaption><details>
@@ -54,3 +54,43 @@ title: Accessibility templates - Documentation
     <p>Diagram of recommended website structure. First row on top: Institutional landing page (ILP). Second row: Accessibility page. Third row at the bottom, 3 elements: Accessibility plan, Feedback mechanism, Description of feedback process</p>
     </details></figcaption>
 </figure>
+<h4>Accessibility link from Institutional landing page (ILP)</h4>
+<p>Recommended link label is "Accessibility"</p>
+<figure class="gc-complex-img" role="group">
+  <img src=" " alt="A long description can be found after the image">
+  <figcaption><details>
+    <summary>Detailed description</summary>
+    <p>Screenshot of Agriculture and Agri-Food Canada's public facing website. Under 'About AAFC', you can find 4 links: About our department, Transparency, Accessibility, Job opportunities.</p>
+    </details></figcaption>
+</figure>
+<p>Example drawn from <a href="https://agriculture.canada.ca/en">AAFC’s institutional landing page</a></p>
+<h4>Breadcrumb for accessibility products</h4>
+<figure class="gc-complex-img" role="group">
+  <img src=" " alt="A long description can be found after the image">
+  <figcaption><details>
+    <summary>Detailed description</summary>
+    <p>Screenshot of the Government of Canada's website. The breadcrumbs are: Canada.ca, Institution name, Accessibility at 'Institution name'</p>
+    </details></figcaption>
+</figure>
+<h4>Design considerations</h4>
+<p>While DTO recommends creating an accessibility node in your institution’s information architecture, it may also make sense to cross-link from elsewhere on your sites, such as:</p>
+<ul>
+  <li>Linking to the accessibility plan from a “Reports and plans” section</li>
+  <li>Linking to the accessibility feedback form from your “Contact us” pages</li>
+  </ul>
+<h3>Institutional accessibility page</h3>
+<h4>Recommended template</h4>
+<figure class="gc-complex-img" role="group">
+  <img src=" " alt="A long description can be found after the image">
+  <figcaption><details>
+    <summary>Detailed description</summary>
+    <p>Screenshot of the Government of Canada's website titled 'Accessibility at Institution name'. There is a green button named 'Provide feedback', then 2 links: Accessibility Plan and Feedback process.</p>
+    </details></figcaption>
+</figure>
+<p><a href="">Working examples - Institutional accessibility page</a></p>
+<h4>Design considerations</h4>
+<ul>
+  <li>Likely top task will be giving feedback, so the page uses the Super-task button</li>
+  <li>Additional doormats can be added as needed</li>
+  <li>Other patterns can be used as well on this page (e.g. Most requested band, contextual features)</li>
+  <li>Design will likely evolve as future requirements come online, e.g. accessibility statements required under the <a href="https://a11y.canada.ca/en/standards/">proposed ICT accessibility standard</a></li>
