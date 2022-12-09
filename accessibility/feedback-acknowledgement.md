@@ -6,8 +6,7 @@ breadcrumbs:
 - title: Accessibility plan at [Institution name]
   link: accessibility/accessibility.html 
 dateModified: 2022-11-29
-description: 
-  en: Accessibility feedback form acknowledgement
+description: Accessibility feedback form acknowledgement
 title: Accessibility feedback form acknowledgement
 ---
 <h1 property="name" id="wb-cont" dir="ltr">Accessibility feedback form acknowledgement</h1>
