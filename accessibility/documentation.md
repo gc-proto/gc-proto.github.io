@@ -201,13 +201,13 @@ title: Accessibility templates - Documentation
   <li>Submit to PSPC for posting on publications.gc.ca via email:<br>
     publications.acquisitions@pwgsc.gc.ca</li>
   </ol>
-  <p>Tip: given the subject matter of the accessibility plan, prepare an accessible PDF.</p>
+  <p><em>Tip</em>: given the subject matter of the accessibility plan, prepare an accessible PDF.</p>
   <h3>Create a metadata record on open.canada.ca</h3>
   <p>To ensure your institutional accessibility plan is included in the central index on open.canada.ca, you need to submit a metadata record:</p>
 <ol>
   <li>Create a <a href="http://registry.open.canada.ca/">registry account</a>: select Request an Account.  It can take up to 24 hours for the account to be activated.</li>
   <li>Once your account has been created, you will be able to create your record by populating the required metadata.<br>
-    Please note: you will require your institution’s IMSO approval for releasing a record.  Once approval is given, you will not require an additional approval for future updates.  We do not require you to provide the approval to us.</li>
+    <em>Note</em>: you will require your institution’s IMSO approval for releasing a record.  Once approval is given, you will not require an additional approval for future updates.  We do not require you to provide the approval to us.</li>
   <li>Select Create Open Information Asset on the registry landing page.</li>
   <li>Select Institutional Accessibility Plans from the dropdown and complete the metadata fields.<br>
   This form allows you to describe each resource assigned to a dataset or asset.</li>
