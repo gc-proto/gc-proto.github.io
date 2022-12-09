@@ -94,3 +94,14 @@ title: Accessibility templates - Documentation
   <li>Additional doormats can be added as needed</li>
   <li>Other patterns can be used as well on this page (e.g. Most requested band, contextual features)</li>
   <li>Design will likely evolve as future requirements come online, e.g. accessibility statements required under the <a href="https://a11y.canada.ca/en/standards/">proposed ICT accessibility standard</a></li>
+<h3>Accessibility plan</h3>
+  <h4>Recommended template</h4>
+  <figure class="gc-complex-img" role="group">
+  <img src=" " alt="A long description can be found after the image">
+  <figcaption><details>
+    <summary>Detailed description</summary>
+    <p>Screenshot of the Government of Canada's website titled 'Accessibility plan at Institution name' with a link to a Sample Accessibility Plan Template. Under it there is a link titled 'List of accessibility plans from other institutions'.</p>
+    </details></figcaption>
+</figure>
+  <p><a href="">Working examples - Accessibility plan</a></p>
+  <h4>Design considerations</h4>
