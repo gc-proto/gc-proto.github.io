@@ -4,8 +4,7 @@ breadcrumbs:
 - title: "[institution name]"
   link: #
 title: "Accessibility at [institution name]"
-description: 
-  en: "Find [Institution name]'s accessibility plan and provide feedback."
+description: "Find [Institution name]'s accessibility plan and provide feedback."
 dateModified: 2022-11-29
 ---
 <div class="container">
