@@ -4,8 +4,7 @@ breadcrumbs:
 - title: Canada.ca design system
   link: https://www.canada.ca/en/government/about/design-system.html
 dateModified: 2022-12-09
-description: 
-  en: Documentation for the templates for an institution’s Accessibility plan and feedback section. 
+description: Documentation for the templates for an institution’s Accessibility plan and feedback section. 
 title: Accessibility templates - Documentation
 ---
 <h1 property="name" id="wb-cont" dir="ltr">Documentation - Accessibility templates</h1>
@@ -181,5 +180,10 @@ title: Accessibility templates - Documentation
 <ul>
   <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
   <li>Include a link or URL for the process description in the email you send</li>
-  
-      
+<h2 id="next">Next steps - Maturing the working examples</h2>
+  <p>These working examples are a first step:</p>
+  <ul>
+    <li>Will monitor and iterate, based on data and evidence</li>
+    <li>As departments and agencies implement, provide comments and feedback to dto.btn@tbs-sct.gc.ca</li>
+    <li>Will integrate to the pattern and template library</li>
+  </ul>
