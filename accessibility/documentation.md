@@ -94,6 +94,7 @@ title: Accessibility templates - Documentation
   <li>Additional doormats can be added as needed</li>
   <li>Other patterns can be used as well on this page (e.g. Most requested band, contextual features)</li>
   <li>Design will likely evolve as future requirements come online, e.g. accessibility statements required under the <a href="https://a11y.canada.ca/en/standards/">proposed ICT accessibility standard</a></li>
+  </ul>
 <h3>Accessibility plan</h3>
   <h4>Recommended template</h4>
   <figure class="gc-complex-img" role="group">
