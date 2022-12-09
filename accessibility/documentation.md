@@ -187,3 +187,32 @@ title: Accessibility templates - Documentation
     <li>As departments and agencies implement, provide comments and feedback to dto.btn@tbs-sct.gc.ca</li>
     <li>Will integrate to the pattern and template library</li>
   </ul>
+  <h2 id="annex">Annex - Publishing plans</h2>
+  <h3>Procedures for publishing under the Policy on Communications and Federal Identity</h3>
+  <p>Since institutional accessibility plans are considered official publications of the Government of Canada, a PDF version of the accessibility plan needs to be included in the <a href="https://publications.gc.ca">catalogue at publications.gc.ca</a></p>.
+  <p>Follow these steps:</p>
+<ol>
+  <li>Obtain an ISSN from Library and Archives Canada:<br>
+    <a href="https://library-archives.canada.ca/eng/services/publishers/issn/Pages/issn.aspx">International Standard Serial Numbers (ISSN)</a></li>
+  <li>Obtain a GC catalogue number from PSPC:<br>
+    <a href="https://publications.gc.ca/site/eng/services/applyForISBN.html">Catalogue numbers - Government of Canada Publications</a></li>
+  <li>Put both numbers in your Accessibility plans, as per PSPC guidance on copyright pages:<br>
+    <a href="https://publications.gc.ca/site/eng/services/formatCopyPage.html">Formatting the copyright page</a></li>
+  <li>Submit to PSPC for posting on publications.gc.ca via email:<br>
+    publications.acquisitions@pwgsc.gc.ca</li>
+  </ol>
+  <p>Tip: given the subject matter of the accessibility plan, prepare an accessible PDF.</p>
+  <h3>Create a metadata record on open.canada.ca</h3>
+  <p>To ensure your institutional accessibility plan is included in the central index on open.canada.ca, you need to submit a metadata record:</p>
+<ol>
+  <li>Create a <a href="http://registry.open.canada.ca/">registry account</a>: select Request an Account.  It can take up to 24 hours for the account to be activated.</li>
+  <li>Once your account has been created, you will be able to create your record by populating the required metadata.<br><br>
+    Please note: you will require your institution’s IMSO approval for releasing a record.  Once approval is given, you will not require an additional approval for future updates.  We do not require you to provide the approval to us.</li>
+  <li>Select Create Open Information Asset on the registry landing page.</li>
+  <li>Select Institutional Accessibility Plans from the dropdown and complete the metadata fields.<br><br>
+  This form allows you to describe each resource assigned to a dataset or asset.</li>
+  </ol>
+<p>Once completed, your record will be placed in the Open Government Registry publishing queue for review and publication within 24 hours.</p>
+<p>Please contact your institution’s open government representative should you have additional questions about how to publish records to the registry.</p>
+
+ 
