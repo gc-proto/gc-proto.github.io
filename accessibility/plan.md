@@ -6,8 +6,7 @@ breadcrumbs:
 - title: Accessibility at [Institution name]
   link: /accessibility/accessibility.html  
 dateModified: 2022-11-29
-description: 
-  en: Accessibility plan at [Institution name]
+description: Accessibility plan at [Institution name]
 title: Accessibility plan at [Institution name]
 ---
 <h1 property="name" id="wb-cont" dir="ltr">Accessibility plan at [Institution name]</h1>
