@@ -6,8 +6,7 @@ breadcrumbs:
 - title: Accessibilité à [nom de l’institution]
   link: /accessibilite/accessibilite.html  
 dateModified: 2022-11-29
-description: 
-  fr: "Votre rétroaction aidera [nom de l’institution] à cerner et à éliminer les obstacles à l’accessibilité."
+description: "Votre rétroaction aidera [nom de l’institution] à cerner et à éliminer les obstacles à l’accessibilité."
 title: "Processus de rétroaction sur l’accessibilité à [nom de l’institution]"
 ---
 <h1 property="name" id="wb-cont" dir="ltr">Processus de rétroaction sur l’accessibilité à [nom de l’institution]</h1>

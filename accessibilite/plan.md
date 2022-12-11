@@ -6,8 +6,7 @@ breadcrumbs:
 - title: Plan sur l’accessibilité à [nom de l’institution]
   link: /accessibilite/accessibilite.html  
 dateModified: 2022-11-29
-description: 
-  fr: Plan sur l’accessibilité à [nom de l’institution]
+description: Plan sur l’accessibilité à [nom de l’institution]
 title: Plan sur l’accessibilité à [nom de l’institution]
 ---
 <h1 property="name" id="wb-cont" dir="ltr">Plan sur l’accessibilité à [nom de l’institution]</h1>

@@ -2,8 +2,7 @@
 altLangPage: /accessibility/feedback-form.html
 breadcrumbs: false
 dateModified: 2022-11-29
-description: 
-  fr: "Fournissez une rétroaction sur le plan d’accessibilité de [nom de l’institution], les obstacles que vous avez rencontrés ou toute question liée à l’accessibilité."
+description: "Fournissez une rétroaction sur le plan d’accessibilité de [nom de l’institution], les obstacles que vous avez rencontrés ou toute question liée à l’accessibilité."
 layout: form
 nomenu: true
 noReportProblem: true

@@ -6,8 +6,7 @@ breadcrumbs:
 - title: Accessibilité à [nom de l’institution]
   link: /accessibility/accessibilite.html
 dateModified: 2022-11-29
-description: 
-  fr: Découvrez comment [nom de l’institution] utilise les rétroactions sur l’accessibilité en consultant la description de notre processus.
+description: Découvrez comment [nom de l’institution] utilise les rétroactions sur l’accessibilité en consultant la description de notre processus.
 title: Votre rétroaction a été soumise
 ---
 <h1 property="name" id="wb-cont" dir="ltr">Votre rétroaction a été soumise</h1>
