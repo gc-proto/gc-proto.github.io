@@ -32,7 +32,7 @@ title: Accessibility templates - Documentation
 
 <p>These flow from the requirements under the Accessible Canada Act and Regulations.</p>
 <ul>
-  <li><a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance.html">Overview of existing guidance</a></li>
+  <li><a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance.html">Guidance on the Accessible Canada Regulations</a></li>
   </ul>
 
 <p><b>Publishing deadline</b>: December 31, 2022</p>
