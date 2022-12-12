@@ -35,7 +35,7 @@ title: Accessibility templates - Documentation
   <li><a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance.html">Overview of existing guidance</a></li>
   </ul>
 
-<p>Publishing deadline: December 31, 2022</p>
+<p><b>Publishing deadline</b>: December 31, 2022</p>
 
 <h3>What are accessibility plans?</h3>
 
