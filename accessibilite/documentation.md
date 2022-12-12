@@ -275,11 +275,11 @@ Deuxième rangée : Page d'accessibilité. Troisième rangée en bas, 3 élémen
 
 <p>Pour vous assurer que votre plan sur l’accessibilité de l’institution est inclus dans l’index central sur ouvert.canada.ca, vous devez soumettre un dossier des métadonnées :</p>
 <ol>
-<li>Créez un <a href="http://registry.open.canada.ca/fr/">compte du Registre </a>: sélectionnez « Demander un compte ».  L’activation du compte peut prendre jusqu’à 24 heures.</li>
+<li>Créez un <a href="http://registry.open.canada.ca/fr/">compte du Registre </a>: sélectionnez <strong>Demander un compte</strong>.  L’activation du compte peut prendre jusqu’à 24 heures.</li>
 <li>Une fois votre compte créé, vous pourrez créer votre fiche en renseignant les métadonnées requises.<br>
 <strong>Veuillez noter</strong> : vous aurez besoin de l’approbation des CSGI de votre institution pour publier un document.  Une fois l’approbation donnée, vous n’aurez pas besoin d’une approbation supplémentaire pour les futures mises à jour.  Nous ne vous demandons pas de nous fournir l’approbation.</li>
-<li>Sélectionnez l’actif <em>Créer un plan sur l’accessibilité de l’institution</em> sur la page d’accueil du Registre.</li>
-<li>Sélectionnez « Plans sur l’accessibilité institutionnels » dans la liste déroulante et remplissez les champs de métadonnées.<br>
+<li>Sélectionnez l’actif <strong>Créer un plan sur l’accessibilité de l’institution</strong> sur la page d’accueil du Registre.</li>
+<li>Sélectionnez <strong>Plans sur l’accessibilité institutionnels</strong> dans la liste déroulante et remplissez les champs de métadonnées.<br>
   Ce formulaire vous permet de décrire chaque ressource affectée à un ensemble de données ou à une ressource.</li>
 </ol>
 
