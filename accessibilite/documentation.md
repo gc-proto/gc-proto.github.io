@@ -120,218 +120,138 @@ Deuxième rangée : Page d'accessibilité. Troisième rangée en bas, 3 élémen
 <p><a href="accessibilite.html">Exemples - Page d’accessibilité de l’institution</a></p>
 <h4>Facteurs de conception</h4>
 
-
 <ul>
-
-<li>La tâche principale sera probablement de fournir une rétroaction, donc la page utilise le bouton Super-tâche. 
-
-<li>Il est possible de mettre en place d’autres pages d’accueil au besoin.
-
-<li>D’autres modèles peuvent également être utilisés sur cette page (p. ex., la bande la plus demandée, les fonctionnalités contextuelles).
-
-<li>La conception évoluera probablement à mesure que les exigences futures seront mises en ligne, p. ex., déclarations d’accessibilité requises en vertu de la <a href="https://a11y.canada.ca/fr/standards/">norme d’accessibilité des TIC proposée</a>.
-</li>
+<li>La tâche principale sera probablement de fournir une rétroaction, donc la page utilise le bouton Super-tâche.</li> 
+  <li>Il est possible de mettre en place d’autres pages d’accueil au besoin.</li>
+<li>D’autres modèles peuvent également être utilisés sur cette page (p. ex., la bande la plus demandée, les fonctionnalités contextuelles).</li>
+<li>La conception évoluera probablement à mesure que les exigences futures seront mises en ligne, p. ex., déclarations d’accessibilité requises en vertu de la <a href="https://a11y.canada.ca/fr/standards/">norme d’accessibilité des TIC proposée</a>.</li>
 </ul>
-<h3>Plan sur l’accessibilité</h3>
 
+<h3>Plan sur l’accessibilité</h3>
 
 <h4>Modèle recommandé</h4>
 
+<figure class="gc-complex-img" role="group">
+  <img src=" " alt="Une longue description peut être trouvée après l'image.">
+  <figcaption><details>
+    <summary>Description détaillée</summary>
+    <p>Capture d'écran du site Web du gouvernement du Canada intitulée "Plan sur l'accessibilité de l'institution" avec un lien vers un modèle de plan d'accessibilité. Sous ce lien se trouve un lien intitulé "Liste des plans d'accessibilité élaborés par d'autres institutions".</p>
+    </details></figcaption>
+</figure>
 
-<p>
+<p><a href="plan.html">Exemples - Plans sur l'accessibilité</a></p>
 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image5.png" width="" alt="alt_text" title="image_tooltip">
-
-</p>
-<p>
-<a href="https://test.canada.ca/accessibilite/">Exemples - Plans sur l'accessibilité</a>
-</p>
 <h4>Facteurs de conception</h4>
 
-
-<p>
-Assurez-vous que le plan répond aux exigences décrites dans<br><a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite/plans-accessibilite.html">Directives associées aux plans sur l’accessibilité</a> :
-</p>
+<p>Assurez-vous que le plan répond aux exigences décrites dans<br><a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite/plans-accessibilite.html">Directives associées aux plans sur l’accessibilité</a> :</p>
 <ul>
-
-<li>Ces directives comprennent un modèle de contenu pour le plan lui-même.
-</li>
+<li>Ces directives comprennent un modèle de contenu pour le plan lui-même.</li>
 </ul>
-<p>
-Les gens sont encouragés à fournir une rétroaction au sujet des plans sur l’accessibilité – assurez-vous qu’il y a un lien vers le processus de rétroaction et/ou le formulaire de rétroaction à partir du plan lui-même.
-</p>
-<p>
-Pour faciliter la recherche, le SCT crée un index central des plans sur l’accessibilité sur le <a href="https://ouvert.canada.ca/fr">site du gouvernement ouvert</a> :
-</p>
+
+<p>Les gens sont encouragés à fournir une rétroaction au sujet des plans sur l’accessibilité – assurez-vous qu’il y a un lien vers le processus de rétroaction et/ou le formulaire de rétroaction à partir du plan lui-même.</p>
+
+<p>Pour faciliter la recherche, le SCT crée un index central des plans sur l’accessibilité sur le <a href="https://ouvert.canada.ca/fr">site du gouvernement ouvert</a> :</p>
 <ul>
-
-<li>Inclure un lien de votre plan vers l’index central.
-
-<li>Soumettre un dossier des métadonnées pour votre plan.
-
-<li>Voir l’annexe pour les instructions.
-</li>
+  <li>Inclure un lien de votre plan vers l’index central.</li>
+  <li>Soumettre un dossier des métadonnées pour votre plan.</li>
+  <li>Voir l’annexe pour les instructions.</li>
 </ul>
-<p>
-Selon les <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=27167">Procédures sur l’édition</a>, les plans sur l’accessibilité sont estimés comme des publications :
-</p>
+
+<p>Selon les <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=27167">Procédures sur l’édition</a>, les plans sur l’accessibilité sont estimés comme des publications :</p>
 <ul>
-
-<li>Demander un ISSN et soumettre une copie à publications.gc.ca
-
-<li>Voir l’annexe pour les instructions.
-</li>
+  <li>Demander un ISSN et soumettre une copie à publications.gc.ca</li>
+  <li>Voir l’annexe pour les instructions.</li>
 </ul>
-<p>
-Les institutions doivent aviser le commissaire à l’accessibilité de la Commission canadienne des droits de la personne dans les 48 heures suivant la publication de leurs plans sur l’accessibilité :
-</p>
+
+<p>Les institutions doivent aviser le commissaire à l’accessibilité de la Commission canadienne des droits de la personne dans les 48 heures suivant la publication de leurs plans sur l’accessibilité :</p>
 <ul>
-
-<li>Envoyez un courriel à <a href="mailto:Info.Com@chrc-ccdp.gc.ca">Info.Com@chrc-ccdp.gc.ca</a> ou utilisez le service « <a href="https://www.accessibilitychrc.ca/fr/aviser-le-commissaire-laccessibilite">Mon portail sur l’accessibilité</a> » de la CCDP.
-
-<li>Inclure un lien ou une URL pour le plan dans le courriel que vous envoyez.
-</li>
+<li>Envoyez un courriel à <a href="mailto:Info.Com@chrc-ccdp.gc.ca">Info.Com@chrc-ccdp.gc.ca</a> ou utilisez le service « <a href="https://www.accessibilitychrc.ca/fr/aviser-le-commissaire-laccessibilite">Mon portail sur l’accessibilité</a> » de la CCDP.</li>
+<li>Inclure un lien ou une URL pour le plan dans le courriel que vous envoyez.</li>
 </ul>
-<p>
 
-</p>
 <h3>Formulaire de rétroaction sur l’accessibilité</h3>
-
 
 <h4>Modèle recommandé – formulaire de rétroaction</h4>
 
+<figure class="gc-complex-img" role="group">
+  <img src=" " alt="Une longue description peut être trouvée après l'image.">
+  <figcaption><details>
+    <summary>Description détaillée</summary>
+    <p>Capture d'écran du site Web du gouvernement du Canada intitulé "Formulaire de rétroaction sur l'accessibilité". Exemple de question avec des boutons radio.</p>
+    </details></figcaption>
+</figure>
 
-<p>
+<p><a href="formulaire-retroaction.html">Exemples - Formulaire de rétroaction sur l'accessibilité</a></p>
 
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image6.png" width="" alt="alt_text" title="image_tooltip">
-
-</p>
-<p>
-<a href="https://test.canada.ca/accessibilite/">Exemples - Formulaire de rétroaction sur l'accessibilité</a>
-</p>
-<p>
-
-</p>
 <h4>Modèle recommandé – Page d’accusé de réception</h4>
 
+<figure class="gc-complex-img" role="group">
+  <img src=" " alt="Une longue description peut être trouvée après l'image.">
+  <figcaption><details>
+    <summary>Description détaillée</summary>
+    <p>Capture d'écran du site Web du gouvernement du Canada intitulée "Votre rétroaction a été soumise". Nous vous remercions pour votre rétroaction.</p>
+    </details></figcaption>
+</figure>
 
-<p>
+<p><a href="retroaction-soumission.html">Exemples - Page d'accusé de réception</a></p>
 
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image7.png" width="" alt="alt_text" title="image_tooltip">
-
-</p>
-<p>
-<a href="https://test.canada.ca/accessibilite/">Exemples - Page d'accusé de réception</a>
-</p>
 <h4>Facteurs de conception</h4>
 
-
-<p>
-Vous devrez rattacher le formulaire de rétroaction à quelque chose – un courriel générique, un système de billetterie, etc. (n’oubliez pas de conserver les rétroactions reçues pendant sept ans!). 
-</p>
+<p>Vous devrez rattacher le formulaire de rétroaction à quelque chose – un courriel générique, un système de billetterie, etc. (n’oubliez pas de conserver les rétroactions reçues pendant sept ans!).</p>
 <ul>
-
-<li>Utilisateurs d’Adobe Experience Manager (AEM) – <a href="http://requestform.portal.gc.ca/tickets.html">envoyez un billet à l’éditeur principal</a><span style="text-decoration:underline;"> </span>pour tirer parti de la solution « archiver et oublier » pour rattacher les formulaires à une adresse de courriel.
-</li>
+<li>Utilisateurs d’Adobe Experience Manager (AEM) – <a href="http://requestform.portal.gc.ca/tickets.html">envoyez un billet à l’éditeur principal</a> pour tirer parti de la solution « archiver et oublier » pour rattacher les formulaires à une adresse de courriel.</li>
 </ul>
-<p>
-Les personnes soumettant une rétroaction ont la possibilité de demander une réponse – la conception du formulaire comprend des informations sur les délais d’exécution dans le cadre de ce scénario.
-</p>
-<p>
-Le formulaire a été conçu pour minimiser la collecte de renseignements d’identification personnelle (RIP) :
-</p>
+
+<p>Les personnes soumettant une rétroaction ont la possibilité de demander une réponse – la conception du formulaire comprend des informations sur les délais d’exécution dans le cadre de ce scénario.</p>
+
+<p>Le formulaire a été conçu pour minimiser la collecte de renseignements d’identification personnelle (RIP) :</p>
 <ul>
-
-<li>Lorsque l’utilisateur demande spécifiquement une réponse, il ne demande qu’une adresse courriel.
-
-<li>Comprend des instructions pour que les utilisateurs n’indiquent pas des renseignements personnels dans la zone de commentaires.
-</li>
+<li>Lorsque l’utilisateur demande spécifiquement une réponse, il ne demande qu’une adresse courriel.</li>
+<li>Comprend des instructions pour que les utilisateurs n’indiquent pas des renseignements personnels dans la zone de commentaires.</li>
 </ul>
-<p>
-Lors de la création de votre propre mise en œuvre, consultez le coordonnateur de l’AIPRP de votre organisation. 
-</p>
+
+<p>Lors de la création de votre propre mise en œuvre, consultez le coordonnateur de l’AIPRP de votre organisation.</p>
+
 <h3>Description du processus de rétroaction sur l’accessibilité</h3>
-
 
 <h4>Modèle recommandé</h4>
 
+<figure class="gc-complex-img" role="group">
+  <img src=" " alt="Une longue description peut être trouvée après l'image.">
+  <figcaption><details>
+    <summary>Description détaillée</summary>
+    <p>Capture d'écran du site Web du gouvernement du Canada intitulé "Processus de rétroaction sur l'accessibilité à nom de l'institution". De nombreux liens sur la façon de fournir de la rétroaction.</p>
+    </details></figcaption>
+</figure>
 
-<p>
+<p><a href="processus-retroaction.html">Exemples - Description du processus de rétroaction sur l'accessibilité</a></p>
 
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image8.png" width="" alt="alt_text" title="image_tooltip">
-
-</p>
-<p>
-<a href="https://test.canada.ca/accessibilite/">Exemples - Description du processus de rétroaction sur l'accessibilité</a>
-</p>
-<p>
-
-</p>
 <h4>Facteurs de conception</h4>
 
+<p>Conçu pour se concentrer sur les besoins prioritaires des utilisateurs, plutôt que de fournir une description exhaustive des procédures de l’arrière-guichet.</p>
 
-<p>
-Conçu pour se concentrer sur les besoins prioritaires des utilisateurs, plutôt que de fournir une description exhaustive des procédures de l’arrière-guichet.
-</p>
-<p>
-Assurez-vous que le processus sous-jacent répond aux exigences décrites dans la <a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite/processus-retroaction/introduction.html">Description du processus de rétroaction</a>.
-</p>
+<p>Assurez-vous que le processus sous-jacent répond aux exigences décrites dans la <a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite/processus-retroaction/introduction.html">Description du processus de rétroaction</a>.</p>
 <ul>
-
-<li>Les personnes doivent être en mesure de fournir une rétroaction par divers moyens, y compris le courrier électronique, le téléphone, le courrier postal.
-
-<li>La rétroaction doit être analysée et faire l’objet de rapports à l’avenir.
-</li>
-</ul>
-<p>
-Comme pour les plans sur l’accessibilité, les institutions doivent aviser le commissaire à l’accessibilité de la Commission canadienne des droits de la personne dans les 48 heures suivant la publication de leur description de processus.
-</p>
-<ul>
-
-<li>Envoyez un courriel à <a href="mailto:Info.Com@chrc-ccdp.gc.ca">Info.Com@chrc-ccdp.gc.ca</a> ou utilisez le service « <a href="https://www.accessibilitychrc.ca/fr/aviser-le-commissaire-laccessibilite">Mon portail sur l’accessibilité</a> » de la CCDP.
-
-<li>Inclure un lien ou une URL pour la description du processus dans le courriel que vous envoyez.
-</li>
-</ul>
-<h2>Prochaines étapes – Mise en œuvre et perfectionnement des exemples</h2>
-
-
-<p>
-Ces exemples sont une première étape :
-</p>
-<ul>
-
-<li>Assurer le suivi et effectuer des itérations, sur la base de données probantes. 
-<ul>
- 
-<li>Au fur et à mesure de la mise en œuvre par les ministères et agences, fournir des commentaires et une rétroaction à <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a>
-</li> 
+<li>Les personnes doivent être en mesure de fournir une rétroaction par divers moyens, y compris le courrier électronique, le téléphone, le courrier postal.</li>
+<li>La rétroaction doit être analysée et faire l’objet de rapports à l’avenir.</li>
 </ul>
 
-<li>Ils s’intégreront à la bibliothèque de modèles et de configurations sur <a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html">conception.canada.ca</a>
-</li>
+<p>Comme pour les plans sur l’accessibilité, les institutions doivent aviser le commissaire à l’accessibilité de la Commission canadienne des droits de la personne dans les 48 heures suivant la publication de leur description de processus.</p>
+<ul>
+<li>Envoyez un courriel à <a href="mailto:Info.Com@chrc-ccdp.gc.ca">Info.Com@chrc-ccdp.gc.ca</a> ou utilisez le service « <a href="https://www.accessibilitychrc.ca/fr/aviser-le-commissaire-laccessibilite">Mon portail sur l’accessibilité</a> » de la CCDP.</li>
+<li>Inclure un lien ou une URL pour la description du processus dans le courriel que vous envoyez.</li>
 </ul>
-<p>
 
-</p>
-<h2>Annexe – Plans sur l’accessibilité</h2>
+<h2>Prochaines étapes – Perfectionnement des exemples</h2>
 
+<p>Ces exemples sont une première étape :</p>
+<ul>
+  <li>Assurer le suivi et effectuer des itérations, sur la base de données probantes.</li>
+<li>Au fur et à mesure de la mise en œuvre par les ministères et agences, fournir des commentaires et une rétroaction à <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li> 
+<li>Ils s’intégreront à la bibliothèque de modèles et de configurations sur <a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html">conception.canada.ca</a></li>
+</ul>
+
+<h2 id="annexe">Annexe – Plans sur l’accessibilité</h2>
 
 <h3>Procédures de publication en vertu de la Politique sur les communications et l’image de marque</h3>
 
