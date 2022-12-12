@@ -242,7 +242,7 @@ Deuxième rangée : Page d'accessibilité. Troisième rangée en bas, 3 élémen
 <li>Inclure un lien ou une URL pour la description du processus dans le courriel que vous envoyez.</li>
 </ul>
 
-<h2>Prochaines étapes – Perfectionnement des exemples</h2>
+<h2 id="prochaine">Prochaines étapes – Perfectionnement des exemples</h2>
 
 <p>Ces exemples sont une première étape :</p>
 <ul>
@@ -255,27 +255,22 @@ Deuxième rangée : Page d'accessibilité. Troisième rangée en bas, 3 élémen
 
 <h3>Procédures de publication en vertu de la Politique sur les communications et l’image de marque</h3>
 
+<p>Étant donné que les plans sur l’accessibilité des institutions sont estimés comme des publications officielles du gouvernement du Canada, une version PDF du plan sur l’accessibilité doit être incluse dans le <a href="file:///C:\Users\pesmith\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\V7FJNF2X\publications.gc.ca">catalogue</a>.</p>
 
-<p>
-Étant donné que les plans sur l’accessibilité des institutions sont estimés comme des publications officielles du gouvernement du Canada, une version PDF du plan sur l’accessibilité doit être incluse dans le <a href="file:///C:\Users\pesmith\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\V7FJNF2X\publications.gc.ca">catalogue</a>. 
-</p>
-<p>
-Suivez ces étapes :
-</p>
+<p>Suivez ces étapes :</p>
 <ol>
-
-<li>Obtenir un ISSN auprès de Bibliothèque et Archives Canada :<br><a href="https://bibliotheque-archives.canada.ca/fra/services/editeurs/issn/Pages/issn.aspx">Numéro international normalisé des publications en série (ISSN)</a>
-
-<li>Obtenir un numéro de catalogue du GC auprès de SPAC :<br><a href="about:blank">Numéros de catalogue – Publications du gouvernement du Canada</a>
-
-<li>Mettez les deux numéros dans vos plans sur l’accessibilité, conformément aux directives de SPAC sur les pages sur le droit d’auteur :<br><a href="https://publications.gc.ca/site/fra/services/formePageDroitAuteur.html">Mise en forme de la page sur le droit d’auteur</a><span style="text-decoration:underline;"> </span>
-
-<li>Soumettre à SPAC pour affichage sur publications.gc.ca par courriel :<br><a href="mailto:publications.acquisitions@pwgsc.gc.ca">publications.acquisitions@pwgsc.gc.ca</a><span style="text-decoration:underline;"> </span>
-</li>
+<li>Obtenir un ISSN auprès de Bibliothèque et Archives Canada :<br>
+  <a href="https://bibliotheque-archives.canada.ca/fra/services/editeurs/issn/Pages/issn.aspx">Numéro international normalisé des publications en série (ISSN)</a></li>
+<li>Obtenir un numéro de catalogue du GC auprès de SPAC :<br>
+  <a href="about:blank">Numéros de catalogue – Publications du gouvernement du Canada</a></li>
+<li>Mettez les deux numéros dans vos plans sur l’accessibilité, conformément aux directives de SPAC sur les pages sur le droit d’auteur :<br>
+  <a href="https://publications.gc.ca/site/fra/services/formePageDroitAuteur.html">Mise en forme de la page sur le droit d’auteur</a></li>
+<li>Soumettre à SPAC pour affichage sur publications.gc.ca par courriel :<br>
+  <a href="mailto:publications.acquisitions@pwgsc.gc.ca">publications.acquisitions@pwgsc.gc.ca</a></li>
 </ol>
-<p>
-<strong>Conseil</strong> : étant donné le thème du plan sur l’accessibilité, préparez un <a href="https://helpx.adobe.com/ca_fr/acrobat/using/creating-accessible-pdfs.html">PDF accessible</a>.
-</p>
+
+<p><strong>Conseil</strong> : étant donné le thème du plan sur l’accessibilité, préparez un <a href="https://helpx.adobe.com/ca_fr/acrobat/using/creating-accessible-pdfs.html">PDF accessible</a>.</p>
+
 <h3>Créez un dossier de métadonnées sur open.canada.ca</h3>
 
 
