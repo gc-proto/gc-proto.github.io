@@ -105,7 +105,7 @@ title: Accessibility templates - Documentation
 </figure>
   <p><a href="plan.html">Working examples - Accessibility plan</a></p>
   <h4>Design considerations</h4>
-<p>Ensure the plan meets the requirements outlined in Guidance on accessibility plans:</p>
+<p>Ensure the plan meets the requirements outlined in <a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance/accessibility-plans.html">Guidance on accessibility plans</a>:</p>
 <ul>
   <li>This guidance includes a content template for the plan itself</li>
 </ul>
