@@ -7,7 +7,7 @@ dateModified: 2022-12-09
 description: Documentation for the templates for an institution’s Accessibility plan and feedback section. 
 title: Accessibility templates - Documentation
 ---
-<h1 property="name" id="wb-cont" dir="ltr">Documentation - Accessibility templates</h1>
+<h1 property="name" id="wb-cont" dir="ltr">Accessibility templates - Documentation</h1>
 <h2>On this page</h2>
 <ul>
   <li><a href="#context">Context</a></li>
