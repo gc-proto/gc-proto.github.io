@@ -32,9 +32,9 @@ Trois modèles qui ont une incidence sur les institutions sur Canada.ca :</p>
 </ul>
 <p>Ceux-ci découlent des exigences de la Loi canadienne sur l’accessibilité et de son Règlement d’application.</p>
 <ul>
-  <li><a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite.html">Aperçu des orientations existantes</a></li>
+  <li><a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite.html">Lignes directrices sur le Règlement canadien sur l'accessibilité</a></li>
 </ul>
-<p><strong>Date limite de publication :</strong> 31 décembre 2022</p>
+<p><b>Date limite de publication :</b> 31 décembre 2022</p>
 
 <h3>Qu'est-ce qu'un plan sur l’accessibilité?</h3>
 
