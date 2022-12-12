@@ -125,6 +125,7 @@ title: Accessibility templates - Documentation
   <ul>
     <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
     <li>Include a link or URL for the plan in the email you send</li>
+  </ul>
     <h3>Accessibility feedback form</h3>
     <h4>Recommended template – feedback form<h4>
       <figure class="gc-complex-img" role="group">
