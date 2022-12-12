@@ -7,7 +7,9 @@ dateModified: 2022-12-09
 description: Documentation pour les modèles de plan d'accessibilité et de section de rétroaction d'une institution. 
 title: Modèles d’accessibilité - Documentation
 ---
+
 <h1 property="name" id="wb-cont" dir="ltr">Modèles d’accessibilité - Documentation</h1>
+<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Modèles d’accessibilité - Documentation</span>: <span>Système de conception de Canada.ca</span></span></h1>
 
 <h2>Sur cette page</h2>
 <ul>
