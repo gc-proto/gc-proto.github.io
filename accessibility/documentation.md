@@ -108,9 +108,9 @@ title: Accessibility templates - Documentation
 <p>Ensure the plan meets the requirements outlined in Guidance on accessibility plans:</p>
 <ul>
   <li>This guidance includes a content template for the plan itself</li>
-<ul>
+</ul>
 <p>People are encouraged to provide feedback on accessibility plans - ensure there is a link to the feedback process and/or feedback form from within the plan itself.</p>
-<p>To ist with findability, TBS is creating a central index for accessibility plans on the <a href="https://open.canada.ca/">Open government site</a>:</p>
+<p>To assist with findability, TBS is creating a central index for accessibility plans on the <a href="https://open.canada.ca/">Open government site</a>:</p>
   <ul>
     <li>Include a link from your plan to the central index</li>
     <li>Submit a metadata record for your plan</li>
