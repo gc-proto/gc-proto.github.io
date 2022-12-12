@@ -22,152 +22,102 @@ title: Modèles d’accessibilité - Documentation
 
 <h3>Trois modèles clés</h3>
 
-
 <p>
-Trois modèles qui ont une incidence sur les institutions sur Canada.ca :
-</p>
+Trois modèles qui ont une incidence sur les institutions sur Canada.ca :</p>
 <ul>
-
   <li>Plan sur l’accessibilité de l’institution</li>
-
   <li>Description du processus de rétroaction sur l’accessibilité de l’institution</li>
-
   <li>Mécanisme de rétroaction sur l’accessibilité de l’institution</li>
 </ul>
-<p>
-Ceux-ci découlent des exigences de la Loi canadienne sur l’accessibilité et de son Règlement d’application. <a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite.html">Aperçu des orientations existantes</a>
-</p>
-<p>
-<strong>Date limite de publication :</strong> 31 décembre 2022
-</p>
+<p>Ceux-ci découlent des exigences de la Loi canadienne sur l’accessibilité et de son Règlement d’application.</p>
+<ul>
+  <li><a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite.html">Aperçu des orientations existantes</a></li>
+</ul>
+<p><strong>Date limite de publication :</strong> 31 décembre 2022</p>
+
 <h3>Qu'est-ce qu'un plan sur l’accessibilité?</h3>
 
+<p>Un document qui décrit le plan d’une institution concernant l’accessibilité de tous ses programmes, produits et services. Offre une vue d’ensemble de l’accessibilité, de ce qui se trouve en ligne à « la vraie vie », à la fois publique et interne.</p>
 
-<p>
-Un document qui décrit le plan d’une institution concernant l’accessibilité de tous ses programmes, produits et services. Offre une vue d’ensemble de l’accessibilité, de ce qui se trouve en ligne à « la vraie vie », à la fois publique et interne.
-</p>
-<ul>
+<p>Le plan sur l’accessibilité est le premier livrable d’un cycle de planification et de rapport de trois ans (rapports d’étape annuels à venir).</p>
 
-<li>Le plan sur l’accessibilité est le premier livrable d’un cycle de planification et de rapport de trois ans (rapports d’étape annuels à venir).
-</li>
-</ul>
-<p>
-
-</p>
 <h3>Qu'est-ce qu'une description du processus de rétroaction sur l’accessibilité?</h3>
 
+<p>Une description publiée du fonctionnement de votre processus de rétroaction de votre institution. Il doit être publié avec votre plan sur l’accessibilité. </p>
 
-<p>
-Une description publiée du fonctionnement de votre processus de rétroaction de votre institution. Il doit être publié avec votre plan sur l’accessibilité. 
-</p>
 <h3>Qu'est-ce qu'un mécanisme de rétroaction sur l’accessibilité?</h3>
 
+<p>Un moyen pour les utilisateurs des programmes et services d’un établissement de fournir une rétroaction sur tout aspect de l’accessibilité de ses programmes et services. Le mécanisme de rétroaction doit être toujours disponible, car les processus de rétroaction sont censés être continus.</p>
 
-<p>
-Un moyen pour les utilisateurs des programmes et services d’un établissement de fournir une rétroaction sur tout aspect de l’accessibilité de ses programmes et services. Le mécanisme de rétroaction doit être toujours disponible, car les processus de rétroaction sont censés être continus.
-</p>
-<ul>
+<p>Un formulaire en ligne n’est qu’un aspect du mécanisme de rétroaction, car les personnes doivent pouvoir donner leur avis par divers moyens.</p>
 
-<li>Un formulaire en ligne n’est qu’un aspect du mécanisme de rétroaction, car les personnes doivent pouvoir donner leur avis par divers moyens.
-</li>
-</ul>
 <h2 id="approche">Approche recommandée</h2>
 
-
-<p>
-Les exemples suivants représentent l’approche recommandée – ce ne sont pas des modèles obligatoires.
-</p>
+<p>Les exemples suivants représentent l’approche recommandée – ce ne sont pas des modèles obligatoires.</p>
 <ul>
-
-<li>Point de départ – ajustez au besoin pour votre situation particulière.
-
-<li>Conçu pour la simplicité et axé sur les principales tâches de l’utilisateur, telles que fournir une rétroaction, examiner le plan et comprendre le processus.
-
-<li>Élaboré avec des éléments de code de la Boîte à outils de l’expérience Web (BOEW) normalisés afin de maximiser la conformité à WCAG.
-</li>
+  <li>Point de départ – ajustez au besoin pour votre situation particulière.</li>
+<li>Conçu pour la simplicité et axé sur les principales tâches de l’utilisateur, telles que fournir une rétroaction, examiner le plan et comprendre le processus.</li>
+  <li>Élaboré avec des éléments de code de la Boîte à outils de l’expérience Web (BOEW) normalisés afin de maximiser la conformité à WCAG.</li>
 </ul>
-<h3>Structure de l’information</h3>
 
+<h3>Structure de l’information</h3>
 
 <h4>Architecture d'information recommandée pour les sites web institutionnels</h4>
 
+<figure class="gc-complex-img" role="group">
+  <img src=" " alt="Une longue description peut être trouvée après l'image.">
+  <figcaption><details>
+    <summary>Description détaillée</summary>
+    <p>Diagramme de la structure recommandée d'un site web. Première rangée en haut : Page de d'accueil de l'institution (PAI)
+Deuxième rangée : Page d'accessibilité. Troisième rangée en bas, 3 éléments : Plan sur l'accessibilité, mécanisme de rétroaction, description du processus de rétroaction.</p>
+    </details></figcaption>
+</figure>
 
-<p>
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
-
-</p>
-<p>
-
-</p>
 <h4>Lien vers l’accessibilité à partir de la Page d’accueil de l’institution (PAI)</h4>
 
+<p>Le libellé de lien recommandé est « Accessibilité »</p>
 
-<p>
-Le libellé de lien recommandé est « Accessibilité »
-</p>
-<p>
+<figure class="gc-complex-img" role="group">
+  <img src=" " alt="Une longue description peut être trouvée après l'image.">
+  <figcaption><details>
+    <summary>Description détaillée</summary>
+    <p>Capture d'écran du site Web public d'Agriculture et Agroalimentaire Canada. Sous la rubrique " À propos d'AAC ", vous trouverez quatre liens : À propos de notre ministère, Transparence, Accessibilité, Opportunités d'emploi.</p>
+    </details></figcaption>
+</figure>
 
+<p>Exemple tiré de la <a href="https://agriculture.canada.ca/fr">page d’accueil institutionnelle d’Agriculture et Agroalimentaire Canada (AAC)</a></p>
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
-
-</p>
-<p>
-Exemple tiré de la <a href="https://agriculture.canada.ca/fr">page d’accueil institutionnelle d’Agriculture et Agroalimentaire Canada (AAC)</a>
-</p>
 <h4>Fil d’Ariane pour les produits d’accessibilité</h4>
 
+<figure class="gc-complex-img" role="group">
+  <img src=" " alt="Une longue description peut être trouvée après l'image.">
+  <figcaption><details>
+    <summary>Description détaillée</summary>
+    <p>Capture d'écran du site web du gouvernement du Canada. Les fils d'Ariane sont : Canada.ca, Nom de l'institution, Accessibilité à 'Nom de l'institution'.</p>
+    </details></figcaption>
+</figure>
 
-<p>
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image3.png" width="" alt="alt_text" title="image_tooltip">
-
-</p>
-<p>
-
-</p>
 <h4>Facteurs de conception</h4>
 
-
-<p>
-Bien que le BTN recommande de créer un nœud d’accessibilité dans l’AI de votre institution, il peut également être judicieux de créer des liens croisés à partir d’autres endroits sur vos sites, tels que :
-</p>
+<p>Bien que le BTN recommande de créer un nœud d’accessibilité dans l’AI de votre institution, il peut également être judicieux de créer des liens croisés à partir d’autres endroits sur vos sites, tels que :</p>
 <ul>
-
-<li>Lien vers le plan sur l’accessibilité à partir d’une section « Rapports et plans ».
-
-<li>Lien vers le formulaire de rétroaction sur l’accessibilité à partir de vos pages « Contactez-nous »
-</li>
+  <li>Lien vers le plan sur l’accessibilité à partir d’une section « Rapports et plans ».</li>
+<li>Lien vers le formulaire de rétroaction sur l’accessibilité à partir de vos pages « Contactez-nous »</li>
 </ul>
-<h3>Page d’accessibilité de l’institution </h3>
 
+<h3>Page d’accessibilité de l’institution </h3>
 
 <h4>Modèle recommandé</h4>
 
+<figure class="gc-complex-img" role="group">
+  <img src=" " alt="Une longue description peut être trouvée après l'image.">
+  <figcaption><details>
+    <summary>Description détaillée</summary>
+    <p>Capture d'écran du site Web du gouvernement du Canada intitulé "Accessibilité à nom de l'institution". Il y a un bouton vert intitulé "Fournir une rétroaction", puis deux liens : Plan sur l'accessibilité et Processus de rétroaction.</p>
+    </details></figcaption>
+</figure>
 
-<p>
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image4.png" width="" alt="alt_text" title="image_tooltip">
-
-</p>
-<p>
-<a href="https://test.canada.ca/accessibilite/">Exemples - Page d’accessibilité de l’institution</a>
-</p>
+<p><a href="accessibilite.html">Exemples - Page d’accessibilité de l’institution</a></p>
 <h4>Facteurs de conception</h4>
 
 
