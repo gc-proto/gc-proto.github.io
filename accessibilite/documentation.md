@@ -7,29 +7,17 @@ dateModified: 2022-12-09
 description: Documentation pour les modèles de plan d'accessibilité et de section de rétroaction d'une institution. 
 title: Modèles d’accessibilité - Documentation
 ---
-<!-- Output copied to clipboard! -->
+<h1 property="name" id="wb-cont" dir="ltr">Modèles d’accessibilité - Documentation</h1>
 
-<!-- You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
-* ERRORs: 0
-* WARNINGs: 0
-* ALERTS: 8 -->
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 8.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-<h2>Contexte</h2>
+<h2>Sur cette page</h2>
+<ul>
+  <li><a href="#contexte">Contexte</a></li>
+  <li><a href="#approche">Approche recommandée</a></li>
+  <li><a href="#prochaine">Prochaines étapes</a></li>
+  <li><a href="#annexe">Annexe</a></li>
+  </ul> 
+  
+<h2 id="contexte">Contexte</h2>
 
 
 <h3>Trois modèles clés</h3>
@@ -40,12 +28,11 @@ Trois modèles qui ont une incidence sur les institutions sur Canada.ca :
 </p>
 <ul>
 
-<li>Plan sur l’accessibilité de l’institution
+  <li>Plan sur l’accessibilité de l’institution</li>
 
-<li>Description du processus de rétroaction sur l’accessibilité de l’institution
+  <li>Description du processus de rétroaction sur l’accessibilité de l’institution</li>
 
-<li>Mécanisme de rétroaction sur l’accessibilité de l’institution
-</li>
+  <li>Mécanisme de rétroaction sur l’accessibilité de l’institution</li>
 </ul>
 <p>
 Ceux-ci découlent des exigences de la Loi canadienne sur l’accessibilité et de son Règlement d’application. <a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite.html">Aperçu des orientations existantes</a>
@@ -84,7 +71,7 @@ Un moyen pour les utilisateurs des programmes et services d’un établissement 
 <li>Un formulaire en ligne n’est qu’un aspect du mécanisme de rétroaction, car les personnes doivent pouvoir donner leur avis par divers moyens.
 </li>
 </ul>
-<h2>Approche recommandée</h2>
+<h2 id="approche">Approche recommandée</h2>
 
 
 <p>
