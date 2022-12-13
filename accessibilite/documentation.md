@@ -66,7 +66,7 @@ Trois modèles qui ont une incidence sur les institutions sur Canada.ca :</p>
 <h4>Architecture d'information recommandée pour les sites web institutionnels</h4>
 
 <figure class="gc-complex-img" role="group">
-  <img src=" " alt="Une longue description peut être trouvée après l'image.">
+  <img src="../assets/img/structure-info-fr.png" class="img-responsive" alt="Une longue description peut être trouvée après l'image.">
   <figcaption><details>
     <summary>Description détaillée</summary>
     <p>Diagramme de la structure recommandée d'un site web. Première rangée en haut : Page de d'accueil de l'institution (PAI)
@@ -79,7 +79,7 @@ Deuxième rangée : Page d'accessibilité. Troisième rangée en bas, 3 élémen
 <p>Le libellé de lien recommandé est « Accessibilité »</p>
 
 <figure class="gc-complex-img" role="group">
-  <img src=" " alt="Une longue description peut être trouvée après l'image.">
+  <img src="../assets/img/lien-accessibilite-fr.png" class="img-responsive" alt="Une longue description peut être trouvée après l'image.">
   <figcaption><details>
     <summary>Description détaillée</summary>
     <p>Capture d'écran du site Web public d'Agriculture et Agroalimentaire Canada. Sous la rubrique " À propos d'AAC ", vous trouverez quatre liens : À propos de notre ministère, Transparence, Accessibilité, Opportunités d'emploi.</p>
@@ -91,7 +91,7 @@ Deuxième rangée : Page d'accessibilité. Troisième rangée en bas, 3 élémen
 <h4>Fil d’Ariane pour les produits d’accessibilité</h4>
 
 <figure class="gc-complex-img" role="group">
-  <img src=" " alt="Une longue description peut être trouvée après l'image.">
+  <img src="../assets/img/fil-ariane-fr.png" class="img-responsive" alt="Une longue description peut être trouvée après l'image.">
   <figcaption><details>
     <summary>Description détaillée</summary>
     <p>Capture d'écran du site web du gouvernement du Canada. Les fils d'Ariane sont : Canada.ca, Nom de l'institution, Accessibilité à 'Nom de l'institution'.</p>
@@ -111,7 +111,7 @@ Deuxième rangée : Page d'accessibilité. Troisième rangée en bas, 3 élémen
 <h4>Modèle recommandé</h4>
 
 <figure class="gc-complex-img" role="group">
-  <img src=" " alt="Une longue description peut être trouvée après l'image.">
+  <img src="../assets/img/page-accueil-fr.png" class="img-responsive" alt="Une longue description peut être trouvée après l'image.">
   <figcaption><details>
     <summary>Description détaillée</summary>
     <p>Capture d'écran du site Web du gouvernement du Canada intitulé "Accessibilité à nom de l'institution". Il y a un bouton vert intitulé "Fournir une rétroaction", puis deux liens : Plan sur l'accessibilité et Processus de rétroaction.</p>
@@ -133,7 +133,7 @@ Deuxième rangée : Page d'accessibilité. Troisième rangée en bas, 3 élémen
 <h4>Modèle recommandé</h4>
 
 <figure class="gc-complex-img" role="group">
-  <img src=" " alt="Une longue description peut être trouvée après l'image.">
+  <img src="../assets/img/plan-fr.png" class="img-responsive" alt="Une longue description peut être trouvée après l'image.">
   <figcaption><details>
     <summary>Description détaillée</summary>
     <p>Capture d'écran du site Web du gouvernement du Canada intitulée "Plan sur l'accessibilité de l'institution" avec un lien vers un modèle de plan d'accessibilité. Sous ce lien se trouve un lien intitulé "Liste des plans d'accessibilité élaborés par d'autres institutions".</p>
@@ -175,7 +175,7 @@ Deuxième rangée : Page d'accessibilité. Troisième rangée en bas, 3 élémen
 <h4>Modèle recommandé – formulaire de rétroaction</h4>
 
 <figure class="gc-complex-img" role="group">
-  <img src=" " alt="Une longue description peut être trouvée après l'image.">
+  <img src="../assets/img/formulaire-retroaction-fr.png" class="img-responsive" alt="Une longue description peut être trouvée après l'image.">
   <figcaption><details>
     <summary>Description détaillée</summary>
     <p>Capture d'écran du site Web du gouvernement du Canada intitulé "Formulaire de rétroaction sur l'accessibilité". Exemple de question avec des boutons radio.</p>
@@ -187,7 +187,7 @@ Deuxième rangée : Page d'accessibilité. Troisième rangée en bas, 3 élémen
 <h4>Modèle recommandé – Page d’accusé de réception</h4>
 
 <figure class="gc-complex-img" role="group">
-  <img src=" " alt="Une longue description peut être trouvée après l'image.">
+  <img src="../assets/img/retroaction-soumission-fr.png" class="img-responsive" alt="Une longue description peut être trouvée après l'image.">
   <figcaption><details>
     <summary>Description détaillée</summary>
     <p>Capture d'écran du site Web du gouvernement du Canada intitulée "Votre rétroaction a été soumise". Nous vous remercions pour votre rétroaction.</p>
@@ -218,7 +218,7 @@ Deuxième rangée : Page d'accessibilité. Troisième rangée en bas, 3 élémen
 <h4>Modèle recommandé</h4>
 
 <figure class="gc-complex-img" role="group">
-  <img src=" " alt="Une longue description peut être trouvée après l'image.">
+  <img src="../assets/img/processus-retroaction-fr.png" class="img-responsive" alt="Une longue description peut être trouvée après l'image.">
   <figcaption><details>
     <summary>Description détaillée</summary>
     <p>Capture d'écran du site Web du gouvernement du Canada intitulé "Processus de rétroaction sur l'accessibilité à nom de l'institution". De nombreux liens sur la façon de fournir de la rétroaction.</p>
