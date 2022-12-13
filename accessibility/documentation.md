@@ -81,7 +81,7 @@ title: Accessibility templates - Documentation
 <p>Recommended link label is "Accessibility"</p>
 
 <figure class="gc-complex-img" role="group">
-  <img src="../assets/img/accessibility-link.png" class="img-responsive" alt="A long description can be found after the image">
+  <img src="../assets/img/accessibility-link-en.png" class="img-responsive" alt="A long description can be found after the image">
   <figcaption><details>
     <summary>Detailed description</summary>
     <p>Screenshot of Agriculture and Agri-Food Canada's public facing website. Under 'About AAFC', you can find 4 links: About our department, Transparency, Accessibility, Job opportunities.</p>
@@ -93,7 +93,7 @@ title: Accessibility templates - Documentation
 <h4>Breadcrumb for accessibility products</h4>
 
 <figure class="gc-complex-img" role="group">
-  <img src=" " alt="A long description can be found after the image">
+  <img src="../assets/img/breadcrumb-en.png" alt="A long description can be found after the image">
   <figcaption><details>
     <summary>Detailed description</summary>
     <p>Screenshot of the Government of Canada's website. The breadcrumbs are: Canada.ca, Institution name, Accessibility at 'Institution name'</p>
