@@ -133,7 +133,7 @@ Deuxième rangée : Page d'accessibilité. Troisième rangée en bas, 3 élémen
 <h4>Modèle recommandé</h4>
 
 <figure class="gc-complex-img" role="group">
-  <img src="../assets/img/plan-fr.png" class="img-responsive" alt="Une longue description peut être trouvée après l'image.">
+  <img src="../assets/img/plan-accessibilite-fr.png" class="img-responsive" alt="Une longue description peut être trouvée après l'image.">
   <figcaption><details>
     <summary>Description détaillée</summary>
     <p>Capture d'écran du site Web du gouvernement du Canada intitulée "Plan sur l'accessibilité de l'institution" avec un lien vers un modèle de plan d'accessibilité. Sous ce lien se trouve un lien intitulé "Liste des plans d'accessibilité élaborés par d'autres institutions".</p>
