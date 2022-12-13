@@ -175,7 +175,7 @@ title: Accessibility templates - Documentation
 
 <h3>Accessibility feedback form</h3>
 
-<h4>Recommended template – feedback form<h4>
+<h4>Recommended template – feedback form</h4>
 
   <figure class="gc-complex-img" role="group">
   <img src="../assets/img/feedback-form-en.png" class="img-responsive" alt="A long description can be found after the image">
