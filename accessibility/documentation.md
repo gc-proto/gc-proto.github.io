@@ -69,7 +69,7 @@ title: Accessibility templates - Documentation
 <h4>Recommended information architecture for institutional websites</h4>
 
 <figure class="gc-complex-img" role="group">
-  <img src="../assets/img/hello.png" class="img-responsive" alt="A long description can be found after the image">
+  <img src="../assets/img/info-structure.png" class="img-responsive" alt="A long description can be found after the image">
   <figcaption><details>
     <summary>Detailed description</summary>
     <p>Diagram of recommended website structure. First row on top: Institutional landing page (ILP). Second row: Accessibility page. Third row at the bottom, 3 elements: Accessibility plan, Feedback mechanism, Description of feedback process</p>
