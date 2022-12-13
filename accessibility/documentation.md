@@ -69,7 +69,7 @@ title: Accessibility templates - Documentation
 <h4>Recommended information architecture for institutional websites</h4>
 
 <figure class="gc-complex-img" role="group">
-  <img src="../assets/img/hello.png" alt="A long description can be found after the image">
+  <img src="../assets/img/hello.png" class="img-responsive" alt="A long description can be found after the image">
   <figcaption><details>
     <summary>Detailed description</summary>
     <p>Diagram of recommended website structure. First row on top: Institutional landing page (ILP). Second row: Accessibility page. Third row at the bottom, 3 elements: Accessibility plan, Feedback mechanism, Description of feedback process</p>
@@ -81,7 +81,7 @@ title: Accessibility templates - Documentation
 <p>Recommended link label is "Accessibility"</p>
 
 <figure class="gc-complex-img" role="group">
-  <img src="../assets/img/accessibility-link.png" alt="A long description can be found after the image">
+  <img src="../assets/img/accessibility-link.png" class="img-responsive" alt="A long description can be found after the image">
   <figcaption><details>
     <summary>Detailed description</summary>
     <p>Screenshot of Agriculture and Agri-Food Canada's public facing website. Under 'About AAFC', you can find 4 links: About our department, Transparency, Accessibility, Job opportunities.</p>
