@@ -93,7 +93,7 @@ title: Accessibility templates - Documentation
 <h4>Breadcrumb for accessibility products</h4>
 
 <figure class="gc-complex-img" role="group">
-  <img src="../assets/img/breadcrumb-en.png" alt="A long description can be found after the image">
+  <img src="../assets/img/breadcrumb-en.png" class="img-responsive" alt="A long description can be found after the image">
   <figcaption><details>
     <summary>Detailed description</summary>
     <p>Screenshot of the Government of Canada's website. The breadcrumbs are: Canada.ca, Institution name, Accessibility at 'Institution name'</p>
@@ -113,7 +113,7 @@ title: Accessibility templates - Documentation
 <h4>Recommended template</h4>
 
 <figure class="gc-complex-img" role="group">
-  <img src=" " alt="A long description can be found after the image">
+  <img src="../assets/img/accessibility-landing-page-en.png" class="img-responsive" alt="A long description can be found after the image">
   <figcaption><details>
     <summary>Detailed description</summary>
     <p>Screenshot of the Government of Canada's website titled 'Accessibility at Institution name'. There is a green button named 'Provide feedback', then 2 links: Accessibility Plan and Feedback process.</p>
@@ -136,7 +136,7 @@ title: Accessibility templates - Documentation
 <h4>Recommended template</h4>
 
 <figure class="gc-complex-img" role="group">
-  <img src=" " alt="A long description can be found after the image">
+  <img src="../assets/img/accessibility-plan-en.png" class="img-responsive" alt="A long description can be found after the image">
   <figcaption><details>
     <summary>Detailed description</summary>
     <p>Screenshot of the Government of Canada's website titled 'Accessibility plan at Institution name' with a link to a Sample Accessibility Plan Template. Under it there is a link titled 'List of accessibility plans from other institutions'.</p>
@@ -178,7 +178,7 @@ title: Accessibility templates - Documentation
 <h4>Recommended template – feedback form<h4>
 
   <figure class="gc-complex-img" role="group">
-  <img src=" " alt="A long description can be found after the image">
+  <img src="../assets/img/feedback-form-en.png" class="img-responsive" alt="A long description can be found after the image">
   <figcaption><details>
     <summary>Detailed description</summary>
     <p>Screenshot of the Government of Canada's website titled 'Accessibility feedback form'. Example of question with radio buttons.</p>
@@ -190,7 +190,7 @@ title: Accessibility templates - Documentation
 <h4>Recommended template - acknowledgement page</h4>
 
 <figure class="gc-complex-img" role="group">
-  <img src=" " alt="A long description can be found after the image">
+  <img src="../assets/img/acknowledgement-en.png" class="img-responsive" alt="A long description can be found after the image">
   <figcaption><details>
     <summary>Detailed description</summary>
     <p>Screenshot of the Government of Canada's website titled 'Accessibility feedback form acknowledgement'. Thank you for your feedback.</p>
@@ -222,7 +222,7 @@ title: Accessibility templates - Documentation
 <h4>Recommended template</h4>
 
 <figure class="gc-complex-img" role="group">
-  <img src=" " alt="A long description can be found after the image">
+  <img src="../assets/img/feedback-process-en.png" class="img-responsive" alt="A long description can be found after the image">
   <figcaption><details>
     <summary>Detailed description</summary>
     <p>Screenshot of the Government of Canada's website titled 'Accessibility feedback process at institution name'. Many links how to provide feedback.</p>
