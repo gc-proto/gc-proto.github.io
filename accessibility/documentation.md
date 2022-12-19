@@ -22,7 +22,7 @@ title: Documentation for accessibility templates
   <li><a href="#annex">Annex</a></li>
 </ul>
 	</div></div>
-<div class="container-fluid gray-bg">
+<div class="container-fluid"><div class="gray-bg">
 <div class="container provisional">
 	<div class="row">
 		<h2 id="context">Context</h2>
@@ -60,7 +60,7 @@ title: Documentation for accessibility templates
 <p>The feedback mechanism must be always available, as feedback processes are meant to be ongoing.</p>
 
 <p>An online form is only one aspect of the feedback mechanism, as people must be able to give feedback by a variety of means.</p>
-</div></div>
+</div></div></div>
 <h2 id="approach">Recommended approach</h2>
 
 <p>The following working examples represent the recommended approach - not mandatory templates.<p>
