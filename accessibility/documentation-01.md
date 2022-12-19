@@ -156,7 +156,9 @@ title: Documentation for accessibility templates
     <ul>
       <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
       <li>Include a link or URL for the plan in the email you send</li>
-    </ul>
+    </ul></div></section><section class="container-fluid well well-sm brdr-0 mrgn-tp-0">
+  <div class="container">
+    <div class="row">
     <h3>Accessibility feedback form</h3>
     <h4>Recommended template – feedback form</h4>
     <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-form-en.png" class="img-responsive" alt="A long description can be found after the image">
@@ -192,9 +194,7 @@ title: Documentation for accessibility templates
     <p>When creating your own implementation, consult with your organization’s ATIP coordinator. </p>
   </div>
 </section>
-<section class="container-fluid well well-sm brdr-0 mrgn-tp-0">
-  <div class="container">
-    <div class="row">
+<section class="container"><div class="row">
       <h3>Accessibility feedback process description</h3>
       <h4>Recommended template</h4>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-process-en.png" class="img-responsive" alt="A long description can be found after the image">
@@ -218,9 +218,7 @@ title: Documentation for accessibility templates
         <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
         <li>Include a link or URL for the process description in the email you send</li>
       </ul>
-    </div>
-  </div>
-</section>
+    </div></section>
 <section class="container"><div class="row">
   <h2 id="next">Next steps - Maturing the working examples</h2>
   <p>These working examples are a first step:</p>
