@@ -20,18 +20,15 @@ title: Documentation for accessibility templates
   <li><a href="#approach">Recommended approach</a></li>
   <li><a href="#next">Next steps</a></li>
   <li><a href="#annex">Annex</a></li>
-</ul>
-	</div></div>
-	<div class="container-fluid"><div class="gray-bg">
-	<p>test</p>
-	</div>
+</ul></div></div>
+<div class="container-fluid"><div class="gray-bg"><p>test</p></div>
 	
-	<div class="container-fluid"><div class="gray-bg">
-<div class="container provisional">
+<div class="container-fluid"><div class="gray-bg">
+	<div class="container provisional">
 	<div class="row">
 		<h2 id="context">Context</h2>
-
-<h3>3 key design patterns</h3>
+		
+		<h3>3 key design patterns</h3>
 
 <p>3 patterns that impact institutions on Canada.ca:</p>
 <ul>
