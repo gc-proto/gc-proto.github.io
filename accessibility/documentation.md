@@ -50,6 +50,8 @@ title: Documentation for accessibility templates
     </div>
   </div>
 </section>
+<div class="container">
+  <div class="row"> 
 <h2 id="approach">Recommended approach</h2>
 <p>The following working examples represent the recommended approach - not mandatory templates.</p>
 <ul>
@@ -207,6 +209,7 @@ title: Documentation for accessibility templates
   <li>As departments and agencies implement, provide comments and feedback to dto.btn@tbs-sct.gc.ca</li>
   <li>Will integrate to the pattern and template library</li>
 </ul>
+  </div></div>    
 <h2 id="annex">Annex - Publishing plans</h2>
 <h3>Procedures for publishing under the Policy on Communications and Federal Identity</h3>
 <p>Since institutional accessibility plans are considered official publications of the Government of Canada, a PDF version of the accessibility plan needs to be included in the <a href="https://publications.gc.ca">catalogue at publications.gc.ca</a>.</p>
