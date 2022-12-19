@@ -18,10 +18,7 @@ title: Accessibility templates - Documentation
   <li><a href="#next">Next steps</a></li>
   <li><a href="#annex">Annex</a></li>
 </ul>
-
-
-	<!-- remove 'mrgn-tp-0' class if you are not using an image -->
-			<section class="provisional most-requested-bullets well well-sm brdr-0 mrgn-tp-0" >
+<section class="provisional most-requested-bullets well well-sm brdr-0 mrgn-tp-0" >
 				<div class="container">
 					<div class="row">
 						<div class="pddng-r-0 col-md-2">
