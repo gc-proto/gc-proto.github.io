@@ -4,7 +4,7 @@ breadcrumbs:
 - title: Canada.ca design system
   link: https://www.canada.ca/en/government/about/design-system.html
 css:
-- /assets/css/styles.css
+- ../assets/css/styles.css
 dateModified: 2022-12-09
 description: Documentation for the templates for an institution’s Accessibility plan and feedback section.
 layout: fluid
@@ -15,7 +15,6 @@ title: Documentation for accessibility templates
 <!--<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation for accessibility templates</span>: <span>Canada.ca design system</span></span></h1>-->
 
 <h2>On this page</h2>
-
 <ul>
   <li><a href="#context">Context</a></li>
   <li><a href="#approach">Recommended approach</a></li>
