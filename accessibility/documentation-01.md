@@ -16,6 +16,9 @@ title: Documentation for accessibility templates
     </div></section>-->
 <section class="container">
   <div class="row">
+    <p>Government departments, agencies and Crown corporations are required to publish an accessibility plan, a feedback process and a feedback mechanism on their websites.</p>
+    <p>These templates are designed to help departments implement these requirements in a consistent way.</p> 
+<p>The approach and instructions here were presented in November to support web managers implementing these changes.</p>
     <h2>On this page</h2>
     <ul>
       <li><a href="#context">Context</a></li>
