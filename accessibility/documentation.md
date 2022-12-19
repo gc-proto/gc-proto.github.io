@@ -21,8 +21,8 @@ title: Documentation for accessibility templates
   <li><a href="#annex">Annex</a></li>
 </ul>
 	</div></div>
-<div class="container-fluid">
-<div class="well well-sm">	
+<div class="container-fluid provisional">
+<div class="container">
 	<div class="row">
 		<h2 id="context">Context</h2>
 
