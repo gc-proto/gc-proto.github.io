@@ -49,18 +49,15 @@ title: Documentation for accessibility templates
       <p>A means for the users of an institution's programs and services to provide feedback about any aspect of the accessibility of its programs and services.</p>
       <p>The feedback mechanism must be always available, as feedback processes are meant to be ongoing.</p>
       <p>An online form is only one aspect of the feedback mechanism, as people must be able to give feedback by a variety of means.</p></div></section>
-<section class="container">
-  <div class="row">
-    <h2 id="approach">Recommended approach</h2>
+      <section class="container"><div class="row">
+  <h2 id="approach">Recommended approach</h2>
     <p>The following working examples represent the recommended approach - not mandatory templates.</p>
     <ul>
       <li>Starting point - adjust as needed for your situation</li>
       <li>Designed for simplicity and with a focus on top user tasks like providing feedback, reviewing the plan, and understanding the process</li>
       <li>Built with standard WET code elements to maximize WCAG conformance</li>
     </ul></div></section>
-    <section class="container-fluid well well-sm brdr-0 mrgn-tp-0">
-  <div class="container">
-    <div class="row">
+    <section class="container-fluid well well-sm brdr-0 mrgn-tp-0"><div class="container"><div class="row">
     <h3>Information structure and navigation</h3>
     <h4>Recommended information architecture for institutional websites</h4>
     <figure class="gc-complex-img" role="group"> <img src="../assets/img/info-structure-en.png" class="img-responsive" alt="A long description can be found after the image">
@@ -184,8 +181,8 @@ title: Documentation for accessibility templates
     </ul>
     <p>When creating your own implementation, consult with your organization’s ATIP coordinator. </p>
   </div></section>
-    
-    <h3>Accessibility feedback process description</h3>
+  <section class="container-fluid well well-sm brdr-0 mrgn-tp-0"><div class="container"><div class="row">
+  <h3>Accessibility feedback process description</h3>
     <h4>Recommended template</h4>
     <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-process-en.png" class="img-responsive" alt="A long description can be found after the image">
       <figcaption>
@@ -208,11 +205,8 @@ title: Documentation for accessibility templates
       <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
       <li>Include a link or URL for the process description in the email you send</li>
     </ul>
-  </div>
-</section>
-<section class="container-fluid well well-sm brdr-0 mrgn-tp-0">
-  <div class="container">
-    <div class="row">
+  </div></div>
+</section><section class="container><div class="row">
       <h2 id="next">Next steps - Maturing the working examples</h2>
       <p>These working examples are a first step:</p>
       <ul>
@@ -221,7 +215,6 @@ title: Documentation for accessibility templates
         <li>Will integrate to the pattern and template library</li>
       </ul>
     </div>
-  </div>
 </section>
 <section class="container">
   <div class="row">
