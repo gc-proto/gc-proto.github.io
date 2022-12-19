@@ -1,2 +1,4 @@
 /* No styles here yet */
-gray-bg: #DCDAD6;
+.gray-bg: {
+  background-color: #DCDAD6;
+}
