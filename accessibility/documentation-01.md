@@ -25,10 +25,9 @@ title: Documentation for accessibility templates
     </ul>
   </div>
 </section>
-<section class="container-fluid well well-sm brdr-0 mrgn-tp-0">
-  <div class="container">
-    <div class="row">
-      <h2 id="context">Context</h2>
+<section class="container">
+  <div class="row">
+  <h2 id="context">Context</h2>
       <h3>3 key design patterns</h3>
       <p>3 patterns that impact institutions on Canada.ca:</p>
       <ul>
@@ -49,10 +48,7 @@ title: Documentation for accessibility templates
       <h3>What is the accessibility feedback mechanism?</h3>
       <p>A means for the users of an institution's programs and services to provide feedback about any aspect of the accessibility of its programs and services.</p>
       <p>The feedback mechanism must be always available, as feedback processes are meant to be ongoing.</p>
-      <p>An online form is only one aspect of the feedback mechanism, as people must be able to give feedback by a variety of means.</p>
-    </div>
-  </div>
-</section>
+      <p>An online form is only one aspect of the feedback mechanism, as people must be able to give feedback by a variety of means.</p></div></section>
 <section class="container">
   <div class="row">
     <h2 id="approach">Recommended approach</h2>
@@ -61,7 +57,10 @@ title: Documentation for accessibility templates
       <li>Starting point - adjust as needed for your situation</li>
       <li>Designed for simplicity and with a focus on top user tasks like providing feedback, reviewing the plan, and understanding the process</li>
       <li>Built with standard WET code elements to maximize WCAG conformance</li>
-    </ul>
+    </ul></div></section>
+    <section class="container-fluid well well-sm brdr-0 mrgn-tp-0">
+  <div class="container">
+    <div class="row">
     <h3>Information structure and navigation</h3>
     <h4>Recommended information architecture for institutional websites</h4>
     <figure class="gc-complex-img" role="group"> <img src="../assets/img/info-structure-en.png" class="img-responsive" alt="A long description can be found after the image">
@@ -97,7 +96,7 @@ title: Documentation for accessibility templates
     <ul>
       <li>Linking to the accessibility plan from a “Reports and plans” section</li>
       <li>Linking to the accessibility feedback form from your “Contact us” pages</li>
-    </ul>
+      </ul>
     <h3>Institutional accessibility page</h3>
     <h4>Recommended template</h4>
     <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-landing-page-en.png" class="img-responsive" alt="A long description can be found after the image">
@@ -115,7 +114,9 @@ title: Documentation for accessibility templates
       <li>Additional doormats can be added as needed</li>
       <li>Other patterns can be used as well on this page (e.g. Most requested band, contextual features)</li>
       <li>Design will likely evolve as future requirements come online, e.g. accessibility statements required under the <a href="https://a11y.canada.ca/en/standards/">proposed ICT accessibility standard</a></li>
-    </ul>
+    </ul></div></div></section>
+    <section class="container">
+  <div class="row">
     <h3>Accessibility plan</h3>
     <h4>Recommended template</h4>
     <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-plan-en.png" class="img-responsive" alt="A long description can be found after the image">
@@ -182,6 +183,8 @@ title: Documentation for accessibility templates
       <li>Includes instructions for users to not include PII in the comment box</li>
     </ul>
     <p>When creating your own implementation, consult with your organization’s ATIP coordinator. </p>
+  </div></section>
+    
     <h3>Accessibility feedback process description</h3>
     <h4>Recommended template</h4>
     <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-process-en.png" class="img-responsive" alt="A long description can be found after the image">
