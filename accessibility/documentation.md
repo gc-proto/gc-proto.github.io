@@ -6,10 +6,10 @@ breadcrumbs:
 dateModified: 2022-12-09
 description: Documentation for the templates for an institution’s Accessibility plan and feedback section.
 layout: fluid
-title: Documentation fo accessibility templates
+title: Documentation for accessibility templates
 ---
 
-<!--<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Accessibility templates - Documentation</span>: <span>Canada.ca design system</span></span></h1>-->
+<!--<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation for accessibility templates</span>: <span>Canada.ca design system</span></span></h1>-->
 
 <h2>On this page</h2>
 
@@ -20,12 +20,9 @@ title: Documentation fo accessibility templates
   <li><a href="#annex">Annex</a></li>
 </ul>
 
-<div class="container-fluid">
+<div class="container">
 	<div class="row">
-		<section class="provisional most-requested-bullets well well-sm brdr-0 mrgn-tp-0" >
-	<p>test</p>
-		</section></div></div>
-<h2 id="context">Context</h2>
+		<h2 id="context">Context</h2>
 
 <h3>3 key design patterns</h3>
 
@@ -60,7 +57,7 @@ title: Documentation fo accessibility templates
 <p>The feedback mechanism must be always available, as feedback processes are meant to be ongoing.</p>
 
 <p>An online form is only one aspect of the feedback mechanism, as people must be able to give feedback by a variety of means.</p>
-
+</div></div>
 <h2 id="approach">Recommended approach</h2>
 
 <p>The following working examples represent the recommended approach - not mandatory templates.<p>
