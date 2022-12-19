@@ -156,75 +156,84 @@ title: Documentation for accessibility templates
     <ul>
       <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
       <li>Include a link or URL for the plan in the email you send</li>
-    </ul></div></section><section class="container-fluid well well-sm brdr-0 mrgn-tp-0">
+    </ul>
+  </div>
+</section>
+<section class="container-fluid well well-sm brdr-0 mrgn-tp-0">
   <div class="container">
     <div class="row">
-    <h3>Accessibility feedback form</h3>
-    <h4>Recommended template – feedback form</h4>
-    <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-form-en.png" class="img-responsive" alt="A long description can be found after the image">
-      <figcaption>
-        <details>
-          <summary>Detailed description</summary>
-          <p>Screenshot of the Government of Canada's website titled 'Accessibility feedback form'. Example of question with radio buttons.</p>
-        </details>
-      </figcaption>
-    </figure>
-    <p><a href="feedback-form.html">Working examples - Accessibility feedback form</a></p>
-    <h4>Recommended template - acknowledgement page</h4>
-    <figure class="gc-complex-img" role="group"> <img src="../assets/img/acknowledgement-en.png" class="img-responsive" alt="A long description can be found after the image">
-      <figcaption>
-        <details>
-          <summary>Detailed description</summary>
-          <p>Screenshot of the Government of Canada's website titled 'Accessibility feedback form acknowledgement'. Thank you for your feedback.</p>
-        </details>
-      </figcaption>
-    </figure>
-    <p><a href="feedback-acknowledgement.html">Working examples - Acknowledgement page</a></p>
-    <h4>Design considerations</h4>
-    <p>You will need to hook the intake form up to something - a generic email, a ticketing system, etc. (remember to keep incoming feedback for 7 years!)</p>
-    <ul>
-      <li>AEM users - send a ticket to Principal Publisher to leverage the “file and forget” solution for hooking forms up to an email address</li>
-    </ul>
-    <p>People submitting feedback have the option to request a response - form design includes information on turnaround times in this scenario.</p>
-    <p>Form has been designed to minimize the collection of personally identifiable information (PII):</p>
-    <ul>
-      <li>When the user specifically requests a response, it only asks for an email address</li>
-      <li>Includes instructions for users to not include PII in the comment box</li>
-    </ul>
-    <p>When creating your own implementation, consult with your organization’s ATIP coordinator. </p>
-  </div></div></section><section class="container"><div class="row">
-      <h3>Accessibility feedback process description</h3>
-      <h4>Recommended template</h4>
-      <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-process-en.png" class="img-responsive" alt="A long description can be found after the image">
+      <h3>Accessibility feedback form</h3>
+      <h4>Recommended template – feedback form</h4>
+      <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-form-en.png" class="img-responsive" alt="A long description can be found after the image">
         <figcaption>
           <details>
             <summary>Detailed description</summary>
-            <p>Screenshot of the Government of Canada's website titled 'Accessibility feedback process at institution name'. Many links how to provide feedback.</p>
+            <p>Screenshot of the Government of Canada's website titled 'Accessibility feedback form'. Example of question with radio buttons.</p>
           </details>
         </figcaption>
       </figure>
-      <p><a href="feedback-process.html">Working examples - Accessibility feedback process description</a></p>
+      <p><a href="feedback-form.html">Working examples - Accessibility feedback form</a></p>
+      <h4>Recommended template - acknowledgement page</h4>
+      <figure class="gc-complex-img" role="group"> <img src="../assets/img/acknowledgement-en.png" class="img-responsive" alt="A long description can be found after the image">
+        <figcaption>
+          <details>
+            <summary>Detailed description</summary>
+            <p>Screenshot of the Government of Canada's website titled 'Accessibility feedback form acknowledgement'. Thank you for your feedback.</p>
+          </details>
+        </figcaption>
+      </figure>
+      <p><a href="feedback-acknowledgement.html">Working examples - Acknowledgement page</a></p>
       <h4>Design considerations</h4>
-      <p>Designed to focus on top-of-mind user needs, rather than providing an exhaustive description of back-office procedures.</p>
-      <p>Ensure the underlying process meets the requirements outlined in Guidance on feedback processes:</p>
+      <p>You will need to hook the intake form up to something - a generic email, a ticketing system, etc. (remember to keep incoming feedback for 7 years!)</p>
       <ul>
-        <li>People must be able to provide feedback by a variety of means, including email, telephone, snail mail</li>
-        <li>Feedback must be analyzed and reported on in future</li>
+        <li>AEM users - send a ticket to Principal Publisher to leverage the “file and forget” solution for hooking forms up to an email address</li>
       </ul>
-      <p>As with accessibility plans, institutions must notify the Accessibility Commissioner at the Canadian Human Rights Commission within 48 hours of publishing their process description.</p>
+      <p>People submitting feedback have the option to request a response - form design includes information on turnaround times in this scenario.</p>
+      <p>Form has been designed to minimize the collection of personally identifiable information (PII):</p>
       <ul>
-        <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
-        <li>Include a link or URL for the process description in the email you send</li>
+        <li>When the user specifically requests a response, it only asks for an email address</li>
+        <li>Includes instructions for users to not include PII in the comment box</li>
       </ul>
-    </div></section>
-<section class="container"><div class="row">
-  <h2 id="next">Next steps - Maturing the working examples</h2>
-  <p>These working examples are a first step:</p>
-  <ul>
-    <li>Will monitor and iterate, based on data and evidence</li>
-    <li>As departments and agencies implement, provide comments and feedback to dto.btn@tbs-sct.gc.ca</li>
-    <li>Will integrate to the pattern and template library</li>
-  </ul>
+      <p>When creating your own implementation, consult with your organization’s ATIP coordinator. </p>
+    </div>
+  </div>
+</section>
+<section class="container">
+  <div class="row">
+    <h3>Accessibility feedback process description</h3>
+    <h4>Recommended template</h4>
+    <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-process-en.png" class="img-responsive" alt="A long description can be found after the image">
+      <figcaption>
+        <details>
+          <summary>Detailed description</summary>
+          <p>Screenshot of the Government of Canada's website titled 'Accessibility feedback process at institution name'. Many links how to provide feedback.</p>
+        </details>
+      </figcaption>
+    </figure>
+    <p><a href="feedback-process.html">Working examples - Accessibility feedback process description</a></p>
+    <h4>Design considerations</h4>
+    <p>Designed to focus on top-of-mind user needs, rather than providing an exhaustive description of back-office procedures.</p>
+    <p>Ensure the underlying process meets the requirements outlined in Guidance on feedback processes:</p>
+    <ul>
+      <li>People must be able to provide feedback by a variety of means, including email, telephone, snail mail</li>
+      <li>Feedback must be analyzed and reported on in future</li>
+    </ul>
+    <p>As with accessibility plans, institutions must notify the Accessibility Commissioner at the Canadian Human Rights Commission within 48 hours of publishing their process description.</p>
+    <ul>
+      <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
+      <li>Include a link or URL for the process description in the email you send</li>
+    </ul>
+  </div>
+</section>
+<section class="container">
+  <div class="row">
+    <h2 id="next">Next steps - Maturing the working examples</h2>
+    <p>These working examples are a first step:</p>
+    <ul>
+      <li>Will monitor and iterate, based on data and evidence</li>
+      <li>As departments and agencies implement, provide comments and feedback to dto.btn@tbs-sct.gc.ca</li>
+      <li>Will integrate to the pattern and template library</li>
+    </ul>
   </div>
 </section>
 <section class="container">
