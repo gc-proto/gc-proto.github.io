@@ -21,7 +21,41 @@ title: Documentation for accessibility templates
   <li><a href="#next">Next steps</a></li>
   <li><a href="#annex">Annex</a></li>
 </ul></div></div>
-<div class="container-fluid gray-bg">
+<section class="provisional most-requested-bullets well well-sm brdr-0 mrgn-tp-0" >
+				<div class="container">
+					<div class="row">
+						<div class="pddng-r-0 col-md-2">
+							<h2 class="mrgn-tp-md">Most requested</h2>
+						</div>
+						<div class="col-md-10">
+
+							<!-- change to colcount-md-1 if you only have 2-3 most requested items -->
+							<ul class="wb-eqht mrgn-tp-md mrgn-bttm-md colcount-md-2">
+								<li><a href="#">[Top task hyperlink]</a></li>
+								<li><a href="#">[Top task hyperlink]</a></li>
+								<li><a href="#">[Top task hyperlink]</a></li>
+								<li><a href="#">[Top task hyperlink]</a></li>
+								<li><a href="#">[Top task hyperlink]</a></li>
+								<li><a href="#">[Top task hyperlink]</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="guidance-details">
+					<div class="container">
+						<div class="row col-md-8">
+							<details>
+								<summary><b>Guidance:</b> Most requested <span class="fas fa-info-circle"></span></summary>
+								<p><span class="label label-info">Optional</span></p>
+								<p>Features theme or topic specific top tasks. </p>
+								<p>This component provides shortcuts to the theme or topic top tasks. However, if all of the topic's top tasks are already included as direct links under Services and information, do not duplicate them here. In that case, you can choose not to include this component.</p>
+								<p><strong>Variations:</strong> Replace the <code>colcount-md-2</code> class with <code>colcount-md-1</code> if you only have 2-3 most requested items.</p>
+							</details>
+						</div>
+					</div>
+				</div>
+			</section>
+			<div class="container-fluid gray-bg">
 <div class="container">
 	<div class="row">
 		<p>test</p></div></div></div>
