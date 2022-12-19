@@ -19,9 +19,8 @@ title: Accessibility templates - Documentation
   <li><a href="#annex">Annex</a></li>
 </ul>
 <section class="provisional most-requested-bullets well well-sm brdr-0 mrgn-tp-0" >
-				
-				
-			</section>
+	<p>test</p>
+</section>
 <h2 id="context">Context</h2>
 
 <h3>3 key design patterns</h3>
