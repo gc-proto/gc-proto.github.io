@@ -192,9 +192,7 @@ title: Documentation for accessibility templates
       <li>Includes instructions for users to not include PII in the comment box</li>
     </ul>
     <p>When creating your own implementation, consult with your organization’s ATIP coordinator. </p>
-  </div>
-</section>
-<section class="container"><div class="row">
+  </div></div></section><section class="container"><div class="row">
       <h3>Accessibility feedback process description</h3>
       <h4>Recommended template</h4>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-process-en.png" class="img-responsive" alt="A long description can be found after the image">
