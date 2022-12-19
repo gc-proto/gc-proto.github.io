@@ -24,14 +24,10 @@ title: Documentation for accessibility templates
 <section class="container-fluid well well-sm brdr-0 mrgn-tp-0" >
 	<div class="container">
 		<div class="row">
-		<p>test</p>
+
 		</div>
 	</div>
 </section>
-<div class="container-fluid gray-bg">
-<div class="container">
-	<div class="row">
-		<p>test</p></div></div></div>
 <h2 id="context">Context</h2>
 <h3>3 key design patterns</h3>
 <p>3 patterns that impact institutions on Canada.ca:</p>
@@ -65,6 +61,9 @@ title: Documentation for accessibility templates
 <p>The feedback mechanism must be always available, as feedback processes are meant to be ongoing.</p>
 
 <p>An online form is only one aspect of the feedback mechanism, as people must be able to give feedback by a variety of means.</p>
+</div>
+	</div>
+</section>
 
 <h2 id="approach">Recommended approach</h2>
 
