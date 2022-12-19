@@ -8,7 +8,8 @@ description: Documentation for the templates for an institution’s Accessibilit
 layout: fluid
 title: Documentation for accessibility templates
 ---
-
+<div class="container">
+	<div class="row">
 <!--<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation for accessibility templates</span>: <span>Canada.ca design system</span></span></h1>-->
 
 <h2>On this page</h2>
@@ -19,7 +20,7 @@ title: Documentation for accessibility templates
   <li><a href="#next">Next steps</a></li>
   <li><a href="#annex">Annex</a></li>
 </ul>
-
+	</div></div>
 <div class="container">
 	<div class="row">
 		<h2 id="context">Context</h2>
