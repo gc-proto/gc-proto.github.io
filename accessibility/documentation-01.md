@@ -27,92 +27,102 @@ title: Documentation for accessibility templates
 </section>
 <section class="container">
   <div class="row">
-  <h2 id="context">Context</h2>
-      <h3>3 key design patterns</h3>
-      <p>3 patterns that impact institutions on Canada.ca:</p>
-      <ul>
-        <li>Institutional accessibility plan</li>
-        <li>Institutional accessibility feedback process description</li>
-        <li>Institutional accessibility feedback mechanism</li>
-      </ul>
-      <p>These are derived from the requirements under the Accessible Canada Act and Regulations.</p>
-      <ul>
-        <li><a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance.html">Guidance on the Accessible Canada Regulations</a></li>
-      </ul>
-      <p><b>Publishing deadline</b>: December 31, 2022</p>
-      <h3>What are accessibility plans?</h3>
-      <p>A document that outlines an institution's plan regarding the accessibility of all its programs, products, and services. Takes a total view of accessibility, from online to IRL, both public-facing and internal.</p>
-      <p>The accessibility plan is the first deliverable in a 3-year planning and reporting cycle (annual progress reports to come).</p>
-      <h3>What is the accessibility feedback process description?</h3>
-      <p>A published description of how your institutional feedback process works. It must be published alongside your accessibility plan.</p>
-      <h3>What is the accessibility feedback mechanism?</h3>
-      <p>A means for the users of an institution's programs and services to provide feedback about any aspect of the accessibility of its programs and services.</p>
-      <p>The feedback mechanism must be always available, as feedback processes are meant to be ongoing.</p>
-      <p>An online form is only one aspect of the feedback mechanism, as people must be able to give feedback by a variety of means.</p></div></section>
-      <section class="container"><div class="row">
-  <h2 id="approach">Recommended approach</h2>
+    <h2 id="context">Context</h2>
+    <h3>3 key design patterns</h3>
+    <p>3 patterns that impact institutions on Canada.ca:</p>
+    <ul>
+      <li>Institutional accessibility plan</li>
+      <li>Institutional accessibility feedback process description</li>
+      <li>Institutional accessibility feedback mechanism</li>
+    </ul>
+    <p>These are derived from the requirements under the Accessible Canada Act and Regulations.</p>
+    <ul>
+      <li><a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance.html">Guidance on the Accessible Canada Regulations</a></li>
+    </ul>
+    <p><b>Publishing deadline</b>: December 31, 2022</p>
+    <h3>What are accessibility plans?</h3>
+    <p>A document that outlines an institution's plan regarding the accessibility of all its programs, products, and services. Takes a total view of accessibility, from online to IRL, both public-facing and internal.</p>
+    <p>The accessibility plan is the first deliverable in a 3-year planning and reporting cycle (annual progress reports to come).</p>
+    <h3>What is the accessibility feedback process description?</h3>
+    <p>A published description of how your institutional feedback process works. It must be published alongside your accessibility plan.</p>
+    <h3>What is the accessibility feedback mechanism?</h3>
+    <p>A means for the users of an institution's programs and services to provide feedback about any aspect of the accessibility of its programs and services.</p>
+    <p>The feedback mechanism must be always available, as feedback processes are meant to be ongoing.</p>
+    <p>An online form is only one aspect of the feedback mechanism, as people must be able to give feedback by a variety of means.</p>
+  </div>
+</section>
+<section class="container">
+  <div class="row">
+    <h2 id="approach">Recommended approach</h2>
     <p>The following working examples represent the recommended approach - not mandatory templates.</p>
     <ul>
       <li>Starting point - adjust as needed for your situation</li>
       <li>Designed for simplicity and with a focus on top user tasks like providing feedback, reviewing the plan, and understanding the process</li>
       <li>Built with standard WET code elements to maximize WCAG conformance</li>
-    </ul></div></section>
-    <section class="container-fluid well well-sm brdr-0 mrgn-tp-0"><div class="container"><div class="row">
-    <h3>Information structure and navigation</h3>
-    <h4>Recommended information architecture for institutional websites</h4>
-    <figure class="gc-complex-img" role="group"> <img src="../assets/img/info-structure-en.png" class="img-responsive" alt="A long description can be found after the image">
-      <figcaption>
-        <details>
-          <summary>Detailed description</summary>
-          <p>Diagram of recommended website structure. First row on top: Institutional landing page (ILP). Second row: Accessibility page. Third row at the bottom, 3 elements: Accessibility plan, Feedback mechanism, Description of feedback process</p>
-        </details>
-      </figcaption>
-    </figure>
-    <h4>Accessibility link from Institutional landing page (ILP)</h4>
-    <p>Recommended link label is "Accessibility"</p>
-    <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-link-en.png" class="img-responsive" alt="A long description can be found after the image">
-      <figcaption>
-        <details>
-          <summary>Detailed description</summary>
-          <p>Screenshot of Agriculture and Agri-Food Canada's public facing website. Under 'About AAFC', you can find 4 links: About our department, Transparency, Accessibility, Job opportunities.</p>
-        </details>
-      </figcaption>
-    </figure>
-    <p>Example drawn from <a href="https://agriculture.canada.ca/en">AAFC’s institutional landing page</a></p>
-    <h4>Breadcrumb for accessibility products</h4>
-    <figure class="gc-complex-img" role="group"> <img src="../assets/img/breadcrumb-en.png" class="img-responsive" alt="A long description can be found after the image">
-      <figcaption>
-        <details>
-          <summary>Detailed description</summary>
-          <p>Screenshot of the Government of Canada's website. The breadcrumbs are: Canada.ca, Institution name, Accessibility at 'Institution name'</p>
-        </details>
-      </figcaption>
-    </figure>
-    <h4>Design considerations</h4>
-    <p>While DTO recommends creating an accessibility node in your institution’s information architecture, it may also make sense to cross-link from elsewhere on your sites, such as:</p>
-    <ul>
-      <li>Linking to the accessibility plan from a “Reports and plans” section</li>
-      <li>Linking to the accessibility feedback form from your “Contact us” pages</li>
+    </ul>
+  </div>
+</section>
+<section class="container-fluid well well-sm brdr-0 mrgn-tp-0">
+  <div class="container">
+    <div class="row">
+      <h3>Information structure and navigation</h3>
+      <h4>Recommended information architecture for institutional websites</h4>
+      <figure class="gc-complex-img" role="group"> <img src="../assets/img/info-structure-en.png" class="img-responsive" alt="A long description can be found after the image">
+        <figcaption>
+          <details>
+            <summary>Detailed description</summary>
+            <p>Diagram of recommended website structure. First row on top: Institutional landing page (ILP). Second row: Accessibility page. Third row at the bottom, 3 elements: Accessibility plan, Feedback mechanism, Description of feedback process</p>
+          </details>
+        </figcaption>
+      </figure>
+      <h4>Accessibility link from Institutional landing page (ILP)</h4>
+      <p>Recommended link label is "Accessibility"</p>
+      <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-link-en.png" class="img-responsive" alt="A long description can be found after the image">
+        <figcaption>
+          <details>
+            <summary>Detailed description</summary>
+            <p>Screenshot of Agriculture and Agri-Food Canada's public facing website. Under 'About AAFC', you can find 4 links: About our department, Transparency, Accessibility, Job opportunities.</p>
+          </details>
+        </figcaption>
+      </figure>
+      <p>Example drawn from <a href="https://agriculture.canada.ca/en">AAFC’s institutional landing page</a></p>
+      <h4>Breadcrumb for accessibility products</h4>
+      <figure class="gc-complex-img" role="group"> <img src="../assets/img/breadcrumb-en.png" class="img-responsive" alt="A long description can be found after the image">
+        <figcaption>
+          <details>
+            <summary>Detailed description</summary>
+            <p>Screenshot of the Government of Canada's website. The breadcrumbs are: Canada.ca, Institution name, Accessibility at 'Institution name'</p>
+          </details>
+        </figcaption>
+      </figure>
+      <h4>Design considerations</h4>
+      <p>While DTO recommends creating an accessibility node in your institution’s information architecture, it may also make sense to cross-link from elsewhere on your sites, such as:</p>
+      <ul>
+        <li>Linking to the accessibility plan from a “Reports and plans” section</li>
+        <li>Linking to the accessibility feedback form from your “Contact us” pages</li>
       </ul>
-    <h3>Institutional accessibility page</h3>
-    <h4>Recommended template</h4>
-    <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-landing-page-en.png" class="img-responsive" alt="A long description can be found after the image">
-      <figcaption>
-        <details>
-          <summary>Detailed description</summary>
-          <p>Screenshot of the Government of Canada's website titled 'Accessibility at Institution name'. There is a green button named 'Provide feedback', then 2 links: Accessibility Plan and Feedback process.</p>
-        </details>
-      </figcaption>
-    </figure>
-    <p><a href="accessibility.html">Working examples - Institutional accessibility page</a></p>
-    <h4>Design considerations</h4>
-    <ul>
-      <li>Likely top task will be giving feedback, so the page uses the Super-task button</li>
-      <li>Additional doormats can be added as needed</li>
-      <li>Other patterns can be used as well on this page (e.g. Most requested band, contextual features)</li>
-      <li>Design will likely evolve as future requirements come online, e.g. accessibility statements required under the <a href="https://a11y.canada.ca/en/standards/">proposed ICT accessibility standard</a></li>
-    </ul></div></div></section>
-    <section class="container">
+      <h3>Institutional accessibility page</h3>
+      <h4>Recommended template</h4>
+      <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-landing-page-en.png" class="img-responsive" alt="A long description can be found after the image">
+        <figcaption>
+          <details>
+            <summary>Detailed description</summary>
+            <p>Screenshot of the Government of Canada's website titled 'Accessibility at Institution name'. There is a green button named 'Provide feedback', then 2 links: Accessibility Plan and Feedback process.</p>
+          </details>
+        </figcaption>
+      </figure>
+      <p><a href="accessibility.html">Working examples - Institutional accessibility page</a></p>
+      <h4>Design considerations</h4>
+      <ul>
+        <li>Likely top task will be giving feedback, so the page uses the Super-task button</li>
+        <li>Additional doormats can be added as needed</li>
+        <li>Other patterns can be used as well on this page (e.g. Most requested band, contextual features)</li>
+        <li>Design will likely evolve as future requirements come online, e.g. accessibility statements required under the <a href="https://a11y.canada.ca/en/standards/">proposed ICT accessibility standard</a></li>
+      </ul>
+    </div>
+  </div>
+</section>
+<section class="container">
   <div class="row">
     <h3>Accessibility plan</h3>
     <h4>Recommended template</h4>
@@ -180,41 +190,46 @@ title: Documentation for accessibility templates
       <li>Includes instructions for users to not include PII in the comment box</li>
     </ul>
     <p>When creating your own implementation, consult with your organization’s ATIP coordinator. </p>
-  </div></section>
-  <section class="container-fluid well well-sm brdr-0 mrgn-tp-0"><div class="container"><div class="row">
-  <h3>Accessibility feedback process description</h3>
-    <h4>Recommended template</h4>
-    <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-process-en.png" class="img-responsive" alt="A long description can be found after the image">
-      <figcaption>
-        <details>
-          <summary>Detailed description</summary>
-          <p>Screenshot of the Government of Canada's website titled 'Accessibility feedback process at institution name'. Many links how to provide feedback.</p>
-        </details>
-      </figcaption>
-    </figure>
-    <p><a href="feedback-process.html">Working examples - Accessibility feedback process description</a></p>
-    <h4>Design considerations</h4>
-    <p>Designed to focus on top-of-mind user needs, rather than providing an exhaustive description of back-office procedures.</p>
-    <p>Ensure the underlying process meets the requirements outlined in Guidance on feedback processes:</p>
-    <ul>
-      <li>People must be able to provide feedback by a variety of means, including email, telephone, snail mail</li>
-      <li>Feedback must be analyzed and reported on in future</li>
-    </ul>
-    <p>As with accessibility plans, institutions must notify the Accessibility Commissioner at the Canadian Human Rights Commission within 48 hours of publishing their process description.</p>
-    <ul>
-      <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
-      <li>Include a link or URL for the process description in the email you send</li>
-    </ul>
-  </div></div>
-</section><section class="container><div class="row">
-      <h2 id="next">Next steps - Maturing the working examples</h2>
-      <p>These working examples are a first step:</p>
+  </div>
+</section>
+<section class="container-fluid well well-sm brdr-0 mrgn-tp-0">
+  <div class="container">
+    <div class="row">
+      <h3>Accessibility feedback process description</h3>
+      <h4>Recommended template</h4>
+      <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-process-en.png" class="img-responsive" alt="A long description can be found after the image">
+        <figcaption>
+          <details>
+            <summary>Detailed description</summary>
+            <p>Screenshot of the Government of Canada's website titled 'Accessibility feedback process at institution name'. Many links how to provide feedback.</p>
+          </details>
+        </figcaption>
+      </figure>
+      <p><a href="feedback-process.html">Working examples - Accessibility feedback process description</a></p>
+      <h4>Design considerations</h4>
+      <p>Designed to focus on top-of-mind user needs, rather than providing an exhaustive description of back-office procedures.</p>
+      <p>Ensure the underlying process meets the requirements outlined in Guidance on feedback processes:</p>
       <ul>
-        <li>Will monitor and iterate, based on data and evidence</li>
-        <li>As departments and agencies implement, provide comments and feedback to dto.btn@tbs-sct.gc.ca</li>
-        <li>Will integrate to the pattern and template library</li>
+        <li>People must be able to provide feedback by a variety of means, including email, telephone, snail mail</li>
+        <li>Feedback must be analyzed and reported on in future</li>
+      </ul>
+      <p>As with accessibility plans, institutions must notify the Accessibility Commissioner at the Canadian Human Rights Commission within 48 hours of publishing their process description.</p>
+      <ul>
+        <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
+        <li>Include a link or URL for the process description in the email you send</li>
       </ul>
     </div>
+  </div>
+</section>
+<section class="container"><div class="row">
+  <h2 id="next">Next steps - Maturing the working examples</h2>
+  <p>These working examples are a first step:</p>
+  <ul>
+    <li>Will monitor and iterate, based on data and evidence</li>
+    <li>As departments and agencies implement, provide comments and feedback to dto.btn@tbs-sct.gc.ca</li>
+    <li>Will integrate to the pattern and template library</li>
+  </ul>
+  </div>
 </section>
 <section class="container">
   <div class="row">
