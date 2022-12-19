@@ -21,6 +21,10 @@ title: Documentation for accessibility templates
   <li><a href="#annex">Annex</a></li>
 </ul>
 	</div></div>
+	
+	<div class="container-fluid"><div class="gray-bg">
+	<p>test</p>
+	</div>
 <div class="container-fluid"><div class="gray-bg">
 <div class="container provisional">
 	<div class="row">
