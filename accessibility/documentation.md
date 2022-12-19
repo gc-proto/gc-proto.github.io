@@ -21,7 +21,7 @@ title: Documentation for accessibility templates
   <li><a href="#next">Next steps</a></li>
   <li><a href="#annex">Annex</a></li>
 </ul></div></div>
-<section class="provisional most-requested-bullets well well-sm brdr-0 mrgn-tp-0" >
+<section class="well well-sm brdr-0 mrgn-tp-0" >
 				<div class="container">
 					<div class="row">
 						<div class="pddng-r-0 col-md-2">
