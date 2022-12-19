@@ -24,11 +24,7 @@ title: Documentation for accessibility templates
 <section class="container-fluid well well-sm brdr-0 mrgn-tp-0" >
 	<div class="container">
 		<div class="row">
-
-		</div>
-	</div>
-</section>
-<h2 id="context">Context</h2>
+			<h2 id="context">Context</h2>
 <h3>3 key design patterns</h3>
 <p>3 patterns that impact institutions on Canada.ca:</p>
 <ul>
