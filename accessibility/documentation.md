@@ -10,9 +10,12 @@ description: Documentation for the templates for an institution’s Accessibilit
 layout: fluid
 title: Documentation for accessibility templates
 ---
-<div class="container">
+<!--<section class="container">
   <div class="row"> 
-    <!--<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation for accessibility templates</span>: <span>Canada.ca design system</span></span></h1>-->
+    <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation for accessibility templates</span>: <span>Canada.ca design system</span></span></h1>
+    </div></section>-->
+    <section class="container">
+  <div class="row">    
     <h2>On this page</h2>
     <ul>
       <li><a href="#context">Context</a></li>
@@ -21,7 +24,7 @@ title: Documentation for accessibility templates
       <li><a href="#annex">Annex</a></li>
     </ul>
   </div>
-</div>
+</section>
 <section class="container-fluid well well-sm brdr-0 mrgn-tp-0">
   <div class="container">
     <div class="row">
@@ -50,7 +53,7 @@ title: Documentation for accessibility templates
     </div>
   </div>
 </section>
-<div class="container">
+<section class="container">
   <div class="row"> 
 <h2 id="approach">Recommended approach</h2>
 <p>The following working examples represent the recommended approach - not mandatory templates.</p>
@@ -201,7 +204,7 @@ title: Documentation for accessibility templates
 <ul>
   <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
   <li>Include a link or URL for the process description in the email you send</li>
-</ul>
+    </ul></div></section>
     <section class="container-fluid well well-sm brdr-0 mrgn-tp-0">
   <div class="container">
     <div class="row">
