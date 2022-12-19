@@ -21,11 +21,10 @@ title: Documentation for accessibility templates
   <li><a href="#next">Next steps</a></li>
   <li><a href="#annex">Annex</a></li>
 </ul></div></div>
-<div class="container-fluid">
-	<div class="gray-bg">
+<div class="container-fluid gray-bg">
 <div class="container">
 	<div class="row">
-		<p>test</p></div></div></div></div>
+		<p>test</p></div></div></div>
 	
 <div class="container-fluid"><div class="gray-bg">
 	<div class="container provisional">
