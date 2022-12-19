@@ -5,7 +5,6 @@ breadcrumbs:
   link: https://www.canada.ca/en/government/about/design-system.html
 dateModified: 2022-12-09
 description: Documentation for the templates for an institution’s Accessibility plan and feedback section.
-layout: fluid
 title: Accessibility templates - Documentation
 ---
 
@@ -19,9 +18,12 @@ title: Accessibility templates - Documentation
   <li><a href="#next">Next steps</a></li>
   <li><a href="#annex">Annex</a></li>
 </ul>
-<section class="provisional most-requested-bullets well well-sm brdr-0 mrgn-tp-0" >
+
+<div class="container-fluid">
+	<div class="row">
+		<section class="provisional most-requested-bullets well well-sm brdr-0 mrgn-tp-0" >
 	<p>test</p>
-</section>
+		</section></div></div>
 <h2 id="context">Context</h2>
 
 <h3>3 key design patterns</h3>
