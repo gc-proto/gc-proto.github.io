@@ -6,10 +6,10 @@ breadcrumbs:
 dateModified: 2022-12-09
 description: Documentation for the templates for an institution’s Accessibility plan and feedback section.
 layout: fluid
-title: Accessibility templates - Documentation
+title: Documentation fo accessibility templates
 ---
 
-<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Accessibility templates - Documentation</span>: <span>Canada.ca design system</span></span></h1>
+<!--<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Accessibility templates - Documentation</span>: <span>Canada.ca design system</span></span></h1>-->
 
 <h2>On this page</h2>
 
