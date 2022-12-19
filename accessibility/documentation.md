@@ -13,7 +13,6 @@ title: Documentation for accessibility templates
 <div class="container">
   <div class="row"> 
     <!--<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation for accessibility templates</span>: <span>Canada.ca design system</span></span></h1>-->
-    
     <h2>On this page</h2>
     <ul>
       <li><a href="#context">Context</a></li>
