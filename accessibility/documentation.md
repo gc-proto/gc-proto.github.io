@@ -21,11 +21,11 @@ title: Documentation for accessibility templates
   <li><a href="#annex">Annex</a></li>
 </ul></div></div>
 <section class="provisional well well-sm brdr-0 mrgn-tp-0" >
-				<div class="container">
-					<div class="row">
-						<p>test</p>
-					</div>
-				</div>
+	<div class="container">
+		<div class="row">
+		<p>test</p>
+		</div>
+	</div>
 </section>
 <div class="container-fluid gray-bg">
 <div class="container">
