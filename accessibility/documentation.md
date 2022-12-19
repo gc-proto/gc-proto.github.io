@@ -22,7 +22,7 @@ title: Documentation for accessibility templates
   <li><a href="#annex">Annex</a></li>
 </ul>
 	</div></div>
-<div class="container-fluid provisional">
+<div class="container-fluid gray-bg">
 <div class="container provisional">
 	<div class="row">
 		<h2 id="context">Context</h2>
