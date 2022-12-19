@@ -202,6 +202,9 @@ title: Documentation for accessibility templates
   <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
   <li>Include a link or URL for the process description in the email you send</li>
 </ul>
+    <section class="container-fluid well well-sm brdr-0 mrgn-tp-0">
+  <div class="container">
+    <div class="row">
 <h2 id="next">Next steps - Maturing the working examples</h2>
 <p>These working examples are a first step:</p>
 <ul>
@@ -209,7 +212,9 @@ title: Documentation for accessibility templates
   <li>As departments and agencies implement, provide comments and feedback to dto.btn@tbs-sct.gc.ca</li>
   <li>Will integrate to the pattern and template library</li>
 </ul>
-  </div></div>    
+    </div></div></section>    
+     <section class="container>
+    <div class="row">   
 <h2 id="annex">Annex - Publishing plans</h2>
 <h3>Procedures for publishing under the Policy on Communications and Federal Identity</h3>
 <p>Since institutional accessibility plans are considered official publications of the Government of Canada, a PDF version of the accessibility plan needs to be included in the <a href="https://publications.gc.ca">catalogue at publications.gc.ca</a>.</p>
@@ -236,4 +241,4 @@ title: Documentation for accessibility templates
     This form allows you to describe each resource assigned to a dataset or asset.</li>
 </ol>
 <p>Once completed, your record will be placed in the Open Government Registry publishing queue for review and publication within 24 hours.</p>
-<p>Please contact your institution’s open government representative should you have additional questions about how to publish records to the registry.</p>
+<p>Please contact your institution’s open government representative should you have additional questions about how to publish records to the registry.</p></div></section>
