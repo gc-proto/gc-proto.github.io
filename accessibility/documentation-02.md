@@ -230,7 +230,7 @@ title: Documentation for accessibility templates
       <li>As departments and agencies implement, provide comments and feedback to dto.btn@tbs-sct.gc.ca</li>
       <li>Will integrate to the pattern and template library</li>
     </ul>
-  	</div>
+	</div>
 	</div>
 <section class="container">
   <div class="row">
