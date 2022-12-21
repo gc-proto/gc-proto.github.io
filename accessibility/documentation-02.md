@@ -9,10 +9,8 @@ dateModified: 2022-12-21
 description: Documentation for the templates for an institution’s Accessibility plan and feedback section.
 title: Documentation for accessibility templates
 ---
-<!--<section class="container">
   <div class="row"> 
     <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation for accessibility templates</span>: <span>Canada.ca design system</span></span></h1>
-    </div></section>-->
 <section class="container">
   <div class="row">
     <p>Government departments, agencies and Crown corporations are required to publish an accessibility plan, a feedback process and a feedback mechanism on their websites.</p>
