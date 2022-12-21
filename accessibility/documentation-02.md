@@ -64,7 +64,7 @@ title: Documentation for accessibility templates
     </ul>
   </div>
 </section>
-<div class="wb-tabs">
+<div class="wb-tabs mrgn-tp-lg">
 	<div class="tabpanels">
 		<details id="details-panel1">
 			<summary>Information structure and navigation</summary>
@@ -218,9 +218,9 @@ title: Documentation for accessibility templates
         <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
         <li>Include a link or URL for the process description in the email you send</li>
       </ul>
-    </div>
+    </details>
   </div>
-</section>
+</div>
 <section class="container">
   <div class="row">
     <h2 id="next">Next steps - Maturing the working examples</h2>
@@ -230,7 +230,7 @@ title: Documentation for accessibility templates
       <li>As departments and agencies implement, provide comments and feedback to dto.btn@tbs-sct.gc.ca</li>
       <li>Will integrate to the pattern and template library</li>
     </ul>
-  	</details>
+  	</div>
 	</div>
 <section class="container">
   <div class="row">
