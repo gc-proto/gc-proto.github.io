@@ -65,9 +65,9 @@ title: Documentation for accessibility templates
     </ul>
   </div>
 </section>
-<div class="wb-tabs mrgn-tp-lg">
-  <div class="tabpanels">
-    <details id="details-panel1">
+<ul class="list-unstyled">
+	<li>
+		<details>
       <summary>Information structure and navigation</summary>
       <h3>Recommended information architecture for institutional websites</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/info-structure-en.png" class="img-responsive" alt="A long description can be found after the image">
@@ -104,7 +104,9 @@ title: Documentation for accessibility templates
         <li>Linking to the accessibility plan from a “Reports and plans” section</li>
         <li>Linking to the accessibility feedback form from your “Contact us” pages</li>
       </ul>
-    </details>
+   </details>
+	</li>
+	<li>
     <details id="details-panel2">
       <summary>Institutional accessibility page</summary>
       <h3>Recommended template</h3>
@@ -124,7 +126,9 @@ title: Documentation for accessibility templates
         <li>Other patterns can be used as well on this page (e.g. Most requested band, contextual features)</li>
         <li>Design will likely evolve as future requirements come online, e.g. accessibility statements required under the <a href="https://a11y.canada.ca/en/standards/">proposed ICT accessibility standard</a></li>
       </ul>
-    </details>
+</details>
+	</li>
+	<li>
     <details id="details-panel3">
       <summary>Accessibility plan</summary>
       <h3>Recommended template</h3>
@@ -159,7 +163,9 @@ title: Documentation for accessibility templates
         <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
         <li>Include a link or URL for the plan in the email you send</li>
       </ul>
-    </details>
+</details>
+	</li>
+	<li>
     <details id="details-panel4">
       <summary>Accessibility feedback form</summary>
       <h3>Recommended template – feedback form</h3>
@@ -194,7 +200,9 @@ title: Documentation for accessibility templates
         <li>Includes instructions for users to not include PII in the comment box</li>
       </ul>
       <p>When creating your own implementation, consult with your organization’s ATIP coordinator. </p>
-    </details>
+ </details>
+	</li>
+	<li>
     <details id="details-panel5">
       <summary>Accessibility feedback process description</summary>
       <h3>Recommended template</h3>
@@ -219,9 +227,9 @@ title: Documentation for accessibility templates
         <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
         <li>Include a link or URL for the process description in the email you send</li>
       </ul>
-    </details>
-  </div>
-</div>
+</details>
+	</li>
+</ul>
 <section class="container">
   <div class="row">
     <h2 id="next">Next steps - Maturing the working examples</h2>
