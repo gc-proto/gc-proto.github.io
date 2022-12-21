@@ -64,11 +64,11 @@ title: Documentation for accessibility templates
     </ul>
   </div>
 </section>
-<section class="container-fluid well well-sm brdr-0 mrgn-tp-0">
-  <div class="container">
-    <div class="row">
-      <h3>Information structure and navigation</h3>
-      <h4>Recommended information architecture for institutional websites</h4>
+<div class="wb-tabs">
+	<div class="tabpanels">
+		<details id="details-panel1">
+			<summary>Information structure and navigation</summary>
+          <h3>Recommended information architecture for institutional websites</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/info-structure-en.png" class="img-responsive" alt="A long description can be found after the image">
         <figcaption>
           <details>
@@ -88,7 +88,7 @@ title: Documentation for accessibility templates
         </figcaption>
       </figure>
       <p>Example drawn from <a href="https://agriculture.canada.ca/en">AAFC’s institutional landing page</a></p>
-      <h4>Breadcrumb for accessibility products</h4>
+      <h3>Breadcrumb for accessibility products</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/breadcrumb-en.png" class="img-responsive" alt="A long description can be found after the image">
         <figcaption>
           <details>
@@ -103,13 +103,10 @@ title: Documentation for accessibility templates
         <li>Linking to the accessibility plan from a “Reports and plans” section</li>
         <li>Linking to the accessibility feedback form from your “Contact us” pages</li>
       </ul>
-    </div>
-  </div>
-</section>
-<section class="container">
-  <div class="row">
-    <h3>Institutional accessibility page</h3>
-    <h4>Recommended template</h4>
+ </details>
+		<details id="details-panel2">
+			<summary>Institutional accessibility page</summary>
+    <h3>Recommended template</h3>
     <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-landing-page-en.png" class="img-responsive" alt="A long description can be found after the image">
       <figcaption>
         <details>
@@ -119,20 +116,17 @@ title: Documentation for accessibility templates
       </figcaption>
     </figure>
     <p><a href="accessibility.html">Working examples - Institutional accessibility page</a></p>
-    <h4>Design considerations</h4>
+    <h3>Design considerations</h3>
     <ul>
       <li>Likely top task will be giving feedback, so the page uses the Super-task button</li>
       <li>Additional doormats can be added as needed</li>
       <li>Other patterns can be used as well on this page (e.g. Most requested band, contextual features)</li>
       <li>Design will likely evolve as future requirements come online, e.g. accessibility statements required under the <a href="https://a11y.canada.ca/en/standards/">proposed ICT accessibility standard</a></li>
     </ul>
-  </div>
-</section>
-<section class="container-fluid well well-sm brdr-0 mrgn-tp-0">
-  <div class="container">
-    <div class="row">
-      <h3>Accessibility plan</h3>
-      <h4>Recommended template</h4>
+ </details>
+		<details id="details-panel3">
+			<summary>Accessibility plan</summary>
+            <h3>Recommended template</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-plan-en.png" class="img-responsive" alt="A long description can be found after the image">
         <figcaption>
           <details>
@@ -142,7 +136,7 @@ title: Documentation for accessibility templates
         </figcaption>
       </figure>
       <p><a href="plan.html">Working examples - Accessibility plan</a></p>
-      <h4>Design considerations</h4>
+      <h3>Design considerations</h3>
       <p>Ensure the plan meets the requirements outlined in <a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance/accessibility-plans.html">Guidance on accessibility plans</a>:</p>
       <ul>
         <li>This guidance includes a content template for the plan itself</li>
@@ -164,13 +158,10 @@ title: Documentation for accessibility templates
         <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
         <li>Include a link or URL for the plan in the email you send</li>
       </ul>
-    </div>
-  </div>
-</section>
-<section class="container">
-  <div class="row">
-    <h3>Accessibility feedback form</h3>
-    <h4>Recommended template – feedback form</h4>
+ </details>
+		<details id="details-panel4">
+			<summary>Accessibility feedback form</summary>
+    <h3>Recommended template – feedback form</h3>
     <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-form-en.png" class="img-responsive" alt="A long description can be found after the image">
       <figcaption>
         <details>
@@ -190,7 +181,7 @@ title: Documentation for accessibility templates
       </figcaption>
     </figure>
     <p><a href="feedback-acknowledgement.html">Working examples - Acknowledgement page</a></p>
-    <h4>Design considerations</h4>
+    <h3>Design considerations</h3>
     <p>You will need to hook the intake form up to something - a generic email, a ticketing system, etc. (remember to keep incoming feedback for 7 years!)</p>
     <ul>
       <li>AEM users - send a ticket to Principal Publisher to leverage the “file and forget” solution for hooking forms up to an email address</li>
@@ -202,13 +193,10 @@ title: Documentation for accessibility templates
       <li>Includes instructions for users to not include PII in the comment box</li>
     </ul>
     <p>When creating your own implementation, consult with your organization’s ATIP coordinator. </p>
-  </div>
-</section>
-<section class="container-fluid well well-sm brdr-0 mrgn-tp-0">
-  <div class="container">
-    <div class="row">
-      <h3>Accessibility feedback process description</h3>
-      <h4>Recommended template</h4>
+  </details>
+		<details id="details-panel5">
+			<summary>Accessibility feedback process description</summary>
+           <h3>Recommended template</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-process-en.png" class="img-responsive" alt="A long description can be found after the image">
         <figcaption>
           <details>
@@ -242,8 +230,8 @@ title: Documentation for accessibility templates
       <li>As departments and agencies implement, provide comments and feedback to dto.btn@tbs-sct.gc.ca</li>
       <li>Will integrate to the pattern and template library</li>
     </ul>
-  </div>
-</section>
+  	</details>
+	</div>
 <section class="container">
   <div class="row">
     <h2 id="annex">Annex - Publishing plans</h2>
