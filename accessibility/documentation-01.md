@@ -44,7 +44,7 @@ title: Documentation for accessibility templates
     </ul>
     <p><b>Publishing deadline</b>: December 31, 2022</p>
     <h3>What are accessibility plans?</h3>
-    <p>A document that outlines an institution's plan regarding the accessibility of all its programs, products, and services. Takes a total view of accessibility, from online to IRL, both public-facing and internal.</p>
+    <p>A document that outlines an institution's plan regarding the accessibility of all its programs, products, and services. Takes a total view of accessibility, from online to in real life (IRL), both public-facing and internal.</p>
     <p>The accessibility plan is the first deliverable in a 3-year planning and reporting cycle (annual progress reports to come).</p>
     <h3>What is the accessibility feedback process description?</h3>
     <p>A published description of how your institutional feedback process works. It must be published alongside your accessibility plan.</p>
