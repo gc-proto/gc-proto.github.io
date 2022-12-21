@@ -13,13 +13,12 @@ dateModified: 2022-12-21
 description: Documentation for the templates for an institution’s Accessibility plan and feedback section.
 title: Documentation for accessibility templates
 ---
-  <div class="row"> 
-    <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation for accessibility templates</span>: <span>Canada.ca design system</span></span></h1>
+<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation for accessibility templates</span>: <span>Canada.ca design system</span></span></h1>
 <section class="container">
   <div class="row">
     <p>Government departments, agencies and Crown corporations are required to publish an accessibility plan, a feedback process and a feedback mechanism on their websites.</p>
-    <p>These templates are designed to help departments implement these requirements in a consistent way.</p> 
-<p>The approach and instructions here were presented in November to support web managers implementing these changes.</p>
+    <p>These templates are designed to help departments implement these requirements in a consistent way.</p>
+    <p>The approach and instructions here were presented in November to support web managers implementing these changes.</p>
     <h2>On this page</h2>
     <ul>
       <li><a href="#context">Context</a></li>
@@ -67,10 +66,10 @@ title: Documentation for accessibility templates
   </div>
 </section>
 <div class="wb-tabs mrgn-tp-lg">
-	<div class="tabpanels">
-		<details id="details-panel1">
-			<summary>Information structure and navigation</summary>
-          <h3>Recommended information architecture for institutional websites</h3>
+  <div class="tabpanels">
+    <details id="details-panel1">
+      <summary>Information structure and navigation</summary>
+      <h3>Recommended information architecture for institutional websites</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/info-structure-en.png" class="img-responsive" alt="A long description can be found after the image">
         <figcaption>
           <details>
@@ -105,30 +104,30 @@ title: Documentation for accessibility templates
         <li>Linking to the accessibility plan from a “Reports and plans” section</li>
         <li>Linking to the accessibility feedback form from your “Contact us” pages</li>
       </ul>
- </details>
-		<details id="details-panel2">
-			<summary>Institutional accessibility page</summary>
-    <h3>Recommended template</h3>
-    <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-landing-page-en.png" class="img-responsive" alt="A long description can be found after the image">
-      <figcaption>
-        <details>
-          <summary>Detailed description</summary>
-          <p>Screenshot of the Government of Canada's website titled 'Accessibility at Institution name'. There is a green button named 'Provide feedback', then 2 links: Accessibility Plan and Feedback process.</p>
-        </details>
-      </figcaption>
-    </figure>
-    <p><a href="accessibility.html">Working examples - Institutional accessibility page</a></p>
-    <h3>Design considerations</h3>
-    <ul>
-      <li>Likely top task will be giving feedback, so the page uses the Super-task button</li>
-      <li>Additional doormats can be added as needed</li>
-      <li>Other patterns can be used as well on this page (e.g. Most requested band, contextual features)</li>
-      <li>Design will likely evolve as future requirements come online, e.g. accessibility statements required under the <a href="https://a11y.canada.ca/en/standards/">proposed ICT accessibility standard</a></li>
-    </ul>
- </details>
-		<details id="details-panel3">
-			<summary>Accessibility plan</summary>
-            <h3>Recommended template</h3>
+    </details>
+    <details id="details-panel2">
+      <summary>Institutional accessibility page</summary>
+      <h3>Recommended template</h3>
+      <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-landing-page-en.png" class="img-responsive" alt="A long description can be found after the image">
+        <figcaption>
+          <details>
+            <summary>Detailed description</summary>
+            <p>Screenshot of the Government of Canada's website titled 'Accessibility at Institution name'. There is a green button named 'Provide feedback', then 2 links: Accessibility Plan and Feedback process.</p>
+          </details>
+        </figcaption>
+      </figure>
+      <p><a href="accessibility.html">Working examples - Institutional accessibility page</a></p>
+      <h3>Design considerations</h3>
+      <ul>
+        <li>Likely top task will be giving feedback, so the page uses the Super-task button</li>
+        <li>Additional doormats can be added as needed</li>
+        <li>Other patterns can be used as well on this page (e.g. Most requested band, contextual features)</li>
+        <li>Design will likely evolve as future requirements come online, e.g. accessibility statements required under the <a href="https://a11y.canada.ca/en/standards/">proposed ICT accessibility standard</a></li>
+      </ul>
+    </details>
+    <details id="details-panel3">
+      <summary>Accessibility plan</summary>
+      <h3>Recommended template</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-plan-en.png" class="img-responsive" alt="A long description can be found after the image">
         <figcaption>
           <details>
@@ -160,45 +159,45 @@ title: Documentation for accessibility templates
         <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
         <li>Include a link or URL for the plan in the email you send</li>
       </ul>
- </details>
-		<details id="details-panel4">
-			<summary>Accessibility feedback form</summary>
-    <h3>Recommended template – feedback form</h3>
-    <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-form-en.png" class="img-responsive" alt="A long description can be found after the image">
-      <figcaption>
-        <details>
-          <summary>Detailed description</summary>
-          <p>Screenshot of the Government of Canada's website titled 'Accessibility feedback form'. Example of question with radio buttons.</p>
-        </details>
-      </figcaption>
-    </figure>
-    <p><a href="feedback-form.html">Working examples - Accessibility feedback form</a></p>
-    <h4>Recommended template - acknowledgement page</h4>
-    <figure class="gc-complex-img" role="group"> <img src="../assets/img/acknowledgement-en.png" class="img-responsive" alt="A long description can be found after the image">
-      <figcaption>
-        <details>
-          <summary>Detailed description</summary>
-          <p>Screenshot of the Government of Canada's website titled 'Accessibility feedback form acknowledgement'. Thank you for your feedback.</p>
-        </details>
-      </figcaption>
-    </figure>
-    <p><a href="feedback-acknowledgement.html">Working examples - Acknowledgement page</a></p>
-    <h3>Design considerations</h3>
-    <p>You will need to hook the intake form up to something - a generic email, a ticketing system, etc. (remember to keep incoming feedback for 7 years!)</p>
-    <ul>
-      <li>AEM users - send a ticket to Principal Publisher to leverage the “file and forget” solution for hooking forms up to an email address</li>
-    </ul>
-    <p>People submitting feedback have the option to request a response - form design includes information on turnaround times in this scenario.</p>
-    <p>Form has been designed to minimize the collection of personally identifiable information (PII):</p>
-    <ul>
-      <li>When the user specifically requests a response, it only asks for an email address</li>
-      <li>Includes instructions for users to not include PII in the comment box</li>
-    </ul>
-    <p>When creating your own implementation, consult with your organization’s ATIP coordinator. </p>
-  </details>
-		<details id="details-panel5">
-			<summary>Accessibility feedback process description</summary>
-           <h3>Recommended template</h3>
+    </details>
+    <details id="details-panel4">
+      <summary>Accessibility feedback form</summary>
+      <h3>Recommended template – feedback form</h3>
+      <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-form-en.png" class="img-responsive" alt="A long description can be found after the image">
+        <figcaption>
+          <details>
+            <summary>Detailed description</summary>
+            <p>Screenshot of the Government of Canada's website titled 'Accessibility feedback form'. Example of question with radio buttons.</p>
+          </details>
+        </figcaption>
+      </figure>
+      <p><a href="feedback-form.html">Working examples - Accessibility feedback form</a></p>
+      <h4>Recommended template - acknowledgement page</h4>
+      <figure class="gc-complex-img" role="group"> <img src="../assets/img/acknowledgement-en.png" class="img-responsive" alt="A long description can be found after the image">
+        <figcaption>
+          <details>
+            <summary>Detailed description</summary>
+            <p>Screenshot of the Government of Canada's website titled 'Accessibility feedback form acknowledgement'. Thank you for your feedback.</p>
+          </details>
+        </figcaption>
+      </figure>
+      <p><a href="feedback-acknowledgement.html">Working examples - Acknowledgement page</a></p>
+      <h3>Design considerations</h3>
+      <p>You will need to hook the intake form up to something - a generic email, a ticketing system, etc. (remember to keep incoming feedback for 7 years!)</p>
+      <ul>
+        <li>AEM users - send a ticket to Principal Publisher to leverage the “file and forget” solution for hooking forms up to an email address</li>
+      </ul>
+      <p>People submitting feedback have the option to request a response - form design includes information on turnaround times in this scenario.</p>
+      <p>Form has been designed to minimize the collection of personally identifiable information (PII):</p>
+      <ul>
+        <li>When the user specifically requests a response, it only asks for an email address</li>
+        <li>Includes instructions for users to not include PII in the comment box</li>
+      </ul>
+      <p>When creating your own implementation, consult with your organization’s ATIP coordinator. </p>
+    </details>
+    <details id="details-panel5">
+      <summary>Accessibility feedback process description</summary>
+      <h3>Recommended template</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-process-en.png" class="img-responsive" alt="A long description can be found after the image">
         <figcaption>
           <details>
@@ -232,8 +231,8 @@ title: Documentation for accessibility templates
       <li>As departments and agencies implement, provide comments and feedback to dto.btn@tbs-sct.gc.ca</li>
       <li>Will integrate to the pattern and template library</li>
     </ul>
-	</div>
-	</div>
+  </div>
+</section>
 <section class="container">
   <div class="row">
     <h2 id="annex">Annex - Publishing plans</h2>
