@@ -65,7 +65,7 @@ title: Documentation for accessibility templates
     </ul>
   </div>
 </section>
-<ul class="list-unstyled">
+<ul class="list-unstyled mrgn-tp-lg">
 	<li>
 		<details>
       <summary>Information structure and navigation</summary>
