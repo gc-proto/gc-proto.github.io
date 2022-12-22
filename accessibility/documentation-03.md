@@ -70,7 +70,7 @@ title: Documentation for accessibility templates
 		<details>
       <summary class="bg-info">Information structure and navigation</summary>
       <h3>Recommended information architecture for institutional websites</h3>
-      <figure class="gc-complex-img" role="group"> <img src="../assets/img/info-structure-en.png" class="img-responsive" alt="A long description can be found after the image">
+      <figure class="gc-complex-img" role="group"><img src="../assets/img/info-structure-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
