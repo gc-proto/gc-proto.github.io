@@ -118,7 +118,7 @@ title: Documentation for accessibility templates
           </details>
         </figcaption>
       </figure>
-      <p class="mrgn-tp-lg"><a href="accessibility.html">Working examples - Institutional accessibility page</a></p>
+      <p class="mrgn-tp-lg"><a href="accessibility.html"><span class="fas fa-universal-access mrgn-rght-md"></i> Working examples - Institutional accessibility page</a></p>
       <h3>Design considerations</h3>
       <ul>
         <li>Likely top task will be giving feedback, so the page uses the Super-task button</li>
@@ -177,7 +177,7 @@ title: Documentation for accessibility templates
           </details>
         </figcaption>
       </figure>
-      <p><a href="feedback-form.html">Working examples - Accessibility feedback form</a></p>
+      <p class="mrgn-tp-lg"><a href="feedback-form.html">Working examples - Accessibility feedback form</a></p>
       <h4>Recommended template - acknowledgement page</h4>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/acknowledgement-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
