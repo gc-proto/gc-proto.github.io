@@ -78,7 +78,7 @@ title: Documentation for accessibility templates
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
-            <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg"  aria-hidden="true"></span> Screenshot of Agriculture and Agri-Food Canada's public facing website. Under 'About AAFC', you can find 4 links: About our department, Transparency, Accessibility, Job opportunities.</p>
+            <p class="mrgn-tp-lg">Screenshot of Agriculture and Agri-Food Canada's public facing website. Under 'About AAFC', you can find 4 links: About our department, Transparency, Accessibility, Job opportunities.</p>
           </details>
         </figcaption>
       </figure>
