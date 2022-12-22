@@ -88,7 +88,7 @@ title: Documentation for accessibility templates
           </details>
         </figcaption>
       </figure>
-      <p>Example drawn from <a href="https://agriculture.canada.ca/en">AAFC’s institutional landing page</a></p>
+    <p class="mrgn-tp-lg">Example drawn from <a href="https://agriculture.canada.ca/en">AAFC’s institutional landing page</a></p>
       <h3>Breadcrumb for accessibility products</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/breadcrumb-en.png" class="img-responsive" alt="A long description can be found after the image">
         <figcaption>
@@ -112,7 +112,7 @@ title: Documentation for accessibility templates
       <h3>Recommended template</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-landing-page-en.png" class="img-responsive" alt="A long description can be found after the image">
         <figcaption>
-          <details cllass="small">
+          <details class="small">
             <summary>Detailed description</summary>
             <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled 'Accessibility at Institution name'. There is a green button named 'Provide feedback', then 2 links: Accessibility Plan and Feedback process.</p>
           </details>
@@ -181,8 +181,8 @@ title: Documentation for accessibility templates
       <h4>Recommended template - acknowledgement page</h4>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/acknowledgement-en.png" class="img-responsive" alt="A long description can be found after the image">
         <figcaption>
-          <details>
-            <summary class="small">Detailed description</summary>
+          <details class="small">
+            <summary>Detailed description</summary>
           <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled 'Accessibility feedback form acknowledgement'. Thank you for your feedback.</p>
           </details>
         </figcaption>
@@ -210,11 +210,11 @@ title: Documentation for accessibility templates
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
-            <p>Screenshot of the Government of Canada's website titled 'Accessibility feedback process at institution name'. Many links how to provide feedback.</p>
+            <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled 'Accessibility feedback process at institution name'. Many links how to provide feedback.</p>
           </details>
         </figcaption>
       </figure>
-      <p><a href="feedback-process.html">Working examples - Accessibility feedback process description</a></p>
+      <p class="mrgn-tp-lg"><a href="feedback-process.html">Working examples - Accessibility feedback process description</a></p>
       <h4>Design considerations</h4>
       <p>Designed to focus on top-of-mind user needs, rather than providing an exhaustive description of back-office procedures.</p>
       <p>Ensure the underlying process meets the requirements outlined in Guidance on feedback processes:</p>
