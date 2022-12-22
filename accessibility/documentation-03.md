@@ -68,7 +68,7 @@ title: Documentation for accessibility templates
 <ul class="list-unstyled mrgn-tp-lg">
 	<li>
 		<details>
-      <summary>Information structure and navigation</summary>
+      <summary class="bg-info">Information structure and navigation</summary>
       <h3>Recommended information architecture for institutional websites</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/info-structure-en.png" class="img-responsive" alt="A long description can be found after the image">
         <figcaption>
