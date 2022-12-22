@@ -80,17 +80,17 @@ title: Documentation for accessibility templates
       </figure>
       <h4>Accessibility link from Institutional landing page (ILP)</h4>
       <p>Recommended link label is "Accessibility"</p>
-      <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-link-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
+      <figure class="gc-complex-img" role="group"><img src="../assets/img/accessibility-link-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
-           <p class="mrgn-tp-lg">Screenshot of Agriculture and Agri-Food Canada's public facing website. Under 'About AAFC', you can find 4 links: About our department, Transparency, Accessibility, Job opportunities.</p>
+           <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg"></span> Screenshot of Agriculture and Agri-Food Canada's public facing website. Under 'About AAFC', you can find 4 links: About our department, Transparency, Accessibility, Job opportunities.</p>
           </details>
         </figcaption>
       </figure>
     <p class="mrgn-tp-lg">Example drawn from <a href="https://agriculture.canada.ca/en">AAFC’s institutional landing page</a></p>
       <h3>Breadcrumb for accessibility products</h3>
-      <figure class="gc-complex-img" role="group"> <img src="../assets/img/breadcrumb-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
+      <figure class="gc-complex-img" role="group"><img src="../assets/img/breadcrumb-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
@@ -110,7 +110,7 @@ title: Documentation for accessibility templates
     <details id="details-panel2">
       <summary class="bg-info">Institutional accessibility page</summary>
       <h3>Recommended template</h3>
-      <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-landing-page-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
+      <figure class="gc-complex-img" role="group"><img src="../assets/img/accessibility-landing-page-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
@@ -140,7 +140,7 @@ title: Documentation for accessibility templates
           </details>
         </figcaption>
       </figure>
-      <p class="mrgn-tp-lg"><a href="plan.html">Working examples - Accessibility plan</a></p>
+      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg"></span> <a href="plan.html">Working examples - Accessibility plan</a></p>
       <h3>Design considerations</h3>
       <p>Ensure the plan meets the requirements outlined in <a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance/accessibility-plans.html">Guidance on accessibility plans</a>:</p>
       <ul>
@@ -177,7 +177,7 @@ title: Documentation for accessibility templates
           </details>
         </figcaption>
       </figure>
-      <p class="mrgn-tp-lg"><a href="feedback-form.html">Working examples - Accessibility feedback form</a></p>
+      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg"></span> <a href="feedback-form.html">Working examples - Accessibility feedback form</a></p>
       <h4>Recommended template - acknowledgement page</h4>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/acknowledgement-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
@@ -187,7 +187,7 @@ title: Documentation for accessibility templates
           </details>
         </figcaption>
       </figure>
-      <p class="mrgn-tp-lg"><a href="feedback-acknowledgement.html">Working examples - Acknowledgement page</a></p>
+      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg"></span> <a href="feedback-acknowledgement.html">Working examples - Acknowledgement page</a></p>
       <h3>Design considerations</h3>
       <p>You will need to hook the intake form up to something - a generic email, a ticketing system, etc. (remember to keep incoming feedback for 7 years!)</p>
       <ul>
@@ -214,7 +214,7 @@ title: Documentation for accessibility templates
           </details>
         </figcaption>
       </figure>
-      <p class="mrgn-tp-lg"><a href="feedback-process.html">Working examples - Accessibility feedback process description</a></p>
+      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg"></span> <a href="feedback-process.html">Working examples - Accessibility feedback process description</a></p>
       <h4>Design considerations</h4>
       <p>Designed to focus on top-of-mind user needs, rather than providing an exhaustive description of back-office procedures.</p>
       <p>Ensure the underlying process meets the requirements outlined in Guidance on feedback processes:</p>
@@ -230,7 +230,7 @@ title: Documentation for accessibility templates
 </details>
 	</li>
 </ul>
-<section class="container">
+<section>
   <div class="row">
     <h2 id="next">Next steps - Maturing the working examples</h2>
     <p>These working examples are a first step:</p>
@@ -241,7 +241,7 @@ title: Documentation for accessibility templates
     </ul>
   </div>
 </section>
-<section class="container">
+<section>
   <div class="row">
     <h2 id="annex">Annex - Publishing plans</h2>
     <h3>Procedures for publishing under the Policy on Communications and Federal Identity</h3>
