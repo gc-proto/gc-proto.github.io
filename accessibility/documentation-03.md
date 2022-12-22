@@ -112,7 +112,7 @@ h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentat
           </details>
         </figcaption>
       </figure>
-      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg"></span> <a href="accessibility.html">Working examples - Institutional accessibility page</a></p>
+      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg"></span> <a href="accessibility.html">Working example - Institutional accessibility page</a></p>
       <h3>Design considerations</h3>
       <ul>
         <li>Likely top task will be giving feedback, so the page uses the Super-task button</li>
@@ -134,7 +134,7 @@ h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentat
           </details>
         </figcaption>
       </figure>
-      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg"></span> <a href="plan.html">Working examples - Accessibility plan</a></p>
+      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg"></span> <a href="plan.html">Working example - Accessibility plan</a></p>
       <h3>Design considerations</h3>
       <p>Ensure the plan meets the requirements outlined in <a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance/accessibility-plans.html">Guidance on accessibility plans</a>:</p>
       <ul>
@@ -171,7 +171,7 @@ h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentat
           </details>
         </figcaption>
       </figure>
-      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg"></span> <a href="feedback-form.html">Working examples - Accessibility feedback form</a></p>
+      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg"></span> <a href="feedback-form.html">Working example - Accessibility feedback form</a></p>
       <h4>Recommended template - acknowledgement page</h4>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/acknowledgement-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
@@ -181,7 +181,7 @@ h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentat
           </details>
         </figcaption>
       </figure>
-      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg"></span> <a href="feedback-acknowledgement.html">Working examples - Acknowledgement page</a></p>
+      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg"></span> <a href="feedback-acknowledgement.html">Working example - Acknowledgement page</a></p>
       <h3>Design considerations</h3>
       <p>You will need to hook the intake form up to something - a generic email, a ticketing system, etc. (remember to keep incoming feedback for 7 years!)</p>
       <ul>
@@ -208,7 +208,7 @@ h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentat
           </details>
         </figcaption>
       </figure>
-      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg"></span> <a href="feedback-process.html">Working examples - Accessibility feedback process description</a></p>
+      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg"></span> <a href="feedback-process.html">Working example - Accessibility feedback process description</a></p>
       <h4>Design considerations</h4>
       <p>Designed to focus on top-of-mind user needs, rather than providing an exhaustive description of back-office procedures.</p>
       <p>Ensure the underlying process meets the requirements outlined in Guidance on feedback processes:</p>
