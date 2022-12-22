@@ -28,7 +28,7 @@ title: Documentation for accessibility templates
     </ul>
   </div>
 </section>
-<section">
+<section>
   <div class="row">
     <h2 id="context">Context</h2>
     <h3>3 key design patterns</h3>
@@ -74,7 +74,7 @@ title: Documentation for accessibility templates
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
-            <p>Diagram of recommended website structure. First row on top: Institutional landing page (ILP). Second row: Accessibility page. Third row at the bottom, 3 elements: Accessibility plan, Feedback mechanism, Description of feedback process</p>
+            <p class="mrgn-tp-lg">Diagram of recommended website structure. First row on top: Institutional landing page (ILP). Second row: Accessibility page. Third row at the bottom, 3 elements: Accessibility plan, Feedback mechanism, Description of feedback process</p>
           </details>
         </figcaption>
       </figure>
@@ -82,9 +82,9 @@ title: Documentation for accessibility templates
       <p>Recommended link label is "Accessibility"</p>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-link-en.png" class="img-responsive" alt="A long description can be found after the image">
         <figcaption>
-          <details>
+          <details class="small">
             <summary>Detailed description</summary>
-            <p>Screenshot of Agriculture and Agri-Food Canada's public facing website. Under 'About AAFC', you can find 4 links: About our department, Transparency, Accessibility, Job opportunities.</p>
+           <p class="mrgn-tp-lg">Screenshot of Agriculture and Agri-Food Canada's public facing website. Under 'About AAFC', you can find 4 links: About our department, Transparency, Accessibility, Job opportunities.</p>
           </details>
         </figcaption>
       </figure>
@@ -92,9 +92,9 @@ title: Documentation for accessibility templates
       <h3>Breadcrumb for accessibility products</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/breadcrumb-en.png" class="img-responsive" alt="A long description can be found after the image">
         <figcaption>
-          <details>
+          <details class="small">
             <summary>Detailed description</summary>
-            <p>Screenshot of the Government of Canada's website. The breadcrumbs are: Canada.ca, Institution name, Accessibility at 'Institution name'</p>
+           <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website. The breadcrumbs are: Canada.ca, Institution name, Accessibility at 'Institution name'</p>
           </details>
         </figcaption>
       </figure>
@@ -112,13 +112,13 @@ title: Documentation for accessibility templates
       <h3>Recommended template</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-landing-page-en.png" class="img-responsive" alt="A long description can be found after the image">
         <figcaption>
-          <details>
+          <details cllass="small">
             <summary>Detailed description</summary>
-            <p>Screenshot of the Government of Canada's website titled 'Accessibility at Institution name'. There is a green button named 'Provide feedback', then 2 links: Accessibility Plan and Feedback process.</p>
+            <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled 'Accessibility at Institution name'. There is a green button named 'Provide feedback', then 2 links: Accessibility Plan and Feedback process.</p>
           </details>
         </figcaption>
       </figure>
-      <p><a href="accessibility.html">Working examples - Institutional accessibility page</a></p>
+      <p class="mrgn-tp-lg"><a href="accessibility.html">Working examples - Institutional accessibility page</a></p>
       <h3>Design considerations</h3>
       <ul>
         <li>Likely top task will be giving feedback, so the page uses the Super-task button</li>
@@ -134,13 +134,13 @@ title: Documentation for accessibility templates
       <h3>Recommended template</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-plan-en.png" class="img-responsive" alt="A long description can be found after the image">
         <figcaption>
-          <details>
+          <details class="small">
             <summary>Detailed description</summary>
-            <p>Screenshot of the Government of Canada's website titled 'Accessibility plan at Institution name' with a link to a Sample Accessibility Plan Template. Under it there is a link titled 'List of accessibility plans from other institutions'.</p>
+           <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled 'Accessibility plan at Institution name' with a link to a Sample Accessibility Plan Template. Under it there is a link titled 'List of accessibility plans from other institutions'.</p>
           </details>
         </figcaption>
       </figure>
-      <p><a href="plan.html">Working examples - Accessibility plan</a></p>
+      <p class="mrgn-tp-lg"><a href="plan.html">Working examples - Accessibility plan</a></p>
       <h3>Design considerations</h3>
       <p>Ensure the plan meets the requirements outlined in <a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance/accessibility-plans.html">Guidance on accessibility plans</a>:</p>
       <ul>
@@ -171,9 +171,9 @@ title: Documentation for accessibility templates
       <h3>Recommended template – feedback form</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-form-en.png" class="img-responsive" alt="A long description can be found after the image">
         <figcaption>
-          <details>
+          <details class="small">
             <summary>Detailed description</summary>
-            <p>Screenshot of the Government of Canada's website titled 'Accessibility feedback form'. Example of question with radio buttons.</p>
+            <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled 'Accessibility feedback form'. Example of question with radio buttons.</p>
           </details>
         </figcaption>
       </figure>
@@ -182,12 +182,12 @@ title: Documentation for accessibility templates
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/acknowledgement-en.png" class="img-responsive" alt="A long description can be found after the image">
         <figcaption>
           <details>
-            <summary>Detailed description</summary>
-            <p>Screenshot of the Government of Canada's website titled 'Accessibility feedback form acknowledgement'. Thank you for your feedback.</p>
+            <summary class="small">Detailed description</summary>
+          <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled 'Accessibility feedback form acknowledgement'. Thank you for your feedback.</p>
           </details>
         </figcaption>
       </figure>
-      <p><a href="feedback-acknowledgement.html">Working examples - Acknowledgement page</a></p>
+      <p class="mrgn-tp-lg"><a href="feedback-acknowledgement.html">Working examples - Acknowledgement page</a></p>
       <h3>Design considerations</h3>
       <p>You will need to hook the intake form up to something - a generic email, a ticketing system, etc. (remember to keep incoming feedback for 7 years!)</p>
       <ul>
@@ -208,7 +208,7 @@ title: Documentation for accessibility templates
       <h3>Recommended template</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-process-en.png" class="img-responsive" alt="A long description can be found after the image">
         <figcaption>
-          <details>
+          <details class="small">
             <summary>Detailed description</summary>
             <p>Screenshot of the Government of Canada's website titled 'Accessibility feedback process at institution name'. Many links how to provide feedback.</p>
           </details>
