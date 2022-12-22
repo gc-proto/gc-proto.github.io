@@ -66,8 +66,8 @@ title: Documentation for accessibility templates
   </div>
 </section>
 <ul class="list-unstyled mrgn-tp-lg">
-	<li>
-		<details>
+  <li>
+    <details>
       <summary class="bg-info">Information structure and navigation</summary>
       <h3>Recommended information architecture for institutional websites</h3>
       <figure class="gc-complex-img" role="group"><img src="../assets/img/info-structure-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
@@ -84,17 +84,17 @@ title: Documentation for accessibility templates
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
-           <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg"></span> Screenshot of Agriculture and Agri-Food Canada's public facing website. Under 'About AAFC', you can find 4 links: About our department, Transparency, Accessibility, Job opportunities.</p>
+            <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg"></span> Screenshot of Agriculture and Agri-Food Canada's public facing website. Under 'About AAFC', you can find 4 links: About our department, Transparency, Accessibility, Job opportunities.</p>
           </details>
         </figcaption>
       </figure>
-    <p class="mrgn-tp-lg">Example drawn from <a href="https://agriculture.canada.ca/en">AAFC’s institutional landing page</a></p>
+      <p class="mrgn-tp-lg">Example drawn from <a href="https://agriculture.canada.ca/en">AAFC’s institutional landing page</a></p>
       <h3>Breadcrumb for accessibility products</h3>
       <figure class="gc-complex-img" role="group"><img src="../assets/img/breadcrumb-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
-           <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website. The breadcrumbs are: Canada.ca, Institution name, Accessibility at 'Institution name'</p>
+            <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website. The breadcrumbs are: Canada.ca, Institution name, Accessibility at "Institution name"</p>
           </details>
         </figcaption>
       </figure>
@@ -104,9 +104,9 @@ title: Documentation for accessibility templates
         <li>Linking to the accessibility plan from a “Reports and plans” section</li>
         <li>Linking to the accessibility feedback form from your “Contact us” pages</li>
       </ul>
-   </details>
-	</li>
-	<li>
+    </details>
+  </li>
+  <li>
     <details id="details-panel2">
       <summary class="bg-info">Institutional accessibility page</summary>
       <h3>Recommended template</h3>
@@ -114,7 +114,7 @@ title: Documentation for accessibility templates
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
-            <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled 'Accessibility at Institution name'. There is a green button named 'Provide feedback', then 2 links: Accessibility Plan and Feedback process.</p>
+            <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled "Accessibility at Institution name". There is a green button named "Provide feedback", then 2 links: Accessibility Plan and Feedback process.</p>
           </details>
         </figcaption>
       </figure>
@@ -126,9 +126,9 @@ title: Documentation for accessibility templates
         <li>Other patterns can be used as well on this page (e.g. Most requested band, contextual features)</li>
         <li>Design will likely evolve as future requirements come online, e.g. accessibility statements required under the <a href="https://a11y.canada.ca/en/standards/">proposed ICT accessibility standard</a></li>
       </ul>
-</details>
-	</li>
-	<li>
+    </details>
+  </li>
+  <li>
     <details id="details-panel3">
       <summary class="bg-info">Accessibility plan</summary>
       <h3>Recommended template</h3>
@@ -136,7 +136,7 @@ title: Documentation for accessibility templates
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
-           <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled 'Accessibility plan at Institution name' with a link to a Sample Accessibility Plan Template. Under it there is a link titled 'List of accessibility plans from other institutions'.</p>
+            <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled "Accessibility plan at Institution name" with a link to a Sample Accessibility Plan Template. Under it there is a link titled "List of accessibility plans from other institutions".</p>
           </details>
         </figcaption>
       </figure>
@@ -163,9 +163,9 @@ title: Documentation for accessibility templates
         <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
         <li>Include a link or URL for the plan in the email you send</li>
       </ul>
-</details>
-	</li>
-	<li>
+    </details>
+  </li>
+  <li>
     <details id="details-panel4">
       <summary class="bg-info">Accessibility feedback form</summary>
       <h3>Recommended template – feedback form</h3>
@@ -173,7 +173,7 @@ title: Documentation for accessibility templates
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
-            <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled 'Accessibility feedback form'. Example of question with radio buttons.</p>
+            <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled "Accessibility feedback form". Example of question with radio buttons.</p>
           </details>
         </figcaption>
       </figure>
@@ -183,7 +183,7 @@ title: Documentation for accessibility templates
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
-          <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled 'Accessibility feedback form acknowledgement'. Thank you for your feedback.</p>
+            <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled "Accessibility feedback form acknowledgement". Thank you for your feedback.</p>
           </details>
         </figcaption>
       </figure>
@@ -200,9 +200,9 @@ title: Documentation for accessibility templates
         <li>Includes instructions for users to not include PII in the comment box</li>
       </ul>
       <p>When creating your own implementation, consult with your organization’s ATIP coordinator. </p>
- </details>
-	</li>
-	<li>
+    </details>
+  </li>
+  <li>
     <details id="details-panel5">
       <summary class="bg-info">Accessibility feedback process description</summary>
       <h3>Recommended template</h3>
@@ -210,7 +210,7 @@ title: Documentation for accessibility templates
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
-            <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled 'Accessibility feedback process at institution name'. Many links how to provide feedback.</p>
+            <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled "Accessibility feedback process at institution name". Many links how to provide feedback.</p>
           </details>
         </figcaption>
       </figure>
@@ -227,8 +227,8 @@ title: Documentation for accessibility templates
         <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
         <li>Include a link or URL for the process description in the email you send</li>
       </ul>
-</details>
-	</li>
+    </details>
+  </li>
 </ul>
 <section>
   <div class="row">
@@ -261,11 +261,11 @@ title: Documentation for accessibility templates
     <h3>Create a metadata record on open.canada.ca</h3>
     <p>To ensure your institutional accessibility plan is included in the central index on open.canada.ca, you need to submit a metadata record:</p>
     <ol>
-      <li>Create a <a href="http://registry.open.canada.ca/">registry account</a>: select <b>Request an Account</b>.  It can take up to 24 hours for the account to be activated.</li>
+      <li>Create a <a href="http://registry.open.canada.ca/">registry account</a>: select <strong>Request an Account</strong>.  It can take up to 24 hours for the account to be activated.</li>
       <li>Once your account has been created, you will be able to create your record by populating the required metadata.<br>
-        <b>Note</b>: you will require your institution’s IMSO approval for releasing a record.  Once approval is given, you will not require an additional approval for future updates.  We do not require you to provide the approval to us.</li>
-      <li>Select <b>Create Open Information Asset</b> on the registry landing page.</li>
-      <li>Select <b>Institutional Accessibility Plans</b> from the dropdown and complete the metadata fields.<br>
+        <strong>Note</strong>: you will require your institution’s IMSO approval for releasing a record.  Once approval is given, you will not require an additional approval for future updates.  We do not require you to provide the approval to us.</li>
+      <li>Select <strong>Create Open Information Asset</strong> on the registry landing page.</li>
+      <li>Select <strong>Institutional Accessibility Plans</strong> from the dropdown and complete the metadata fields.<br>
         This form allows you to describe each resource assigned to a dataset or asset.</li>
     </ol>
     <p>Once completed, your record will be placed in the Open Government Registry publishing queue for review and publication within 24 hours.</p>
