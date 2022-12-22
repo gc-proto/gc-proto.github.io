@@ -88,7 +88,7 @@ title: Documentation for accessibility templates
           </details>
         </figcaption>
       </figure>
-      <p class="mrgn-tp-lg">Example drawn from <a href="https://agriculture.canada.ca/en">AAFC’s institutional landing page</a></p>
+      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg"></span> Example drawn from <a href="https://agriculture.canada.ca/en">AAFC’s institutional landing page</a></p>
       <h3>Breadcrumb for accessibility products</h3>
       <figure class="gc-complex-img" role="group"><img src="../assets/img/breadcrumb-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
