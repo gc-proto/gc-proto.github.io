@@ -118,7 +118,7 @@ title: Documentation for accessibility templates
           </details>
         </figcaption>
       </figure>
-      <p class="mrgn-tp-lg"><a href="accessibility.html"><span class="fas fa-universal-access mrgn-rght-md"></i> Working examples - Institutional accessibility page</a></p>
+      <p class="mrgn-tp-lg"><a href="accessibility.html"><span class="fas fa-universal-access mrgn-rght-md"></span> Working examples - Institutional accessibility page</a></p>
       <h3>Design considerations</h3>
       <ul>
         <li>Likely top task will be giving feedback, so the page uses the Super-task button</li>
