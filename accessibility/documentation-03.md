@@ -80,7 +80,7 @@ title: Documentation for accessibility templates
       </figure>
       <h4>Accessibility link from Institutional landing page (ILP)</h4>
       <p>Recommended link label is "Accessibility"</p>
-      <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-link-en.png" class="img-responsive" alt="A long description can be found after the image">
+      <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-link-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
@@ -90,7 +90,7 @@ title: Documentation for accessibility templates
       </figure>
     <p class="mrgn-tp-lg">Example drawn from <a href="https://agriculture.canada.ca/en">AAFC’s institutional landing page</a></p>
       <h3>Breadcrumb for accessibility products</h3>
-      <figure class="gc-complex-img" role="group"> <img src="../assets/img/breadcrumb-en.png" class="img-responsive" alt="A long description can be found after the image">
+      <figure class="gc-complex-img" role="group"> <img src="../assets/img/breadcrumb-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
@@ -108,9 +108,9 @@ title: Documentation for accessibility templates
 	</li>
 	<li>
     <details id="details-panel2">
-      <summary>Institutional accessibility page</summary>
+      <summary class="bg-info">Institutional accessibility page</summary>
       <h3>Recommended template</h3>
-      <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-landing-page-en.png" class="img-responsive" alt="A long description can be found after the image">
+      <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-landing-page-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
@@ -130,9 +130,9 @@ title: Documentation for accessibility templates
 	</li>
 	<li>
     <details id="details-panel3">
-      <summary>Accessibility plan</summary>
+      <summary class="bg-info">Accessibility plan</summary>
       <h3>Recommended template</h3>
-      <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-plan-en.png" class="img-responsive" alt="A long description can be found after the image">
+      <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-plan-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
@@ -167,9 +167,9 @@ title: Documentation for accessibility templates
 	</li>
 	<li>
     <details id="details-panel4">
-      <summary>Accessibility feedback form</summary>
+      <summary class="bg-info">Accessibility feedback form</summary>
       <h3>Recommended template – feedback form</h3>
-      <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-form-en.png" class="img-responsive" alt="A long description can be found after the image">
+      <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-form-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
@@ -179,7 +179,7 @@ title: Documentation for accessibility templates
       </figure>
       <p><a href="feedback-form.html">Working examples - Accessibility feedback form</a></p>
       <h4>Recommended template - acknowledgement page</h4>
-      <figure class="gc-complex-img" role="group"> <img src="../assets/img/acknowledgement-en.png" class="img-responsive" alt="A long description can be found after the image">
+      <figure class="gc-complex-img" role="group"> <img src="../assets/img/acknowledgement-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
@@ -204,9 +204,9 @@ title: Documentation for accessibility templates
 	</li>
 	<li>
     <details id="details-panel5">
-      <summary>Accessibility feedback process description</summary>
+      <summary class="bg-info">Accessibility feedback process description</summary>
       <h3>Recommended template</h3>
-      <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-process-en.png" class="img-responsive" alt="A long description can be found after the image">
+      <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-process-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
