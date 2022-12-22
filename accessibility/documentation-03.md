@@ -14,7 +14,7 @@ description: Documentation for the templates for an institution’s Accessibilit
 title: Documentation for accessibility templates
 ---
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation for accessibility templates</span>: <span>Canada.ca design system</span></span></h1>
-<section class="container">
+<section>
   <div class="row">
     <p>Government departments, agencies and Crown corporations are required to publish an accessibility plan, a feedback process and a feedback mechanism on their websites.</p>
     <p>These templates are designed to help departments implement these requirements in a consistent way.</p>
@@ -28,7 +28,7 @@ title: Documentation for accessibility templates
     </ul>
   </div>
 </section>
-<section class="container">
+<section">
   <div class="row">
     <h2 id="context">Context</h2>
     <h3>3 key design patterns</h3>
@@ -42,7 +42,7 @@ title: Documentation for accessibility templates
     <ul>
       <li><a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance.html">Guidance on the Accessible Canada Regulations</a></li>
     </ul>
-    <p><b>Publishing deadline</b>: December 31, 2022</p>
+    <p class="mrgn-tp-lg"><strong>Publishing deadline</strong>: December 31, 2022</p>
     <h3>What are accessibility plans?</h3>
     <p>A document that outlines an institution's plan regarding the accessibility of all its programs, products, and services. Takes a total view of accessibility, from online to in real life (IRL), both public-facing and internal.</p>
     <p>The accessibility plan is the first deliverable in a 3-year planning and reporting cycle (annual progress reports to come).</p>
@@ -54,7 +54,7 @@ title: Documentation for accessibility templates
     <p>An online form is only one aspect of the feedback mechanism, as people must be able to give feedback by a variety of means.</p>
   </div>
 </section>
-<section class="container">
+<section>
   <div class="row">
     <h2 id="approach">Recommended approach</h2>
     <p>The following working examples represent the recommended approach - not mandatory templates.</p>
@@ -72,7 +72,7 @@ title: Documentation for accessibility templates
       <h3>Recommended information architecture for institutional websites</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/info-structure-en.png" class="img-responsive" alt="A long description can be found after the image">
         <figcaption>
-          <details>
+          <details class="small">
             <summary>Detailed description</summary>
             <p>Diagram of recommended website structure. First row on top: Institutional landing page (ILP). Second row: Accessibility page. Third row at the bottom, 3 elements: Accessibility plan, Feedback mechanism, Description of feedback process</p>
           </details>
