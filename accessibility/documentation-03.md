@@ -13,57 +13,51 @@ dateModified: 2022-12-21
 description: Documentation for the templates for an institution’s Accessibility plan and feedback section.
 title: Documentation for accessibility templates
 ---
-<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation for accessibility templates</span>: <span>Canada.ca design system</span></span></h1>
+h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation for accessibility templates</span>: <span>Canada.ca design system</span></span></h1>
 <section>
-  <div class="row">
-    <p>Government departments, agencies and Crown corporations are required to publish an accessibility plan, a feedback process and a feedback mechanism on their websites.</p>
-    <p>These templates are designed to help departments implement these requirements in a consistent way.</p>
-    <p>The approach and instructions here were presented in November to support web managers implementing these changes.</p>
-    <h2>On this page</h2>
-    <ul>
-      <li><a href="#context">Context</a></li>
-      <li><a href="#approach">Recommended approach</a></li>
-      <li><a href="#next">Next steps</a></li>
-      <li><a href="#annex">Annex</a></li>
-    </ul>
-  </div>
+  <p>Government departments, agencies and Crown corporations are required to publish an accessibility plan, a feedback process and a feedback mechanism on their websites.</p>
+  <p>These templates are designed to help departments implement these requirements in a consistent way.</p>
+  <p>The approach and instructions here were presented in November to support web managers implementing these changes.</p>
+  <h2>On this page</h2>
+  <ul>
+    <li><a href="#context">Context</a></li>
+    <li><a href="#approach">Recommended approach</a></li>
+    <li><a href="#next">Next steps</a></li>
+    <li><a href="#annex">Annex</a></li>
+  </ul>
 </section>
 <section>
-  <div class="row">
-    <h2 id="context">Context</h2>
-    <h3>3 key design patterns</h3>
-    <p>3 patterns that impact institutions on Canada.ca:</p>
-    <ul>
-      <li>Institutional accessibility plan</li>
-      <li>Institutional accessibility feedback process description</li>
-      <li>Institutional accessibility feedback mechanism</li>
-    </ul>
-    <p>These are derived from the requirements under the Accessible Canada Act and Regulations.</p>
-    <ul>
-      <li><a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance.html">Guidance on the Accessible Canada Regulations</a></li>
-    </ul>
-    <p class="mrgn-tp-lg"><strong>Publishing deadline</strong>: December 31, 2022</p>
-    <h3>What are accessibility plans?</h3>
-    <p>A document that outlines an institution's plan regarding the accessibility of all its programs, products, and services. Takes a total view of accessibility, from online to in real life (IRL), both public-facing and internal.</p>
-    <p>The accessibility plan is the first deliverable in a 3-year planning and reporting cycle (annual progress reports to come).</p>
-    <h3>What is the accessibility feedback process description?</h3>
-    <p>A published description of how your institutional feedback process works. It must be published alongside your accessibility plan.</p>
-    <h3>What is the accessibility feedback mechanism?</h3>
-    <p>A means for the users of an institution's programs and services to provide feedback about any aspect of the accessibility of its programs and services.</p>
-    <p>The feedback mechanism must be always available, as feedback processes are meant to be ongoing.</p>
-    <p>An online form is only one aspect of the feedback mechanism, as people must be able to give feedback by a variety of means.</p>
-  </div>
+  <h2 id="context">Context</h2>
+  <h3>3 key design patterns</h3>
+  <p>3 patterns that impact institutions on Canada.ca:</p>
+  <ul>
+    <li>Institutional accessibility plan</li>
+    <li>Institutional accessibility feedback process description</li>
+    <li>Institutional accessibility feedback mechanism</li>
+  </ul>
+  <p>These are derived from the requirements under the Accessible Canada Act and Regulations.</p>
+  <ul>
+    <li><a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance.html">Guidance on the Accessible Canada Regulations</a></li>
+  </ul>
+  <p class="mrgn-tp-lg"><strong>Publishing deadline</strong>: December 31, 2022</p>
+  <h3>What are accessibility plans?</h3>
+  <p>A document that outlines an institution's plan regarding the accessibility of all its programs, products, and services. Takes a total view of accessibility, from online to in real life (IRL), both public-facing and internal.</p>
+  <p>The accessibility plan is the first deliverable in a 3-year planning and reporting cycle (annual progress reports to come).</p>
+  <h3>What is the accessibility feedback process description?</h3>
+  <p>A published description of how your institutional feedback process works. It must be published alongside your accessibility plan.</p>
+  <h3>What is the accessibility feedback mechanism?</h3>
+  <p>A means for the users of an institution's programs and services to provide feedback about any aspect of the accessibility of its programs and services.</p>
+  <p>The feedback mechanism must be always available, as feedback processes are meant to be ongoing.</p>
+  <p>An online form is only one aspect of the feedback mechanism, as people must be able to give feedback by a variety of means.</p>
 </section>
 <section>
-  <div class="row">
-    <h2 id="approach">Recommended approach</h2>
-    <p>The following working examples represent the recommended approach - not mandatory templates.</p>
-    <ul>
-      <li>Starting point - adjust as needed for your situation</li>
-      <li>Designed for simplicity and with a focus on top user tasks like providing feedback, reviewing the plan, and understanding the process</li>
-      <li>Built with standard WET code elements to maximize WCAG conformance</li>
-    </ul>
-  </div>
+  <h2 id="approach">Recommended approach</h2>
+  <p>The following working examples represent the recommended approach - not mandatory templates.</p>
+  <ul>
+    <li>Starting point - adjust as needed for your situation</li>
+    <li>Designed for simplicity and with a focus on top user tasks like providing feedback, reviewing the plan, and understanding the process</li>
+    <li>Built with standard WET code elements to maximize WCAG conformance</li>
+  </ul>
 </section>
 <ul class="list-unstyled mrgn-tp-lg">
   <li>
@@ -88,7 +82,7 @@ title: Documentation for accessibility templates
           </details>
         </figcaption>
       </figure>
-      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg"></span> Example drawn from <a href="https://agriculture.canada.ca/en">AAFC’s institutional landing page</a></p>
+      <p class="mrgn-tp-lg">Example drawn from <a href="https://agriculture.canada.ca/en">AAFC’s institutional landing page</a></p>
       <h3>Breadcrumb for accessibility products</h3>
       <figure class="gc-complex-img" role="group"><img src="../assets/img/breadcrumb-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
@@ -231,44 +225,40 @@ title: Documentation for accessibility templates
   </li>
 </ul>
 <section>
-  <div class="row">
-    <h2 id="next">Next steps - Maturing the working examples</h2>
-    <p>These working examples are a first step:</p>
-    <ul>
-      <li>Will monitor and iterate, based on data and evidence</li>
-      <li>As departments and agencies implement, provide comments and feedback to dto.btn@tbs-sct.gc.ca</li>
-      <li>Will integrate to the pattern and template library</li>
-    </ul>
-  </div>
+  <h2 id="next">Next steps - Maturing the working examples</h2>
+  <p>These working examples are a first step:</p>
+  <ul>
+    <li>Will monitor and iterate, based on data and evidence</li>
+    <li>As departments and agencies implement, provide comments and feedback to dto.btn@tbs-sct.gc.ca</li>
+    <li>Will integrate to the pattern and template library</li>
+  </ul>
 </section>
 <section>
-  <div class="row">
-    <h2 id="annex">Annex - Publishing plans</h2>
-    <h3>Procedures for publishing under the Policy on Communications and Federal Identity</h3>
-    <p>Since institutional accessibility plans are considered official publications of the Government of Canada, a PDF version of the accessibility plan needs to be included in the <a href="https://publications.gc.ca">catalogue at publications.gc.ca</a>.</p>
-    <p>Follow these steps:</p>
-    <ol>
-      <li>Obtain an ISSN from Library and Archives Canada:<br>
-        <a href="https://library-archives.canada.ca/eng/services/publishers/issn/Pages/issn.aspx">International Standard Serial Numbers (ISSN)</a></li>
-      <li>Obtain a GC catalogue number from PSPC:<br>
-        <a href="https://publications.gc.ca/site/eng/services/applyForISBN.html">Catalogue numbers - Government of Canada Publications</a></li>
-      <li>Put both numbers in your Accessibility plans, as per PSPC guidance on copyright pages:<br>
-        <a href="https://publications.gc.ca/site/eng/services/formatCopyPage.html">Formatting the copyright page</a></li>
-      <li>Submit to PSPC for posting on publications.gc.ca via email:<br>
-        publications.acquisitions@pwgsc.gc.ca</li>
-    </ol>
-    <p><strong>Tip</strong>: given the subject matter of the accessibility plan, prepare an accessible PDF.</p>
-    <h3>Create a metadata record on open.canada.ca</h3>
-    <p>To ensure your institutional accessibility plan is included in the central index on open.canada.ca, you need to submit a metadata record:</p>
-    <ol>
-      <li>Create a <a href="http://registry.open.canada.ca/">registry account</a>: select <strong>Request an Account</strong>.  It can take up to 24 hours for the account to be activated.</li>
-      <li>Once your account has been created, you will be able to create your record by populating the required metadata.<br>
-        <strong>Note</strong>: you will require your institution’s IMSO approval for releasing a record.  Once approval is given, you will not require an additional approval for future updates.  We do not require you to provide the approval to us.</li>
-      <li>Select <strong>Create Open Information Asset</strong> on the registry landing page.</li>
-      <li>Select <strong>Institutional Accessibility Plans</strong> from the dropdown and complete the metadata fields.<br>
-        This form allows you to describe each resource assigned to a dataset or asset.</li>
-    </ol>
-    <p>Once completed, your record will be placed in the Open Government Registry publishing queue for review and publication within 24 hours.</p>
-    <p>Please contact your institution’s open government representative should you have additional questions about how to publish records to the registry.</p>
-  </div>
+  <h2 id="annex">Annex - Publishing plans</h2>
+  <h3>Procedures for publishing under the Policy on Communications and Federal Identity</h3>
+  <p>Since institutional accessibility plans are considered official publications of the Government of Canada, a PDF version of the accessibility plan needs to be included in the <a href="https://publications.gc.ca">catalogue at publications.gc.ca</a>.</p>
+  <p>Follow these steps:</p>
+  <ol>
+    <li>Obtain an ISSN from Library and Archives Canada:<br>
+      <a href="https://library-archives.canada.ca/eng/services/publishers/issn/Pages/issn.aspx">International Standard Serial Numbers (ISSN)</a></li>
+    <li>Obtain a GC catalogue number from PSPC:<br>
+      <a href="https://publications.gc.ca/site/eng/services/applyForISBN.html">Catalogue numbers - Government of Canada Publications</a></li>
+    <li>Put both numbers in your Accessibility plans, as per PSPC guidance on copyright pages:<br>
+      <a href="https://publications.gc.ca/site/eng/services/formatCopyPage.html">Formatting the copyright page</a></li>
+    <li>Submit to PSPC for posting on publications.gc.ca via email:<br>
+      publications.acquisitions@pwgsc.gc.ca</li>
+  </ol>
+  <p><strong>Tip</strong>: given the subject matter of the accessibility plan, prepare an accessible PDF.</p>
+  <h3>Create a metadata record on open.canada.ca</h3>
+  <p>To ensure your institutional accessibility plan is included in the central index on open.canada.ca, you need to submit a metadata record:</p>
+  <ol>
+    <li>Create a <a href="http://registry.open.canada.ca/">registry account</a>: select <strong>Request an Account</strong>.  It can take up to 24 hours for the account to be activated.</li>
+    <li>Once your account has been created, you will be able to create your record by populating the required metadata.<br>
+      <strong>Note</strong>: you will require your institution’s IMSO approval for releasing a record.  Once approval is given, you will not require an additional approval for future updates.  We do not require you to provide the approval to us.</li>
+    <li>Select <strong>Create Open Information Asset</strong> on the registry landing page.</li>
+    <li>Select <strong>Institutional Accessibility Plans</strong> from the dropdown and complete the metadata fields.<br>
+      This form allows you to describe each resource assigned to a dataset or asset.</li>
+  </ol>
+  <p>Once completed, your record will be placed in the Open Government Registry publishing queue for review and publication within 24 hours.</p>
+  <p>Please contact your institution’s open government representative should you have additional questions about how to publish records to the registry.</p>
 </section>
