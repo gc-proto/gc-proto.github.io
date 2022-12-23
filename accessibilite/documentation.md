@@ -40,9 +40,6 @@ title: Documentation pour des modèles d’accessibilité
   <ul>
     <li><a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite.html">Lignes directrices sur le Règlement canadien sur l'accessibilité</a></li>
   </ul>
-  <ul>
-    <li><a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance.html">Guidance on the Accessible Canada Regulations</a></li>
-  </ul>
   <p class="mrgn-tp-lg"><strong>Date limite de publication</strong>&nbsp;: 31 décembre 2022</p>
   <h3>Qu'est-ce qu'un plan sur l’accessibilité?</h3>
   <p>Un document qui décrit le plan d’une institution concernant l’accessibilité de tous ses programmes, produits et services. Offre une vue d’ensemble de l’accessibilité, de ce qui se trouve en ligne à &laquo;&nbsp;la vraie vi&nbsp;&raquo;, à la fois publique et interne.</p>
@@ -91,7 +88,7 @@ title: Documentation pour des modèles d’accessibilité
       <figure class="gc-complex-img" role="group"><img src="../assets/img/fil-ariane-fr.png" class="img-responsive mrgn-tp-lg" alt="Une longue description peut être trouvée après l'image.">
         <figcaption>
           <details class="small">
-            <summary>Detailed description</summary>
+            <summary>Description détaillée</summary>
             <p class="mrgn-tp-lg">Capture d'écran du site web du gouvernement du Canada. Les fils d'Ariane sont&nbsp;: Canada.ca, Nom de l'institution, Accessibilité à &laquo;&nbsp;Nom de l'institution&nbsp;&raquo;.</p>
           </details>
         </figcaption>
@@ -190,7 +187,7 @@ title: Documentation pour des modèles d’accessibilité
       <h3>Facteurs de conception</h3>
       <p>Vous devrez rattacher le formulaire de rétroaction à quelque chose – un courriel générique, un système de billetterie, etc. (n’oubliez pas de conserver les rétroactions reçues pendant sept ans!).</p>
       <ul>
-        <li>Utilisateurs d’Adobe Experience Manager (AEM) – <a href="http://requestform.portal.gc.ca/tickets.html">envoyez un billet à l’éditeur principal</a> pour tirer parti de la solution &laquo;&nbsp;archiver et oublier&nbsp;&raquo; pour rattacher les formulaires à une adresse de courriel.</li>
+        <li>Utilisateurs d’Adobe Experience Manager (AEM) – <a href="http://requestform.portal.gc.ca/billets.html">envoyez un billet à l’éditeur principal</a> pour tirer parti de la solution &laquo;&nbsp;archiver et oublier&nbsp;&raquo; pour rattacher les formulaires à une adresse de courriel.</li>
       </ul>
       <p>Les personnes soumettant une rétroaction ont la possibilité de demander une réponse – la conception du formulaire comprend des informations sur les délais d’exécution dans le cadre de ce scénario.</p>
       <p>Le formulaire a été conçu pour minimiser la collecte de renseignements d’identification personnelle (RIP)&nbsp;:</p>
@@ -204,7 +201,7 @@ title: Documentation pour des modèles d’accessibilité
   <li>
     <details id="details-panel5">
       <summary class="bg-info">Description du processus de rétroaction sur l’accessibilité</summary>
-      <h3>Recommended template</h3>
+      <h3>Modèle recommandé</h3>
       <figure class="gc-complex-img" role="group"><img src="../assets/img/processus-retroaction-fr.png" class="img-responsive mrgn-tp-lg" alt="Une longue description peut être trouvée après l'image.">
         <figcaption>
           <details class="small">
@@ -245,7 +242,7 @@ title: Documentation pour des modèles d’accessibilité
 <p>Suivez ces étapes :</p>
 <ol>
   <li>Obtenir un ISSN auprès de Bibliothèque et Archives Canada&nbsp;:<br>
-    <a href="https://bibliotheque-archives.canada.ca/fra/services/editeurs/issn/Pages/issn.aspx">Numéro international normalisé des publications en série (ISSN)</a></li>
+    <a href="https://publications.gc.ca/site/fra/services/faireDemandeISBN.html">Numéro international normalisé des publications en série (ISSN)</a></li>
   <li>Obtenir un numéro de catalogue du GC auprès de SPAC&nbsp;:<br>
     <a href="about:blank">Numéros de catalogue – Publications du gouvernement du Canada</a></li>
   <li>Mettez les deux numéros dans vos plans sur l’accessibilité, conformément aux directives de SPAC sur les pages sur le droit d’auteur&nbsp;:<br>
