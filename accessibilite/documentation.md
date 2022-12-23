@@ -14,7 +14,7 @@ description: Documentation pour les modèles de plan d'accessibilité et de sect
 lang: fr
 title: Modèles d’accessibilité - Documentation
 ---
-h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation for accessibility templates</span>: <span>Système de conception de Canada.ca</span></span></h1>
+<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation for accessibility templates</span>: <span>Système de conception de Canada.ca</span></span></h1>
 <section>
   <p>Les ministères, organismes et sociétés d'État du gouvernement doivent publier un plan d'accessibilité, un processus de rétroaction et un mécanisme de rétroaction sur leurs sites Web.</p>
   <p>Ces modèles sont conçus pour aider les ministères à mettre en œuvre ces exigences de manière cohérente.</p>
@@ -45,7 +45,7 @@ h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentat
   </ul>
   <p class="mrgn-tp-lg"><strong>Date limite de publication</strong>&nbsp;: 31 décembre 2022</p>
   <h3>Qu'est-ce qu'un plan sur l’accessibilité?</h3>
-  <p>Un document qui décrit le plan d’une institution concernant l’accessibilité de tous ses programmes, produits et services. Offre une vue d’ensemble de l’accessibilité, de ce qui se trouve en ligne à « la vraie vie », à la fois publique et interne.</p>
+  <p>Un document qui décrit le plan d’une institution concernant l’accessibilité de tous ses programmes, produits et services. Offre une vue d’ensemble de l’accessibilité, de ce qui se trouve en ligne à &laquo;&nbsp;la vraie vi&nbsp;&raquo;, à la fois publique et interne.</p>
   <p>Le plan sur l’accessibilité est le premier livrable d’un cycle de planification et de rapport de trois ans (rapports d’étape annuels à venir).</p>
   <h3>Qu'est-ce qu'une description du processus de rétroaction sur l’accessibilité?</h3>
   <p>Une description publiée du fonctionnement de votre processus de rétroaction de votre institution. Il doit être publié avec votre plan sur l’accessibilité. </p>
@@ -112,7 +112,7 @@ h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentat
         <figcaption>
           <details class="small">
             <summary>Description détaillée</summary>
-            <p class="mrgn-tp-lg">Capture d'écran du site Web du gouvernement du Canada intitulé "Accessibilité à nom de l'institution". Il y a un bouton vert intitulé "Fournir une rétroaction", puis deux liens&nbsp;: Plan sur l'accessibilité et Processus de rétroaction.</p>
+            <p class="mrgn-tp-lg">Capture d'écran du site Web du gouvernement du Canada intitulé &laquo;&nbsp;Accessibilité à nom de l'institution&nbsp;&raquo;. Il y a un bouton vert intitulé &laquo;&nbsp;Fournir une rétroaction&nbsp;&raquo;, puis deux liens&nbsp;: Plan sur l'accessibilité et Processus de rétroaction.</p>
           </details>
         </figcaption>
       </figure>
@@ -141,12 +141,12 @@ h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentat
       <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg" aria-hidden="true"></span> <a href="plan.html">Exemples - Plans sur l'accessibilité</a></p>
       <h3>Facteurs de conception</h3>
       <p>Assurez-vous que le plan répond aux exigences décrites dans<br>
-        <a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite/plans-accessibilite.html">Directives associées aux plans sur l’accessibilité</a> :</p>
+        <a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite/plans-accessibilite.html">Directives associées aux plans sur l’accessibilité</a>&nbsp;:</p>
       <ul>
         <li>Ces directives comprennent un modèle de contenu pour le plan lui-même.</li>
       </ul>
       <p>Les gens sont encouragés à fournir une rétroaction au sujet des plans sur l’accessibilité – assurez-vous qu’il y a un lien vers le processus de rétroaction et/ou le formulaire de rétroaction à partir du plan lui-même.</p>
-      <p>Pour faciliter la recherche, le SCT crée un index central des plans sur l’accessibilité sur le <a href="https://ouvert.canada.ca/fr">site du gouvernement ouvert</a> :</p>
+      <p>Pour faciliter la recherche, le SCT crée un index central des plans sur l’accessibilité sur le <a href="https://ouvert.canada.ca/fr">site du gouvernement ouvert</a>&nbsp;:</p>
       <ul>
         <li>Inclure un lien de votre plan vers l’index central.</li>
         <li>Soumettre un dossier des métadonnées pour votre plan.</li>
@@ -157,9 +157,9 @@ h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentat
         <li>Demander un ISSN et soumettre une copie à publications.gc.ca</li>
         <li>Voir l’annexe pour les instructions.</li>
       </ul>
-      <p>Les institutions doivent aviser le commissaire à l’accessibilité de la Commission canadienne des droits de la personne dans les 48 heures suivant la publication de leurs plans sur l’accessibilité :</p>
+      <p>Les institutions doivent aviser le commissaire à l’accessibilité de la Commission canadienne des droits de la personne dans les 48 heures suivant la publication de leurs plans sur l’accessibilité&nbsp;:</p>
       <ul>
-        <li>Envoyez un courriel à <a href="mailto:Info.Com@chrc-ccdp.gc.ca">Info.Com@chrc-ccdp.gc.ca</a> ou utilisez le service « <a href="https://www.accessibilitychrc.ca/fr/aviser-le-commissaire-laccessibilite">Mon portail sur l’accessibilité</a> » de la CCDP.</li>
+        <li>Envoyez un courriel à <a href="mailto:Info.Com@chrc-ccdp.gc.ca">Info.Com@chrc-ccdp.gc.ca</a> ou utilisez le service &laquo;&nbsp;<a href="https://www.accessibilitychrc.ca/fr/aviser-le-commissaire-laccessibilite">Mon portail sur l’accessibilité</a>&nbsp;&raquo; de la CCDP.</li>
         <li>Inclure un lien ou une URL pour le plan dans le courriel que vous envoyez.</li>
       </ul>
     </details>
@@ -182,8 +182,7 @@ h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentat
         <figcaption>
           <details class="small">
             <summary>Description détaillée</summary>
-            <p class="mrgn-tp-lg">Capture d'écran du site Web du gouvernement du Canada intitulée &laquo;&nbsp;Votre rétroaction a été soumise&nbsp;&raquo;
-              . Nous vous remercions pour votre rétroaction.</p>
+            <p class="mrgn-tp-lg">Capture d'écran du site Web du gouvernement du Canada intitulée &laquo;&nbsp;Votre rétroaction a été soumise&nbsp;&raquo;. Nous vous remercions pour votre rétroaction.</p>
           </details>
         </figcaption>
       </figure>
