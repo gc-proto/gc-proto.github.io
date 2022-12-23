@@ -8,7 +8,12 @@ description: Templates for an institution’s Accessibility plan and feedback se
 title: Accessibility templates
 ---
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Accessibility templates</span>: <span>Canada.ca design system</span></span></h1>
-<p>Templates for an institution’s Accessibility plan and feedback section:</p>
+<p>Templates for an institution’s Accessibility plan and feedback section</p>
+<h2>Documentation</h2>
+<ul>
+  <li class="mrgn-tp-lg"><a href="https://prycrane.github.io/gc-proto.github.io/accessibility/documentation.html">Documentation for accessibility templates</a></li> 
+  </ul>
+<h2>Templates</h2>
 <ul>
   <li class="mrgn-tp-lg"><a href="accessibility.html">Accessibility at [Institution name]</a> (landing page)</li>
   <li><a href="feedback-form.html">Accessibilty feedback form</a>
