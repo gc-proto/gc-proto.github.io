@@ -249,7 +249,7 @@ title: Documentation for accessibility templates
     <li>Submit to PSPC for posting on publications.gc.ca via email:<br>
       publications.acquisitions@pwgsc.gc.ca</li>
   </ol>
-  <p><strong>Tip</strong>: given the subject matter of the accessibility plan, prepare an accessible PDF.</p>
+  <p><strong>Tip</strong>: given the subject matter of the accessibility plan, <a href="https://helpx.adobe.com/acrobat/using/creating-accessible-pdfs.html">prepare an accessible PDF</a>.</p>
   <h3>Create a metadata record on open.canada.ca</h3>
   <p>To ensure your institutional accessibility plan is included in the central index on open.canada.ca, you need to submit a metadata record:</p>
   <ol>
