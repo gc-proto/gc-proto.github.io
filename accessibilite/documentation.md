@@ -12,7 +12,7 @@ css:
 dateModified: 2022-12-23
 description: Documentation pour les modèles de plan d'accessibilité et de section de rétroaction d'une institution.
 lang: fr
-title: Modèles d’accessibilité - Documentation
+title: Documentation pour des modèles d’accessibilité
 ---
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation pour des modèles d’accessibilité</span>: <span>Système de conception de Canada.ca</span></span></h1>
 <section>
