@@ -237,7 +237,7 @@ title: Documentation for accessibility templates
 <section>
   <h2 id="annex">Annex - Publishing plans</h2>
   <h3>Procedures for publishing under the Policy on Communications and Federal Identity</h3>
-  <p>Since institutional accessibility plans are considered official publications of the Government of Canada, a PDF version of the accessibility plan needs to be included in the <a href="https://publications.gc.ca">catalogue at publications.gc.ca</a>.</p>
+  <p>Since institutional accessibility plans are considered official publications of the Government of Canada, a PDF version of the accessibility plan needs to be included in the <a href="https://publications.gc.ca/site/eng/home.html">catalogue at publications.gc.ca</a>.</p>
   <p>Follow these steps:</p>
   <ol>
     <li>Obtain an ISSN from Library and Archives Canada:<br>
