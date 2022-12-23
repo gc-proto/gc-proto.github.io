@@ -14,7 +14,7 @@ description: Documentation pour les modèles de plan d'accessibilité et de sect
 lang: fr
 title: Modèles d’accessibilité - Documentation
 ---
-<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation for accessibility templates</span>: <span>Système de conception de Canada.ca</span></span></h1>
+<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation pour des modèles d’accessibilité</span>: <span>Système de conception de Canada.ca</span></span></h1>
 <section>
   <p>Les ministères, organismes et sociétés d'État du gouvernement doivent publier un plan d'accessibilité, un processus de rétroaction et un mécanisme de rétroaction sur leurs sites Web.</p>
   <p>Ces modèles sont conçus pour aider les ministères à mettre en œuvre ces exigences de manière cohérente.</p>
