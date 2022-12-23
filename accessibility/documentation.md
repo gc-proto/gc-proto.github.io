@@ -9,8 +9,9 @@ css:
 - https://design.canada.ca/css/split-h1.css
 - https://design.canada.ca/css/custom.css
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
-dateModified: 2022-12-22
+dateModified: 2022-12-23
 description: Documentation for the templates for an institution’s Accessibility plan and feedback section.
+lang: en
 title: Documentation for accessibility templates
 ---
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation for accessibility templates</span>: <span>Canada.ca design system</span></span></h1>
