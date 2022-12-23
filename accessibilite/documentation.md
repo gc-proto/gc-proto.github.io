@@ -242,7 +242,7 @@ h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentat
 <section>
 <h2 id="annexe">Annexe – Plans sur l’accessibilité</h2>
 <h3>Procédures de publication en vertu de la Politique sur les communications et l’image de marque</h3>
-<p>Étant donné que les plans sur l’accessibilité des institutions sont estimés comme des publications officielles du gouvernement du Canada, une version PDF du plan sur l’accessibilité doit être incluse dans le <a href="file:///C:\Users\pesmith\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\V7FJNF2X\publications.gc.ca">catalogue</a>.</p>
+<p>Étant donné que les plans sur l’accessibilité des institutions sont estimés comme des publications officielles du gouvernement du Canada, une version PDF du plan sur l’accessibilité doit être incluse dans le <a href="https://publications.gc.ca/site/fra/accueil.html">catalogue</a>.</p>
 <p>Suivez ces étapes :</p>
 <ol>
   <li>Obtenir un ISSN auprès de Bibliothèque et Archives Canada&nbsp;:<br>
