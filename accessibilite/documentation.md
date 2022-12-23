@@ -246,7 +246,7 @@ title: Documentation pour des modèles d’accessibilité
   <li>Obtenir un ISSN auprès de Bibliothèque et Archives Canada&nbsp;:<br>
     <a href="https://publications.gc.ca/site/fra/services/faireDemandeISBN.html">Numéro international normalisé des publications en série (ISSN)</a></li>
   <li>Obtenir un numéro de catalogue du GC auprès de SPAC&nbsp;:<br>
-    <a href="about:blank">Numéros de catalogue – Publications du gouvernement du Canada</a></li>
+    <a href="https://publications.gc.ca/site/fra/services/faireDemandeISBN.html">Numéros de catalogue – Publications du gouvernement du Canada</a></li>
   <li>Mettez les deux numéros dans vos plans sur l’accessibilité, conformément aux directives de SPAC sur les pages sur le droit d’auteur&nbsp;:<br>
     <a href="https://publications.gc.ca/site/fra/services/formePageDroitAuteur.html">Mise en forme de la page sur le droit d’auteur</a></li>
   <li>Soumettre à SPAC pour affichage sur publications.gc.ca par courriel :<br>
