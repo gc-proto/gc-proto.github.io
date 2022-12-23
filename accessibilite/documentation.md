@@ -5,6 +5,8 @@ altLangPage: /accessibility/documentation.html
 breadcrumbs:
 - title: Système de conception de Canada.ca
   link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+- title: Modèles d’accessibilité
+  link: https://test.canada.ca/accessibilite/ 
 css:
 - https://design.canada.ca/css/split-h1.css
 - https://design.canada.ca/css/custom.css
