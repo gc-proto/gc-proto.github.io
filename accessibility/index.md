@@ -15,7 +15,7 @@ title: Accessibility templates
   </ul>
 <h2>Templates</h2>
 <ul>
-  <li class="mrgn-tp-lg"><a href="accessibility.html">Accessibility at [Institution name]</a> (landing page)</li>
+  <li class="mrgn-tp-lg"><a href="accessibility.html">Accessibility at [Institution name]</a> (landing page) <span class="label label-info">Updated</span></li>
   <li><a href="feedback-form.html">Accessibilty feedback form</a>
     <ul>
       <li><a href="feedback-acknowledgement.html">Accessibility feedback form acknowledgement</a></li>
