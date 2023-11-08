@@ -7,7 +7,7 @@ dateModified: 2022-11-29
 description: Templates for an institution’s Accessibility plan and feedback section. 
 title: Accessibility Canada Act templates
 ---
-<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Accessibility templates</span>: <span>Canada.ca design system</span></span></h1>
+<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Accessibility Canada Act templates</span>: <span>Canada.ca design system</span></span></h1>
 <p>Templates for meeting institutional requirements under the Accessibility Canada Act</p>
 <h2>Documentation</h2>
 <ul>
