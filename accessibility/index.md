@@ -11,7 +11,7 @@ title: Accessibile Canada Act templates
 <p>Canada.ca templates for meeting institutional requirements under the Accessibile Canada Act and Regulations</p>
 <h2>Documentation</h2>
 <ul>
-  <li class="mrgn-tp-lg"><a href="documentation.html">Documentation for accessibility templates</a></li> 
+  <li class="mrgn-tp-lg"><a href="documentation.html">Documentation for Accessible Canada Act templates</a></li> 
   </ul>
 <h2>Templates</h2>
 <ul>
