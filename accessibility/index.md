@@ -22,5 +22,5 @@ title: Accessibility templates
     </ul></li>
   <li><a href="feedback-process.html">Accessibility feedback process at [Institution name]</a></li>
   <li><a href="plan.html">Accessibility plan at [Institution name]</a></li>
-  <li><a href="progress-report.html">Accessibiliy progress report for [Institution name]</a></li>
+  <li><a href="progress-report.html">Accessibiliy progress report for [Institution name]</a> <span class="label label-info">New!</span></li>
 </ul>
