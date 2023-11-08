@@ -14,6 +14,5 @@ title: Accessibility plan at [Institution name]
   <li>Insert content for the plan in this section</li>
   <li>Use <a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance/accessibility-plans/template.html">Sample Accessibility Plan Template</a></li>
 </ul>
-</p>
 <h2>Accessibility plans developed by other institutions</h2>
 <p><a href="https://open.canada.ca/en">List of Accessibility plans developed by other institutions</a></p>
