@@ -5,22 +5,21 @@ altLangPage: /accessibilite/documentation.html
 breadcrumbs:
 - title: Canada.ca design system
   link: https://www.canada.ca/en/government/about/design-system.html
-- title: Accessibility templates
+- title: Accessible Canada Act templates
   link: https://test.canada.ca/accessibility/
 css:
 - https://design.canada.ca/css/split-h1.css
 - https://design.canada.ca/css/custom.css
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
-dateModified: 2022-12-23
-description: Documentation for the templates for an institution’s Accessibility plan and feedback section.
+dateModified: 2023-11-08
+description: Documentation for the templates for an institution’s Accessibility plan and reports, and a feedback mechanism.
 lang: en
-title: Documentation for accessibility templates
+title: Documentation for Accessible Canada Act templates
 ---
-<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation for accessibility templates</span>: <span>Canada.ca design system</span></span></h1>
+<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation for Accessible Canada Act templates</span>: <span>Canada.ca design system</span></span></h1>
 <section>
-  <p>Government departments, agencies and Crown corporations are required to publish an accessibility plan, a feedback process and a feedback mechanism on their websites.</p>
-  <p>These templates are designed to help departments implement these requirements in a consistent way.</p>
-  <p>The approach and instructions here were presented in November to support web managers implementing these changes.</p>
+  <p>Government departments, agencies and Crown corporations are required to publish an accessibility plan, a feedback process and a feedback mechanism on their websites. They are also required to publish annual progress reports.</p>
+  <p>The following templates are designed to help departmental web teams implement these requirements in a consistent way within the overall design for Canada.ca.</p>
   <h2>On this page</h2>
   <ul>
     <li><a href="#context">Context</a></li>
