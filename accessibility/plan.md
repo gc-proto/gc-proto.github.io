@@ -15,6 +15,6 @@ title: Accessibility plan at [Institution name]
   <li>Use <a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance/accessibility-plans/template.html">Sample Accessibility Plan Template</a></li>
 </ul>
 <h2>Give feedback on this plan</h2>
-<p><a href="#">Provide feedback</a>a></p>
+<p><a href="feedback-form">Provide feedback</a></p>
 <h2>Accessibility plans developed by other institutions</h2>
 <p><a href="https://open.canada.ca/en">List of Accessibility plans developed by other institutions</a></p>
