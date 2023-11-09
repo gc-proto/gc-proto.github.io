@@ -173,11 +173,11 @@ title: Documentation for Accessible Canada Act templates
     <details id="details-panel4">
       <summary class="bg-info">Progress report</summary>
       <h3>Recommended template</h3>
-      <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-plan-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
+      <figure class="gc-complex-img" role="group"> <img src="../assets/img/progress-report-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
-            <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled "Accessibility plan at Institution name" with a link to a Sample Accessibility Plan Template. Under it there is a link titled "List of accessibility plans from other institutions".</p>
+            <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled "202x accessibility progress report for Institution name" with a link to a Guidance on preparing accessibility progress reports. Under it there is are links titled "Provide feedback" and "List of accessibility plans from other institutions".</p>
           </details>
         </figcaption>
       </figure>
