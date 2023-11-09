@@ -281,23 +281,23 @@ title: Documentation for Accessible Canada Act templates
   </ul>
 </section>
 <section>
-  <h2 id="annex">Annex - Publishing plans</h2>
+  <h2 id="annex">Annex - Publishing plans and reports</h2>
   <h3>Procedures for publishing under the Policy on Communications and Federal Identity</h3>
-  <p>Since institutional accessibility plans are considered official publications of the Government of Canada, a PDF version of the accessibility plan needs to be included in the <a href="https://publications.gc.ca/site/eng/home.html">catalogue at publications.gc.ca</a>.</p>
+  <p>Since institutional accessibility plans and progress reports are considered official publications of the Government of Canada, PDF versions of these documents need to be included in the <a href="https://publications.gc.ca/site/eng/home.html">catalogue at publications.gc.ca</a>.</p>
   <p>Follow these steps:</p>
   <ol>
     <li>Obtain an ISSN from Library and Archives Canada:<br>
       <a href="https://library-archives.canada.ca/eng/services/publishers/issn/Pages/issn.aspx">International Standard Serial Numbers (ISSN)</a></li>
     <li>Obtain a GC catalogue number from PSPC:<br>
       <a href="https://publications.gc.ca/site/eng/services/applyForISBN.html">Catalogue numbers - Government of Canada Publications</a></li>
-    <li>Put both numbers in your Accessibility plans, as per PSPC guidance on copyright pages:<br>
+    <li>Put both numbers in your document, as per PSPC guidance on copyright pages:<br>
       <a href="https://publications.gc.ca/site/eng/services/formatCopyPage.html">Formatting the copyright page</a></li>
     <li>Submit to PSPC for posting on publications.gc.ca via email:<br>
       publications.acquisitions@pwgsc.gc.ca</li>
   </ol>
-  <p><strong>Tip</strong>: given the subject matter of the accessibility plan, <a href="https://helpx.adobe.com/acrobat/using/creating-accessible-pdfs.html">prepare an accessible PDF</a>.</p>
+  <p><strong>Tip</strong>: given the subject matter of accessibility plans and progress reports, <a href="https://helpx.adobe.com/acrobat/using/creating-accessible-pdfs.html">prepare an accessible PDF</a>.</p>
   <h3>Create a metadata record on open.canada.ca</h3>
-  <p>To ensure your institutional accessibility plan is included in the central index on open.canada.ca, you need to submit a metadata record:</p>
+  <p>To ensure your institutional accessibility plans and progress reports are included in the central index on open.canada.ca, you need to submit a metadata record:</p>
   <ol>
     <li>Create a <a href="http://registry.open.canada.ca/">registry account</a>: select <strong>Request an Account</strong>.  It can take up to 24 hours for the account to be activated.</li>
     <li>Once your account has been created, you will be able to create your record by populating the required metadata.<br>
