@@ -45,7 +45,7 @@ title: Documentation for Accessible Canada Act templates
   <p class="mrgn-tp-lg"><strong>Publishing deadlines</strong>:</p>
   <ul>
     <li>December 31, 2022: institutional plans, feedback mechanisms, feedback process descripitons</li>
-    <li>december 31, 2023: institutional progress reports</li>
+    <li>December 31, 2023: institutional progress reports</li>
   </ul>
   
   <h3>What are accessibility plans?</h3>
