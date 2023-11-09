@@ -34,7 +34,7 @@ title: Documentation for Accessible Canada Act templates
   <p>4 patterns that impact institutions on Canada.ca:</p>
   <ul>
     <li>Accessibility plans</li>
-    <li>Accessibility progress reports</li>
+    <li>Progress reports</li>
     <li>Feedback process descriptions</li>
     <li>Feedback mechanisms</li>
   </ul>
