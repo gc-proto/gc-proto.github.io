@@ -30,21 +30,29 @@ title: Documentation for Accessible Canada Act templates
 </section>
 <section>
   <h2 id="context">Context</h2>
-  <h3>3 key design patterns</h3>
-  <p>3 patterns that impact institutions on Canada.ca:</p>
+  <h3>4 key design patterns</h3>
+  <p>4 patterns that impact institutions on Canada.ca:</p>
   <ul>
-    <li>Institutional accessibility plan</li>
-    <li>Institutional accessibility feedback process description</li>
-    <li>Institutional accessibility feedback mechanism</li>
+    <li>Accessibility plans</li>
+    <li>Accessibility progress reports</li>
+    <li>Feedback process descriptions</li>
+    <li>Feedback mechanisms</li>
   </ul>
   <p>These are derived from the requirements under the Accessible Canada Act and Regulations.</p>
   <ul>
     <li><a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance.html">Guidance on the Accessible Canada Regulations</a></li>
   </ul>
-  <p class="mrgn-tp-lg"><strong>Publishing deadline</strong>: December 31, 2022</p>
+  <p class="mrgn-tp-lg"><strong>Publishing deadlines</strong>:</p>
+  <ul>
+    <li>December 31, 2022: institutional plans, feedback mechanisms, feedback process descripitons</li>
+    <li>december 31, 2023: institutional progress reports</li>
+  </ul>
+  
   <h3>What are accessibility plans?</h3>
   <p>A document that outlines an institution's plan regarding the accessibility of all its programs, products, and services. Takes a total view of accessibility, from online to in real life (IRL), both public-facing and internal.</p>
-  <p>The accessibility plan is the first deliverable in a 3-year planning and reporting cycle (annual progress reports to come).</p>
+  <p>The accessibility plan is the first deliverable in a 3-year planning and reporting cycle.</p>
+ <h3>What are accessibility progress reports?</h3>
+ <p>An annual document that describes an institution's progress on the implementation of their accessibility plans. In preparing their progress reports, institutions are required to consult persons with disabilities, as well as take the feedback they have received into consideration.</p>
   <h3>What is the accessibility feedback process description?</h3>
   <p>A published description of how your institutional feedback process works. It must be published alongside your accessibility plan.</p>
   <h3>What is the accessibility feedback mechanism?</h3>
