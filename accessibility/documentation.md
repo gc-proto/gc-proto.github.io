@@ -187,7 +187,7 @@ title: Documentation for Accessible Canada Act templates
       <ul>
         <li>This guidance includes instructions on required headings to structure the content of the report</li>
       </ul>
-      <p>People are encouraged to provide feedback on progress reports - ensure there is a link to the feedback process and/or feedback form from within the plan itself.</p>
+      <p>People are encouraged to provide feedback on progress reports - ensure there is a link to the feedback process and/or feedback form from within the document itself.</p>
       <p>To assist with findability, TBS is creating a central index for accessibility plans and reports on the <a href="https://open.canada.ca/">Open government site</a>:</p>
       <ul>
         <li>Include a link from your progress report to the central index</li>
