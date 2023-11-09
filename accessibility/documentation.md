@@ -171,7 +171,7 @@ title: Documentation for Accessible Canada Act templates
   </li>
    <li>
     <details id="details-panel4">
-      <summary class="bg-info">Accessibility progress report</summary>
+      <summary class="bg-info">Progress report</summary>
       <h3>Recommended template</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-plan-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
@@ -208,7 +208,7 @@ title: Documentation for Accessible Canada Act templates
   </li>
   <li>
     <details id="details-panel5">
-      <summary class="bg-info">Accessibility feedback form</summary>
+      <summary class="bg-info">Feedback form</summary>
       <h3>Recommended template – feedback form</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-form-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
@@ -245,7 +245,7 @@ title: Documentation for Accessible Canada Act templates
   </li>
   <li>
     <details id="details-panel6">
-      <summary class="bg-info">Accessibility feedback process description</summary>
+      <summary class="bg-info">Feedback process description</summary>
       <h3>Recommended template</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-process-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
         <figcaption>
