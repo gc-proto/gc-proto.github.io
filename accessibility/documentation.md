@@ -275,9 +275,9 @@ title: Documentation for Accessible Canada Act templates
   <h2 id="next">Next steps - Maturing the working examples</h2>
   <p>These working examples are a first step:</p>
   <ul>
-    <li>Will monitor and iterate, based on data and evidence</li>
+    <li>DTO continues to monitor and iterate, based on data and evidence</li>
     <li>As departments and agencies implement, provide comments and feedback to dto.btn@tbs-sct.gc.ca</li>
-    <li>Will integrate to the pattern and template library</li>
+    <li>Once matured, these working examples will be integrated to the pattern and template library</li>
   </ul>
 </section>
 <section>
