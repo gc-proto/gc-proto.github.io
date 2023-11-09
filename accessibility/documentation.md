@@ -183,7 +183,7 @@ title: Documentation for Accessible Canada Act templates
       </figure>
       <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg" aria-hidden="true"></span> <a href="progress-report.html">Working example - Accessibility progress report</a></p>
       <h3>Design considerations</h3>
-      <p>Ensure the plan meets the requirements outlined in <a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance/progress-reports.html">Guidance on accessibility progress reports</a>:</p>
+      <p>Ensure the document meets the requirements outlined in <a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance/progress-reports.html">Guidance on accessibility progress reports</a>:</p>
       <ul>
         <li>This guidance includes instructions on required headings to structure the content of the report</li>
       </ul>
