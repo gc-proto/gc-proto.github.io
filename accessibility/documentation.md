@@ -71,7 +71,7 @@ title: Documentation for Accessible Canada Act templates
 </section>
 <ul class="list-unstyled mrgn-tp-lg">
   <li>
-    <details>
+    <details id="details-panel1">
       <summary class="bg-info">Information structure and navigation</summary>
       <h3>Recommended information architecture for institutional websites</h3>
       <figure class="gc-complex-img" role="group"><img src="../assets/img/info-structure-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
@@ -169,8 +169,45 @@ title: Documentation for Accessible Canada Act templates
       </ul>
     </details>
   </li>
-  <li>
+   <li>
     <details id="details-panel4">
+      <summary class="bg-info">Accessibility progress report</summary>
+      <h3>Recommended template</h3>
+      <figure class="gc-complex-img" role="group"> <img src="../assets/img/accessibility-plan-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
+        <figcaption>
+          <details class="small">
+            <summary>Detailed description</summary>
+            <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled "Accessibility plan at Institution name" with a link to a Sample Accessibility Plan Template. Under it there is a link titled "List of accessibility plans from other institutions".</p>
+          </details>
+        </figcaption>
+      </figure>
+      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg" aria-hidden="true"></span> <a href="progress-report.html">Working example - Accessibility progress report</a></p>
+      <h3>Design considerations</h3>
+      <p>Ensure the plan meets the requirements outlined in <a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance/progress-reports.html">Guidance on accessibility progress reports</a>:</p>
+      <ul>
+        <li>This guidance includes instructions on required headings to structure the content of the report</li>
+      </ul>
+      <p>People are encouraged to provide feedback on progress reports - ensure there is a link to the feedback process and/or feedback form from within the plan itself.</p>
+      <p>To assist with findability, TBS is creating a central index for accessibility plans and reports on the <a href="https://open.canada.ca/">Open government site</a>:</p>
+      <ul>
+        <li>Include a link from your progress report to the central index</li>
+        <li>Submit a metadata record for your progress report</li>
+        <li>See annex for instructions</li>
+      </ul>
+      <p>According to the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=27167">Procedures for publishing</a>, institutional progress reports are considered publications:</p>
+      <ul>
+        <li>Request an ISSN and submit a copy to publications.gc.ca</li>
+        <li>See annex for instructions</li>
+      </ul>
+      <p>Institutions must notify the Accessibility Commissioner at the Canadian Human Rights Commission within 48 hours of publishing their progress reports:</p>
+      <ul>
+        <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
+        <li>Include a link or URL for the plan in the email you send</li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details id="details-panel5">
       <summary class="bg-info">Accessibility feedback form</summary>
       <h3>Recommended template – feedback form</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-form-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
@@ -207,7 +244,7 @@ title: Documentation for Accessible Canada Act templates
     </details>
   </li>
   <li>
-    <details id="details-panel5">
+    <details id="details-panel6">
       <summary class="bg-info">Accessibility feedback process description</summary>
       <h3>Recommended template</h3>
       <figure class="gc-complex-img" role="group"> <img src="../assets/img/feedback-process-en.png" class="img-responsive mrgn-tp-lg" alt="A long description can be found after the image">
