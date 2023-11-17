@@ -13,8 +13,8 @@ pageclass: cnt-wdth-lmtd
 language: en
 layout: default
 dateModified: 2023-10-19
-description: 2023 progress report - Accessibility at [Institution name]
-title: 202x Accessibility progress report for [Institution name]
+description: Accessibility progress report 2023 for [Institution name]
+title: Accessibility progress report 2023 for [Institution name]
 ---
 
 * Insert content for the progress report in this section
