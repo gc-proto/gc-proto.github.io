@@ -14,7 +14,7 @@ title: Rapport d'étape sur l’accessibilité 2023 pour [nom de l’institution
   <li>Insérer le contenu du rapport dans cette section</li>
   <li>Suivre les <a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite/rapports-etape/preparez.html">conseils pour la préparation des rapports d'étape sur l'accessibilité</a></li>
 </ul>
-<h2>Donnez une rétroaction sur ce rapport</h2>
-<p><a href="formulaire-retroaction.html">Fournir une rétroaction</a></p>
-<h2>Rapports d'étape sur l’accessibilité élaborés par d’autres institutions</h2>
+<h2>Rétroaction sur ce rapport</h2>
+<p><a href="formulaire-retroaction.html">Fournir une rétroaction sur ce rapport</a></p>
+<h2>Rapports d'étape élaborés par d’autres institutions</h2>
 <p><a href="https://open.canada.ca/fr">Liste des rapports d'étape sur l’accessibilité élaborés par d’autres institutions</a></p>
