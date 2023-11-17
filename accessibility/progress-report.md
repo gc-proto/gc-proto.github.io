@@ -1,5 +1,5 @@
 ---
-altLangPage: /accessibilite/plan.html
+altLangPage: /accessibilite/rapport-etape.html
 breadcrumbs:
 - title: "[Institution name]"
   link: #
