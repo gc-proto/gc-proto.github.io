@@ -5,10 +5,10 @@ breadcrumbs:
   link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
 dateModified: 2022-11-29
 description: Modèles pour le plan d’accessibilité d’une institution et la section de rétroaction. 
-title: Modèles d’accessibilité
+title: Modèles de la Loi canadienne sur l'accessibilité
 ---
-<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Modèles d’accessibilité</span>: <span>Système de conception de Canada.ca</span></span></h1>
-<p>Modèles pour le plan d’accessibilité d’une institution et la section de rétroaction.</p>
+<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Modèles de la Loi canadienne sur l'accessibilité</span>: <span>Système de conception de Canada.ca</span></span></h1>
+<p>Modèles de Canada.ca pour répondre aux exigences institutionnelles en vertu de la Loi canadienne et du Règlement canadien sur l'accessibilité.</p>
 
 <h2>Documentation</h2>
 <ul>
