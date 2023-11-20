@@ -16,11 +16,11 @@ title: Accessibile Canada Act templates
 <h2>Templates</h2>
 <ul>
   <li class="mrgn-tp-lg"><a href="accessibility.html">Accessibility at [Institution name]</a> (landing page) <span class="label label-info">Updated</span></li>
-  <li><a href="feedback-form.html">Accessibilty feedback form</a>
+  <li><a href="feedback-form.html">Accessibilty feedback form</a> <span class="label label-info">Updated</span>
     <ul>
       <li><a href="feedback-acknowledgement.html">Accessibility feedback form acknowledgement</a></li>
     </ul></li>
-  <li><a href="feedback-process.html">Accessibility feedback process at [Institution name]</a></li>
-  <li><a href="plan.html">Accessibility plan at [Institution name]</a></li>
+  <li><a href="feedback-process.html">Accessibility feedback process at [Institution name]</a> <span class="label label-info">Updated</span></li>
+  <li><a href="plan.html">Accessibility plan at [Institution name]</a> <span class="label label-info">Updated</span></li>
   <li><a href="progress-report.html">Accessibiliy progress report for [Institution name]</a> <span class="label label-info">New!</span></li>
 </ul>
