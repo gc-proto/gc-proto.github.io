@@ -63,10 +63,11 @@ title: "[Institution name]’s accessibility feedback form"
           <p>1. What do you want to provide feedback on?</p>
           <ul>
             <li data-wb-fieldflow='{"action": "query", "name": "feedback_type", "value": "feedback_type1"}'>Accessibility barrier</li>
-            <li data-wb-fieldflow='{"action": "query", "name": "feedback_type", "value": "feedback_type2"}' >[Institution name]'s Accessibility Plan</li>
+            <li data-wb-fieldflow='{"action": "query", "name": "feedback_type", "value": "feedback_type2"}' >[Institution name]'s accessibility plan</li>
+            <li data-wb-fieldflow='{"action": "query", "name": "feedback_type", "value": "feedback_type3"}' >[Institution name]'s progress report</li>
             <li data-wb-fieldflow='[
                                 {"action": "toggle", "toggle": "#feedback_type_other", "live":true },
-                                {"action": "query", "name": "feedback_type", "value": "feedback_type3" }
+                                {"action": "query", "name": "feedback_type", "value": "feedback_type4" }
                                ]'>Other item</li>
           </ul>
         </div>
