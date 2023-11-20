@@ -51,7 +51,7 @@ title: Documentation for Accessible Canada Act templates
   <h3>What are accessibility plans?</h3>
   <p>A document that outlines an institution's plan regarding the accessibility of all its programs, products, and services. Takes a total view of accessibility, from online to in real life (IRL), both public-facing and internal.</p>
   <p>The accessibility plan is the first deliverable in a 3-year planning and reporting cycle.</p>
- <h3>What are accessibility progress reports?</h3>
+ <h3>What are annual progress reports?</h3>
  <p>An annual document that describes an institution's progress on the implementation of their accessibility plans. In preparing their progress reports, institutions are required to consult persons with disabilities, as well as take the feedback they have received into consideration.</p>
   <h3>What is the accessibility feedback process description?</h3>
   <p>A published description of how your institutional feedback process works. It must be published alongside your accessibility plan.</p>
