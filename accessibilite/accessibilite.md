@@ -30,6 +30,10 @@ title: "Accessibilité à [nom de l’institution]"
           <h3><a href="plan.html">Plan sur l’accessibilité</a></h3>
           <p>Politiques, programmes, pratiques et services qui aident notre organisation à contribuer à l’objectif d’un Canada accessible et sans obstacles</p>
         </div>
+	      <div class="col-lg-4 col-md-6">
+          <h3><a href="processus-retroaction.html">Rapport d'étape de 2023</a></h3>
+          <p>Résultats de nos activités visant à améliorer la contribution de notre organisation à l'objectif d'un Canada accessible et sans entraves</p>
+        </div>
               <div class="col-lg-4 col-md-6">
           <h3><a href="processus-retroaction.html">Processus de rétroaction</a></h3>
           <p>Différentes façons de fournir une rétroaction, comment demander des formats substituts, ce que nous faisons de votre rétroaction et comment garder votre rétroaction anonyme</p>
