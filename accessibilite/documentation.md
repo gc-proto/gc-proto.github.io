@@ -166,8 +166,48 @@ title: Documentation pour les modèles de la Loi canadienne sur l'accessibilité
       </ul>
     </details>
   </li>
-  <li>
+
+ <li>
     <details id="details-panel4">
+      <summary class="bg-info">Rapport d'étape</summary>
+      <h3>Modèle recommandé</h3>
+      <figure class="gc-complex-img" role="group"><img src="../assets/img/plan-accessibilite-fr.png" class="img-responsive mrgn-tp-lg" alt="Une longue description peut être trouvée après l'image.">
+        <figcaption>
+          <details class="small">
+            <summary>Description détaillée</summary>
+            <p class="mrgn-tp-lg">Capture d'écran du site Web du gouvernement du Canada intitulée &laquo;&nbsp;Plan sur l'accessibilité de l'institution&nbsp;&raquo; avec un lien vers un modèle de plan d'accessibilité. Sous ce lien se trouve un lien intitulé &laquo;&nbsp;Liste des plans d'accessibilité élaborés par d'autres institutions&nbsp;&raquo;.</p>
+          </details>
+        </figcaption>
+      </figure>
+      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg" aria-hidden="true"></span> <a href="rapport-etape.html">Exemples - Rapports d'étape</a></p>
+      <h3>Facteurs de conception</h3>
+      <p>Assurez-vous que le rapport répond aux exigences décrites dans<br>
+        <a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite/rapports-etape.html">Directives associées aux rapports d'étape</a>&nbsp;:</p>
+      <ul>
+        <li>Ces directives comprennent des instructions sur les rubriques nécessaires pour structurer le contenu du rapport.</li>
+      </ul>
+      <p>Les gens sont encouragés à fournir une rétroaction au sujet des rapports d'étape – assurez-vous qu’il y a un lien vers le processus de rétroaction et/ou le formulaire de rétroaction à partir du rapport lui-même.</p>
+      <p>Pour faciliter la recherche, le SCT crée un index central des plans sur l’accessibilité et des rapports d'étape sur le <a href="https://ouvert.canada.ca/fr">site du gouvernement ouvert</a>&nbsp;:</p>
+      <ul>
+        <li>Inclure un lien de votre rapport vers l’index central.</li>
+        <li>Soumettre un dossier des métadonnées pour votre rapport.</li>
+        <li>Voir l’annexe pour les instructions.</li>
+      </ul>
+      <p>Selon les <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=27167">Procédures sur l’édition</a>, les rapports d'étape sont estimés comme des publications :</p>
+      <ul>
+        <li>Demander un ISSN et soumettre une copie à publications.gc.ca</li>
+        <li>Voir l’annexe pour les instructions.</li>
+      </ul>
+      <p>Les institutions doivent aviser le commissaire à l’accessibilité de la Commission canadienne des droits de la personne dans les 48 heures suivant la publication de leurs rapports d'étape annuel:</p>
+      <ul>
+        <li>Envoyez un courriel à <a href="mailto:Info.Com@chrc-ccdp.gc.ca">Info.Com@chrc-ccdp.gc.ca</a> ou utilisez le service &laquo;&nbsp;<a href="https://www.accessibilitychrc.ca/fr/aviser-le-commissaire-laccessibilite">Mon portail sur l’accessibilité</a>&nbsp;&raquo; de la CCDP.</li>
+        <li>Inclure un lien ou une URL pour le rapport dans le courriel que vous envoyez.</li>
+      </ul>
+    </details>
+  </li>
+  
+  <li>
+    <details id="details-panel5">
       <summary class="bg-info">Formulaire de rétroaction sur l’accessibilité</summary>
       <h3>Modèle recommandé – formulaire de rétroaction</h3>
       <figure class="gc-complex-img" role="group"><img src="../assets/img/formulaire-retroaction-fr.png" class="img-responsive mrgn-tp-lg" alt="Une longue description peut être trouvée après l'image.">
@@ -204,7 +244,7 @@ title: Documentation pour les modèles de la Loi canadienne sur l'accessibilité
     </details>
   </li>
   <li>
-    <details id="details-panel5">
+    <details id="details-panel6">
       <summary class="bg-info">Description du processus de rétroaction sur l’accessibilité</summary>
       <h3>Modèle recommandé</h3>
       <figure class="gc-complex-img" role="group"><img src="../assets/img/processus-retroaction-fr.png" class="img-responsive mrgn-tp-lg" alt="Une longue description peut être trouvée après l'image.">
