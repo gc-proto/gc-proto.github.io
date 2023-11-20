@@ -281,23 +281,23 @@ title: Documentation pour les modèles de la Loi canadienne sur l'accessibilité
   </ul>
 </section>
 <section>
-<h2 id="annexe">Annexe – Plans sur l’accessibilité</h2>
+<h2 id="annexe">Annexe – Publication de plans et de rapports</h2>
 <h3>Procédures de publication en vertu de la Politique sur les communications et l’image de marque</h3>
-<p>Étant donné que les plans sur l’accessibilité des institutions sont estimés comme des publications officielles du gouvernement du Canada, une version PDF du plan sur l’accessibilité doit être incluse dans le <a href="https://publications.gc.ca/site/fra/accueil.html">catalogue</a>.</p>
+<p>Étant donné que les plans d'accessibilité institutionnels et les rapports d'étape sont considérés comme des publications officielles du gouvernement du Canada, les versions PDF de ces documents doivent être incluses dans le <a href="https://publications.gc.ca/site/fra/accueil.html">catalogue</a>.</p>
 <p>Suivez ces étapes :</p>
 <ol>
   <li>Obtenir un ISSN auprès de Bibliothèque et Archives Canada&nbsp;:<br>
     <a href="https://publications.gc.ca/site/fra/services/faireDemandeISBN.html">Numéro international normalisé des publications en série (ISSN)</a></li>
   <li>Obtenir un numéro de catalogue du GC auprès de SPAC&nbsp;:<br>
     <a href="https://publications.gc.ca/site/fra/services/faireDemandeISBN.html">Numéros de catalogue – Publications du gouvernement du Canada</a></li>
-  <li>Mettez les deux numéros dans vos plans sur l’accessibilité, conformément aux directives de SPAC sur les pages sur le droit d’auteur&nbsp;:<br>
+  <li>Mettez les deux numéros dans vos documents, conformément aux directives de SPAC sur les pages sur le droit d’auteur&nbsp;:<br>
     <a href="https://publications.gc.ca/site/fra/services/formePageDroitAuteur.html">Mise en forme de la page sur le droit d’auteur</a></li>
   <li>Soumettre à SPAC pour affichage sur publications.gc.ca par courriel :<br>
     <a href="mailto:publications.acquisitions@pwgsc.gc.ca">publications.acquisitions@pwgsc.gc.ca</a></li>
 </ol>
-<p><strong>Conseil</strong>&nbsp;: étant donné le thème du plan sur l’accessibilité, préparez un <a href="https://helpx.adobe.com/ca_fr/acrobat/using/creating-accessible-pdfs.html">PDF accessible</a>.</p>
+<p><strong>Conseil</strong>&nbsp;: compte tenu de l'objet des plans d'accessibilité et des rapports d'étape, préparer un <a href="https://helpx.adobe.com/ca_fr/acrobat/using/creating-accessible-pdfs.html">PDF accessible</a>.</p>
 <h3>Créez un dossier de métadonnées sur open.canada.ca</h3>
-<p>Pour vous assurer que votre plan sur l’accessibilité de l’institution est inclus dans l’index central sur ouvert.canada.ca, vous devez soumettre un dossier des métadonnées&nbsp;:</p>
+<p>Pour vous assurer que vos plans d'accessibilité institutionnels et vos rapports d'étape sont inclus dans l'index central d'open.canada.ca, vous devez soumettre un enregistrement de métadonnées&nbsp;:</p>
 <ol>
   <li>Créez un <a href="http://registry.open.canada.ca/fr/">compte du Registre</a>&nbsp;: sélectionnez <strong>Demander un compte</strong>.  L’activation du compte peut prendre jusqu’à 24 heures.</li>
   <li>Une fois votre compte créé, vous pourrez créer votre fiche en renseignant les métadonnées requises.<br>
