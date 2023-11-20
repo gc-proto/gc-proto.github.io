@@ -18,7 +18,7 @@ title: Modèles de la Loi canadienne sur l'accessibilité
 
 <h2>Modèles</h2>
 <ul>
-  <li class="mrgn-tp-lg"><a href="accessibilite.html">Accessibilité à [nom de l’institution]</a> (page d’accueil) <span class="label label-info">Mis à jour</span></li>
+  <li class="mrgn-tp-lg"><a href="accessibilite.html">Accessibilité à [nom de l’institution]</a> (page d’accueil) <span class="label label-info">Mise à jour</span></li>
   <li><a href="formulaire-retroaction.html">Formulaire de rétroaction sur l’accessibilité</a>
     <ul>
       <li><a href="retroaction-soumission.html">Accusé de réception du formulaire de rétroaction sur l’accessibilité</a></li>
