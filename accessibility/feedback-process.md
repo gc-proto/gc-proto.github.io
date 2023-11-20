@@ -10,7 +10,7 @@ description: "Your feedback will help [Institution name] identify and break down
 title: "Accessibility feedback process at [Institution name]"
 ---
 <h1 property="name" id="wb-cont" dir="ltr">Accessibility feedback process at [Institution name]</h1>
-<p>Your feedback will help [Institution name] identify and break down accessibility barriers. Provide feedback on <a href="plan.html">[Institution name]’s Accessibility Plan</a>, your experience of our accessibility, or any other matter related to accessibility. Find out how we'll use your feedback.</p>
+<p>Your feedback will help [Institution name] identify and break down accessibility barriers. Provide feedback on <a href="plan.html">[Institution name]’s accessibility plan</a>, <a href="progress-report.html">[Institution name]’s progress report</a>, your experience of our accessibility, or any other matter related to accessibility. Find out how we'll use your feedback.</p>
 <h2>On this page</h2>
 <ul>
   <li><a href="#how">How to provide feedback</a></li>
