@@ -177,7 +177,7 @@ title: Documentation for Accessible Canada Act templates
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
-            <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled "202x accessibility progress report for Institution name" with a link to a Guidance on preparing accessibility progress reports. Under it there is are links titled "Provide feedback" and "List of accessibility plans from other institutions".</p>
+            <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled "202x accessibility progress report for Institution name" with a link to guidance on preparing accessibility progress reports. Under it there are links titled "Provide feedback" and "List of accessibility progress reports from other institutions".</p>
           </details>
         </figcaption>
       </figure>
@@ -202,7 +202,7 @@ title: Documentation for Accessible Canada Act templates
       <p>Institutions must notify the Accessibility Commissioner at the Canadian Human Rights Commission within 48 hours of publishing their progress reports:</p>
       <ul>
         <li>Send an email to Info.Com@chrc-ccdp.gc.ca or use the CHRC’s <a href="https://www.accessibilitychrc.ca/en/notifying-accessibility-commissioner">My Accessibility Portal</a> service</li>
-        <li>Include a link or URL for the plan in the email you send</li>
+        <li>Include a link or URL for the report in the email you send</li>
       </ul>
     </details>
   </li>
