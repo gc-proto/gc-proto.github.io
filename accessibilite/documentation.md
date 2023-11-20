@@ -19,8 +19,8 @@ title: Documentation pour les modèles de la Loi canadienne sur l'accessibilité
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>DDocumentation pour les modèles de la Loi canadienne sur l'accessibilité</span>: <span>Système de conception de Canada.ca</span></span></h1>
 <section>
   <p>Les ministères, organismes et sociétés d'État du gouvernement doivent publier un plan d'accessibilité, un processus de rétroaction et un mécanisme de rétroaction sur leurs sites Web. Ils sont également tenus de publier des rapports d'étape annuels.</p>
-  <p>Ces modèles sont conçus pour aider les ministères à mettre en œuvre ces exigences de manière cohérente.</p>
-  <p>L'approche et les instructions ici ont été présentées en novembre pour assister les gestionnaires de sites Web dans la mise en œuvre de ces changements. </p>
+  <p>Les modèles suivants sont conçus pour aider les équipes Web ministérielles à mettre en œuvre ces exigences de manière cohérente dans le cadre de la conception globale de Canada.ca.</p>
+  
   <h2>Sur cette page</h2>
   <ul>
     <li><a href="#contexte">Contexte</a></li>
