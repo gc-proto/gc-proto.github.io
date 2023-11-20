@@ -176,11 +176,11 @@ title: Documentation pour les modèles de la Loi canadienne sur l'accessibilité
     <details id="details-panel4">
       <summary class="bg-info">Rapport d'étape</summary>
       <h3>Modèle recommandé</h3>
-      <figure class="gc-complex-img" role="group"><img src="../assets/img/plan-accessibilite-fr.png" class="img-responsive mrgn-tp-lg" alt="Une longue description peut être trouvée après l'image.">
+      <figure class="gc-complex-img" role="group"><img src="../assets/img/rapport-etape-fr.png" class="img-responsive mrgn-tp-lg" alt="Une longue description peut être trouvée après l'image.">
         <figcaption>
           <details class="small">
             <summary>Description détaillée</summary>
-            <p class="mrgn-tp-lg">Capture d'écran du site Web du gouvernement du Canada intitulée &laquo;&nbsp;Plan sur l'accessibilité de l'institution&nbsp;&raquo; avec un lien vers un modèle de plan d'accessibilité. Sous ce lien se trouve un lien intitulé &laquo;&nbsp;Liste des plans d'accessibilité élaborés par d'autres institutions&nbsp;&raquo;.</p>
+            <p class="mrgn-tp-lg">Capture d'écran du site Web du gouvernement du Canada intitulée &laquo;&nbsp;Rapport d'étape sur l'accessibilité 2023 pour [Nom de l'institution]&nbsp;&raquo; avec un lien vers un modèle du rapport d'étape. Sous ce lien se trouve des liens intitulés &laquo;&nbsp;Fournir une rétroaction sur ce rapport&nbsp;&raquo; et &laquo;&nbsp;Liste des rapports d'étape sur l'accessibilité élaborés par d'autres institutions&nbsp;&raquo;.</p>
           </details>
         </figcaption>
       </figure>
