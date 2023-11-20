@@ -12,7 +12,7 @@ title: Modèles de la Loi canadienne sur l'accessibilité
 
 <h2>Documentation</h2>
 <ul>
-  <li class="mrgn-tp-lg"><a href="documentation.html">Documentation pour des modèles d’accessibilité</a></li>
+  <li class="mrgn-tp-lg"><a href="documentation.html">Documentation pour des modèles d’accessibilité</a> <span class="label label-info">Mise à jour</span></li>
  </ul>
 
 
