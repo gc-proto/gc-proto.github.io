@@ -31,10 +31,11 @@ title: Documentation pour les modèles de la Loi canadienne sur l'accessibilité
 </section>
 <section>
   <h2 id="contexte">Contexte</h2>
-  <h3>Trois modèles clés</h3>
-  <p>Trois modèles qui ont une incidence sur les institutions sur Canada.ca&nbsp;:</p>
+  <h3>Quatre modèles clés</h3>
+  <p>Quatre modèles qui ont une incidence sur les institutions sur Canada.ca&nbsp;:</p>
   <ul>
     <li>Plan sur l’accessibilité de l’institution</li>
+    <li>Rapport d'étape annuel</li>
     <li>Description du processus de rétroaction sur l’accessibilité de l’institution</li>
     <li>Mécanisme de rétroaction sur l’accessibilité de l’institution</li>
   </ul>
@@ -46,6 +47,8 @@ title: Documentation pour les modèles de la Loi canadienne sur l'accessibilité
   <h3>Qu'est-ce qu'un plan sur l’accessibilité?</h3>
   <p>Un document qui décrit le plan d’une institution concernant l’accessibilité de tous ses programmes, produits et services. Offre une vue d’ensemble de l’accessibilité, de ce qui se trouve en ligne à &laquo;&nbsp;la vraie vi&nbsp;&raquo;, à la fois publique et interne.</p>
   <p>Le plan sur l’accessibilité est le premier livrable d’un cycle de planification et de rapport de trois ans (rapports d’étape annuels à venir).</p>
+  <h3>Qu'est-ce qu'un rapport d'étape annuel?</h3>
+  <p>Un document annuel qui décrit les progrès réalisés par une institution dans la mise en œuvre de son plan d'accessibilité. Lors de la préparation de leurs rapports d'étape, les institutions sont tenues de consulter les personnes en situation de handicap et de prendre en considération la rétroaction qu'elles ont reçue.</p>
   <h3>Qu'est-ce qu'une description du processus de rétroaction sur l’accessibilité?</h3>
   <p>Une description publiée du fonctionnement de votre processus de rétroaction de votre institution. Il doit être publié avec votre plan sur l’accessibilité. </p>
   <h3>Qu'est-ce qu'un mécanisme de rétroaction sur l’accessibilité?</h3>
