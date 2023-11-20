@@ -54,9 +54,10 @@ title: "Formulaire de rétroaction sur l’accessibilité"
           <ul>
             <li data-wb-fieldflow='{"action": "query", "name": "feedback_type", "value": "feedback_type1"}'>Obstacle à l’accessibilité</li>
             <li data-wb-fieldflow='{"action": "query", "name": "feedback_type", "value": "feedback_type2"}' >Plan sur l’accessibilité de [nom de l’institution]</li>
+            <li data-wb-fieldflow='{"action": "query", "name": "feedback_type", "value": "feedback_type3"}' >Rapport d'étape sur l’accessibilité de [nom de l’institution]</li>
             <li data-wb-fieldflow='[
                                 {"action": "toggle", "toggle": "#feedback_type_other", "live":true },
-                                {"action": "query", "name": "feedback_type", "value": "feedback_type3" }
+                                {"action": "query", "name": "feedback_type", "value": "feedback_type4" }
                                ]'>Autre élément</li>
           </ul>
         </div>
