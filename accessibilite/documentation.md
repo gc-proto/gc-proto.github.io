@@ -12,11 +12,11 @@ css:
 - https://design.canada.ca/css/custom.css
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
 dateModified: 2022-12-23
-description: Documentation pour les modèles de plan d'accessibilité et de section de rétroaction d'une institution.
+description: Documentation sur les modèles de plans et de rapports d'accessibilité institutionnels, et un mécanisme de rétroaction.
 lang: fr
-title: Documentation pour des modèles d’accessibilité
+title: Documentation pour les modèles de la Loi canadienne sur l'accessibilité
 ---
-<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Documentation pour des modèles d’accessibilité</span>: <span>Système de conception de Canada.ca</span></span></h1>
+<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>DDocumentation pour les modèles de la Loi canadienne sur l'accessibilité</span>: <span>Système de conception de Canada.ca</span></span></h1>
 <section>
   <p>Les ministères, organismes et sociétés d'État du gouvernement doivent publier un plan d'accessibilité, un processus de rétroaction et un mécanisme de rétroaction sur leurs sites Web.</p>
   <p>Ces modèles sont conçus pour aider les ministères à mettre en œuvre ces exigences de manière cohérente.</p>
