@@ -43,7 +43,12 @@ title: Documentation pour les modèles de la Loi canadienne sur l'accessibilité
   <ul>
     <li><a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite.html">Lignes directrices sur le Règlement canadien sur l'accessibilité</a></li>
   </ul>
-  <p class="mrgn-tp-lg"><strong>Date limite de publication</strong>&nbsp;: 31 décembre 2022</p>
+  <p class="mrgn-tp-lg"><strong>Dates limites de publication</strong>&nbsp;:</p>
+<ul>
+  <li>31 décembre 2022 : plans institutionnels, mécanismes de rétroaction, descriptions du processus de rétroaction</li>
+  <li>31 décembre 2023 : rapports d'étape des institutions</li>
+</ul>
+  
   <h3>Qu'est-ce qu'un plan sur l’accessibilité?</h3>
   <p>Un document qui décrit le plan d’une institution concernant l’accessibilité de tous ses programmes, produits et services. Offre une vue d’ensemble de l’accessibilité, de ce qui se trouve en ligne à &laquo;&nbsp;la vraie vi&nbsp;&raquo;, à la fois publique et interne.</p>
   <p>Le plan sur l’accessibilité est le premier livrable d’un cycle de planification et de rapport de trois ans (rapports d’étape annuels à venir).</p>
