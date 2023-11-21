@@ -118,7 +118,7 @@ title: Documentation for Accessible Canada Act templates
         <figcaption>
           <details class="small">
             <summary>Detailed description</summary>
-            <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled "Accessibility at Institution name". There is a green button named "Provide feedback", then 2 links: Accessibility Plan and Feedback process.</p>
+            <p class="mrgn-tp-lg">Screenshot of the Government of Canada's website titled "Accessibility at Institution name". There is a green button named "Provide feedback", then 3 links: Accessibility plan, 2023 progress report and Feedback process.</p>
           </details>
         </figcaption>
       </figure>
