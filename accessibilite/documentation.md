@@ -119,7 +119,7 @@ title: Documentation pour les modèles de la Loi canadienne sur l'accessibilité
         <figcaption>
           <details class="small">
             <summary>Description détaillée</summary>
-            <p class="mrgn-tp-lg">Capture d'écran du site Web du gouvernement du Canada intitulé &laquo;&nbsp;Accessibilité à nom de l'institution&nbsp;&raquo;. Il y a un bouton vert intitulé &laquo;&nbsp;Fournir une rétroaction&nbsp;&raquo;, puis deux liens&nbsp;: Plan sur l'accessibilité et Processus de rétroaction.</p>
+            <p class="mrgn-tp-lg">Capture d'écran du site Web du gouvernement du Canada intitulé &laquo;&nbsp;Accessibilité à nom de l'institution&nbsp;&raquo;. Il y a un bouton vert intitulé &laquo;&nbsp;Fournir une rétroaction&nbsp;&raquo;, puis trois liens&nbsp;: Plan sur l'accessibilité, Rapport d'étape de 2023 et Processus de rétroaction.</p>
           </details>
         </figcaption>
       </figure>
