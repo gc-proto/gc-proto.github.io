@@ -123,7 +123,7 @@ title: Documentation pour les modèles de la Loi canadienne sur l'accessibilité
           </details>
         </figcaption>
       </figure>
-      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg" aria-hidden="true"></span> <a href="accessibilite.html">Exemples - Page d’accessibilité de l’institution</a></p>
+      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg" aria-hidden="true"></span> <a href="accessibilite.html">Exemple - Page d’accessibilité de l’institution</a></p>
       <h3>Facteurs de conception</h3>
       <ul>
         <li>La tâche principale sera probablement de fournir une rétroaction, donc la page utilise le bouton Super-tâche.</li>
@@ -145,7 +145,7 @@ title: Documentation pour les modèles de la Loi canadienne sur l'accessibilité
           </details>
         </figcaption>
       </figure>
-      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg" aria-hidden="true"></span> <a href="plan.html">Exemples - Plans sur l'accessibilité</a></p>
+      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg" aria-hidden="true"></span> <a href="plan.html">Exemple - Plan sur l'accessibilité</a></p>
       <h3>Facteurs de conception</h3>
       <p>Assurez-vous que le plan répond aux exigences décrites dans<br>
         <a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite/plans-accessibilite.html">Directives associées aux plans sur l’accessibilité</a>&nbsp;:</p>
@@ -184,7 +184,7 @@ title: Documentation pour les modèles de la Loi canadienne sur l'accessibilité
           </details>
         </figcaption>
       </figure>
-      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg" aria-hidden="true"></span> <a href="rapport-etape.html">Exemples - Rapports d'étape</a></p>
+      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg" aria-hidden="true"></span> <a href="rapport-etape.html">Exemple - Rapport d'étape</a></p>
       <h3>Facteurs de conception</h3>
       <p>Assurez-vous que le rapport répond aux exigences décrites dans<br>
         <a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite/rapports-etape.html">Directives associées aux rapports d'étape</a>&nbsp;:</p>
@@ -223,7 +223,7 @@ title: Documentation pour les modèles de la Loi canadienne sur l'accessibilité
           </details>
         </figcaption>
       </figure>
-      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg" aria-hidden="true"></span> <a href="formulaire-retroaction.html">Exemples - Formulaire de rétroaction sur l'accessibilité</a></p>
+      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg" aria-hidden="true"></span> <a href="formulaire-retroaction.html">Exemple - Formulaire de rétroaction sur l'accessibilité</a></p>
       <h4>Modèle recommandé – Page d’accusé de réception</h4>
       <figure class="gc-complex-img" role="group"><img src="../assets/img/retroaction-soumission-fr.png" class="img-responsive mrgn-tp-lg" alt="Une longue description peut être trouvée après l'image.">
         <figcaption>
@@ -233,7 +233,7 @@ title: Documentation pour les modèles de la Loi canadienne sur l'accessibilité
           </details>
         </figcaption>
       </figure>
-      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg" aria-hidden="true"></span> <a href="retroaction-soumission.html">Exemples - Page d'accusé de réception</a></p>
+      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg" aria-hidden="true"></span> <a href="retroaction-soumission.html">Exemple - Page d'accusé de réception</a></p>
       <h3>Facteurs de conception</h3>
       <p>Vous devrez rattacher le formulaire de rétroaction à quelque chose – un courriel générique, un système de billetterie, etc. (n’oubliez pas de conserver les rétroactions reçues pendant sept ans!).</p>
       <ul>
@@ -260,7 +260,7 @@ title: Documentation pour les modèles de la Loi canadienne sur l'accessibilité
           </details>
         </figcaption>
       </figure>
-      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg" aria-hidden="true"></span> <a href="processus-retroaction.html">Exemples - Description du processus de rétroaction sur l'accessibilité</a></p>
+      <p class="mrgn-tp-lg"><span class="fas fa-universal-access mrgn-rght-md text-success fa-lg" aria-hidden="true"></span> <a href="processus-retroaction.html">Exemple - Description du processus de rétroaction sur l'accessibilité</a></p>
       <h4>Facteurs de conception</h4>
       <p>Conçu pour se concentrer sur les besoins prioritaires des utilisateurs, plutôt que de fournir une description exhaustive des procédures de l’arrière-guichet.</p>
       <p>Assurez-vous que le processus sous-jacent répond aux exigences décrites dans la <a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite/processus-retroaction/introduction.html">Description du processus de rétroaction</a>.</p>
