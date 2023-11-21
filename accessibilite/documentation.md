@@ -141,7 +141,7 @@ title: Documentation pour les modèles de la Loi canadienne sur l'accessibilité
         <figcaption>
           <details class="small">
             <summary>Description détaillée</summary>
-            <p class="mrgn-tp-lg">Capture d'écran du site Web du gouvernement du Canada intitulée &laquo;&nbsp;Plan sur l'accessibilité de l'institution&nbsp;&raquo; avec un lien vers un modèle de plan d'accessibilité. Sous ce lien se trouve un lien intitulé &laquo;&nbsp;Liste des plans d'accessibilité élaborés par d'autres institutions&nbsp;&raquo;.</p>
+            <p class="mrgn-tp-lg">Capture d'écran du site Web du gouvernement du Canada intitulée &laquo;&nbsp;Plan sur l'accessibilité de l'institution&nbsp;&raquo; avec un lien vers un modèle de plan d'accessibilité. Sous ce lien se trouve deux liens intitulé &laquo;&nbsp;Fournir une rétroaction sur ce plan&nbsp;&raquo; et &laquo;&nbsp;Liste des plans d'accessibilité élaborés par d'autres institutions&nbsp;&raquo;.</p>
           </details>
         </figcaption>
       </figure>
