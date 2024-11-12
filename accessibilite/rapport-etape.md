@@ -5,11 +5,11 @@ breadcrumbs:
   link: #
 - title: Accessibilité à [nom de l’institution]
   link: /accessibilite/accessibilite.html  
-dateModified: 2022-11-29
-description: Rapport d'étape sur l’accessibilité 2023 pour [nom de l’institution]
-title: Rapport d'étape sur l’accessibilité 2023 pour [nom de l’institution]
+dateModified: 2024-11-12
+description: Rapport d'étape sur l’accessibilité 2024 pour [nom de l’institution]
+title: Rapport d'étape sur l’accessibilité 2024 pour [nom de l’institution]
 ---
-<h1 property="name" id="wb-cont" dir="ltr">Rapport d'étape sur l'accessibilité 2023 pour [Nom de l'institution]</h1>
+<h1 property="name" id="wb-cont" dir="ltr">Rapport d'étape sur l'accessibilité 2024 pour [Nom de l'institution]</h1>
 <ul>
   <li>Insérer le contenu du rapport dans cette section</li>
   <li>Suivre les <a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite/rapports-etape/preparez.html">conseils pour la préparation des rapports d'étape sur l'accessibilité</a></li>

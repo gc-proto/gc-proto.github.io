@@ -5,7 +5,7 @@ breadcrumbs:
   link: #
 title: "Accessibility at [institution name]"
 description: "Find [Institution name]'s accessibility plan and provide feedback."
-dateModified: 2022-11-29
+dateModified: 2024-11-12
 ---
 <div class="container">
 	<div class="row">
@@ -31,7 +31,7 @@ dateModified: 2022-11-29
           <p>Policies, programs, practices, and services that help our organization contribute to the goal of an accessible and barrier-free Canada</p>
         </div>
        <div class="col-lg-4 col-md-6">
-          <h3><a href="progress-report.html">2023 progress report</a></h3>
+          <h3><a href="progress-report.html">2024 progress report</a></h3>
           <p>Results of our activities to improve how our organization contributes to the goal of an accessible and barrier-free Canada</p>
         </div>        
 	      <div class="col-lg-4 col-md-6">

@@ -12,9 +12,9 @@ css:
 pageclass: cnt-wdth-lmtd
 language: en
 layout: default
-dateModified: 2023-10-19
-description: Accessibility progress report 2023 for [Institution name]
-title: Accessibility progress report 2023 for [Institution name]
+dateModified: 2024-11-12
+description: Accessibility progress report 2024 for [Institution name]
+title: Accessibility progress report 2024 for [Institution name]
 ---
 
 * Insert content for the progress report in this section

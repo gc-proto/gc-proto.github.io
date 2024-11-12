@@ -3,7 +3,7 @@ altLangPage: /accessibility/accessibility.html
 breadcrumbs:
 - title: "[nom de l’institution]"
   link: #
-dateModified: 2022-11-29
+dateModified: 2024-11-12
 description: "Find [institution name]'s accessibility plan and provide feedback."
 title: "Accessibilité à [nom de l’institution]"
 ---
@@ -31,7 +31,7 @@ title: "Accessibilité à [nom de l’institution]"
           <p>Politiques, programmes, pratiques et services qui aident notre organisation à contribuer à l’objectif d’un Canada accessible et sans obstacles</p>
         </div>
 	      <div class="col-lg-4 col-md-6">
-          <h3><a href="processus-retroaction.html">Rapport d'étape de 2023</a></h3>
+          <h3><a href="processus-retroaction.html">Rapport d'étape de 2024</a></h3>
           <p>Résultats de nos activités visant à améliorer la contribution de notre organisation à l'objectif d'un Canada accessible et sans entraves</p>
         </div>
               <div class="col-lg-4 col-md-6">
