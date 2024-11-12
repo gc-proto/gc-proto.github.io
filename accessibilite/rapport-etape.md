@@ -17,4 +17,4 @@ title: Rapport d'étape sur l’accessibilité 2024 pour [nom de l’institution
 <h2>Rétroaction sur ce rapport</h2>
 <p><a href="formulaire-retroaction.html">Fournir une rétroaction sur ce rapport</a></p>
 <h2>Rapports d'étape élaborés par d’autres institutions</h2>
-<p><a href="https://open.canada.ca/fr">Liste des rapports d'étape sur l’accessibilité élaborés par d’autres institutions</a></p>
+<p><a href="https://rechercher.ouvert.canada.ca/donneesouvertes/?collection=accessibiliy_plans&page=1&sort=metadata_modified+desc">Liste des rapports d'étape sur l’accessibilité élaborés par d’autres institutions</a></p>
