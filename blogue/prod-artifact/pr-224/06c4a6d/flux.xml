@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogue de Canada.ca</title>
+    <description>Validations et perspectives de l&apos;équipe Canada.ca.</description>
+    <link>https://blogue.canada.ca/</link>
+    <atom:link href="https://blogue.canada.ca/flux.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 23 Jul 2026 16:27:57 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2026 16:27:57 +0000</lastBuildDate>
+    <generator>Jekyll v4.3.4</generator><item>
+        <title>Concevoir des applications d&apos;aide utilisant l&apos;IA sur Canada.ca</title>
+        <description>Au cours de la dernière année, nous avons travaillé en étroite collaboration avec 18 ministères afin de mieux comprendre ce qui fait qu&apos;une application d&apos;aide utilisant l&apos;IA est fiable, uniforme et utile pour les utilisateurs de Canada.ca.</description>
+        <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+        <link>https://blogue.canada.ca/2026/02/12/conception-aide-ia.html</link>
+        <guid isPermaLink="true">https://blogue.canada.ca/2026/02/12/conception-aide-ia.html</guid><category>fr</category></item><item>
+        <title>Réponses IA&amp;nbsp;: Essais à l&apos;échelle de l&apos;organisation pour Canada.ca</title>
+        <description>Chaque jour, des milliers de personnes se tournent vers le gouvernement du Canada (GC) pour obtenir de l&apos;aide relativement aux services essentiels.</description>
+        <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+        <link>https://blogue.canada.ca/2025/12/17/reponses-ia.html</link>
+        <guid isPermaLink="true">https://blogue.canada.ca/2025/12/17/reponses-ia.html</guid><category>fr</category></item><item>
+        <title>Résultats de l’étude sur la confiance envers l’IA sur Canada.ca</title>
+        <description>En 2024, le BTN a mené une étude sur la confiance envers l’Intelligence Artificielle (IA) pour évaluer la confiance du public envers différentes approches de conception d’IA pour Canada.ca.</description>
+        <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+        <link>https://blogue.canada.ca/2025/02/18/confiance-ia.html</link>
+        <guid isPermaLink="true">https://blogue.canada.ca/2025/02/18/confiance-ia.html</guid><category>fr</category></item><item>
+        <title>Boîte à outils de conception pour les situations d’urgence</title>
+        <description>Répondre aux besoins des utilisateurs et utilisatrices de Canada.ca en temps de crise.</description>
+        <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+        <link>https://blogue.canada.ca/2024/06/10/boite-outils-durgence.html</link>
+        <guid isPermaLink="true">https://blogue.canada.ca/2024/06/10/boite-outils-durgence.html</guid><category>fr</category></item><item>
+        <title>Système de design unifié et mise à jour sur la fusion du BTN et du SNC</title>
+        <description>Découvrez comment nous créons une source unifiée alliant code, conception et documentation afin d’aider les équipes à créer des sites Web et des applications.</description>
+        <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+        <link>https://blogue.canada.ca/2024/06/05/systeme-design-unifie.html</link>
+        <guid isPermaLink="true">https://blogue.canada.ca/2024/06/05/systeme-design-unifie.html</guid><category>fr</category></item><item>
+        <title>Des pages de navigation flexibles pour les situations d’urgence</title>
+        <description>Les modèles Web actuels ne sont pas toujours les plus adaptés pour transmettre des informations complexes et rapidement changeantes en temps de crise. Les équipes gouvernementales devraient prototyper une page d’accueil flexible, prête à utiliser dès qu’il le faut.</description>
+        <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+        <link>https://blogue.canada.ca/2024/05/13/conception-de-page-de-navigation-flexible-pour-les-urgences.html</link>
+        <guid isPermaLink="true">https://blogue.canada.ca/2024/05/13/conception-de-page-de-navigation-flexible-pour-les-urgences.html</guid><category>fr</category></item><item>
+        <title>Nous changeons la façon dont nous déterminons les tâches principales pour le site Canada.ca</title>
+        <description>Les tâches principales permettent d’établir l’ordre de priorité du contenu Web qui doit être amélioré. Depuis 2022, les tâches principales pour Canada.ca sont définies à l’aide des réponses fournies par les visiteurs dans le sondage sur la réussite des tâches du gouvernement du Canada.</description>
+        <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+        <link>https://blogue.canada.ca/2023/03/22/les-taches-principales.html</link>
+        <guid isPermaLink="true">https://blogue.canada.ca/2023/03/22/les-taches-principales.html</guid><category>fr</category></item><item>
+        <title>Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation</title>
+        <description>Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation.</description>
+        <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+        <link>https://blogue.canada.ca/2022/12/21/le-projet-orientation.html</link>
+        <guid isPermaLink="true">https://blogue.canada.ca/2022/12/21/le-projet-orientation.html</guid><category>fr</category></item><item>
+        <title>Présentation du bouton contextuel &amp;laquo;&amp;nbsp;Se connecter&amp;nbsp;&amp;raquo;</title>
+        <description>Afin d’améliorer la repérabilité de cette importante tâche principale, la composante d’en-tête générale du site Canada.ca inclut désormais l’option d’ajouter un bouton contextuel &amp;laquo;&amp;nbsp;Se connecter&amp;nbsp;&amp;raquo; sur les pages où les gens cherchent probablement à se connecter à un compte.</description>
+        <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+        <link>https://blogue.canada.ca/2022/09/23/presentation-bouton-contextuel-se-connecter.html</link>
+        <guid isPermaLink="true">https://blogue.canada.ca/2022/09/23/presentation-bouton-contextuel-se-connecter.html</guid><category>fr</category></item><item>
+        <title>Utilisation d’alertes pour maintenir la synchronisation des communiqués de presse et du contenu Web</title>
+        <description>Un contenu à jour accroît la confiance. Nous avons beaucoup appris sur ce qui fonctionne pour les visiteurs dans le contexte de règles changeantes en situation d’urgence.</description>
+        <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+        <link>https://blogue.canada.ca/2022/07/28/communiques.html</link>
+        <guid isPermaLink="true">https://blogue.canada.ca/2022/07/28/communiques.html</guid><category>fr</category></item></channel>
+</rss>
