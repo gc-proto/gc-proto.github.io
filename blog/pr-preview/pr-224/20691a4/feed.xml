@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Canada.ca blog</title>
+    <description>Evidence and insights from the Canada.ca team.</description>
+    <link>https://blog.canada.ca/blog/pr-preview/pr-224/</link>
+    <atom:link href="https://blog.canada.ca/blog/pr-preview/pr-224/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 23 Jul 2026 16:04:17 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2026 16:04:17 +0000</lastBuildDate>
+    <generator>Jekyll v4.3.4</generator></channel>
+</rss>
