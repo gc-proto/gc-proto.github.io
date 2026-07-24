@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Canada.ca blog</title>
+    <description>Evidence and insights from the Canada.ca team.</description>
+    <link>https://blog.canada.ca/</link>
+    <atom:link href="https://blog.canada.ca/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 24 Jul 2026 14:35:31 +0000</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 14:35:31 +0000</lastBuildDate>
+    <generator>Jekyll v4.3.4</generator><item>
+        <title>Designing AI help applications for Canada.ca</title>
+        <description>Over the past year, we’ve worked closely with 18 government departments to better understand what makes an AI help application reliable, consistent, and useful for people using Canada.ca.</description>
+        <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+        <link>https://blog.canada.ca/2026/02/12/ai-help-design.html</link>
+        <guid isPermaLink="true">https://blog.canada.ca/2026/02/12/ai-help-design.html</guid><category>en</category></item><item>
+        <title>AI Answers: Enterprise-scale trials for Canada.ca</title>
+        <description>Every day, thousands of people turn to the Government of Canada (GC) seeking help with essential services.</description>
+        <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+        <link>https://blog.canada.ca/2025/12/17/ai-answers.html</link>
+        <guid isPermaLink="true">https://blog.canada.ca/2025/12/17/ai-answers.html</guid><category>en</category></item><item>
+        <title>Results from the AI Trust study on Canada.ca</title>
+        <description>In 2024, DTO undertook an Artificial Intelligence (AI) trust study to gauge the public’s trust of different AI design approaches for Canada.ca.</description>
+        <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+        <link>https://blog.canada.ca/2025/02/18/ai-trust-study.html</link>
+        <guid isPermaLink="true">https://blog.canada.ca/2025/02/18/ai-trust-study.html</guid><category>en</category></item><item>
+        <title>Design toolkit for emergencies</title>
+        <description>Meeting user needs on Canada.ca during a crisis.</description>
+        <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+        <link>https://blog.canada.ca/2024/06/10/crisis-toolkit.html</link>
+        <guid isPermaLink="true">https://blog.canada.ca/2024/06/10/crisis-toolkit.html</guid><category>en</category></item><item>
+        <title>Unified design system and update of DTO’s merger with CDS</title>
+        <description>Learn about how we&apos;re creating a unified source for code, design and documentation to help teams build websites and applications.</description>
+        <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+        <link>https://blog.canada.ca/2024/06/05/unified-design-system.html</link>
+        <guid isPermaLink="true">https://blog.canada.ca/2024/06/05/unified-design-system.html</guid><category>en</category></item><item>
+        <title>Flexible navigation page design for emergencies</title>
+        <description>In a crisis, current web templates may not be ideal for sharing complex, fast-changing information. Government teams should prototype a flexible landing page that is ready to be used when it’s needed.</description>
+        <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+        <link>https://blog.canada.ca/2024/05/13/flexible-navigation-page-design-for-emergencies.html</link>
+        <guid isPermaLink="true">https://blog.canada.ca/2024/05/13/flexible-navigation-page-design-for-emergencies.html</guid><category>en</category></item><item>
+        <title>We’re changing the way we identify top tasks for Canada.ca</title>
+        <description>Top tasks help prioritize what web content needs to be improved. As of 2022, top tasks for Canada.ca are identified using visitors’ responses to the GC Task Success Survey.</description>
+        <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+        <link>https://blog.canada.ca/2023/03/22/top-tasks.html</link>
+        <guid isPermaLink="true">https://blog.canada.ca/2023/03/22/top-tasks.html</guid><category>en</category></item><item>
+        <title>Wayfinding research project improves our approach to navigation on Canada.ca</title>
+        <description>The wayfinding study investigated issues with Canada.ca navigation and informed changes to improve navigation and simplify the adoption of the Canada.ca design.</description>
+        <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+        <link>https://blog.canada.ca/2022/12/21/wayfinding-research-project.html</link>
+        <guid isPermaLink="true">https://blog.canada.ca/2022/12/21/wayfinding-research-project.html</guid><category>en</category></item><item>
+        <title>Introducing the contextual Sign in button</title>
+        <description>To improve findability for this important top task, the global header component of Canada.ca now includes the option of adding a contextual Sign in button on pages where people are likely looking to sign in to an account.</description>
+        <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+        <link>https://blog.canada.ca/2022/09/23/introducing-contextual-sign-in-button.html</link>
+        <guid isPermaLink="true">https://blog.canada.ca/2022/09/23/introducing-contextual-sign-in-button.html</guid><category>en</category></item><item>
+        <title>Using alerts to keep news releases and web content in sync</title>
+        <description>Up-to-date web content increases trust. We&apos;ve learned a lot about what works for visitors amid changing rules in emergency situations.</description>
+        <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+        <link>https://blog.canada.ca/2022/07/28/news-releases.html</link>
+        <guid isPermaLink="true">https://blog.canada.ca/2022/07/28/news-releases.html</guid><category>en</category></item></channel>
+</rss>
