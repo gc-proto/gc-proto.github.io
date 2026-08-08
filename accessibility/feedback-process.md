@@ -27,7 +27,7 @@ title: "Accessibility feedback process at [Institution name]"
 </ul>
 <p>You can also contact our Accessibility Office:</p>
 <ul>
-  <li>Email: <a href="maito:[insert email address]">[insert email address]</a></li>
+  <li>Email: <a href="mailto:[insert email address]">[insert email address]</a></li>
   <li>Phone: <a href="tel:[insert phone number]">[insert phone number]</a></li>
   <li>Mail: [Street address, City, (Province) A1A 1A1]</li>
 </ul>
