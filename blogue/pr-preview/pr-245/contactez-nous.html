@@ -132,8 +132,15 @@
     </details>
   </div>
 </div>
+
+<form name="contact-dto" netlify="" hidden="">
+	<input name="email" type="email" />
+	<input name="subject" type="text" />
+	<textarea name="message"></textarea>
+</form>
 <div class="wb-frmvld row">
-	<form action="https://blogue-conception-bec.netlify.app/accuse-de-reception" method="post" class="gc-referrer mrgn-tp-lg col-md-8 gc-font-2019" name="contact-dto" netlify="">
+	<form action="https://blogue-conception-bec.netlify.app/accuse-de-reception" method="post" class="gc-referrer mrgn-tp-lg col-md-8 gc-font-2019" name="contact-dto">
+		<input type="hidden" name="form-name" value="contact-dto" />
 		<div class="wb-fieldflow" data-wb-fieldflow="{&quot;noForm&quot;: true, &quot;renderas&quot;:&quot;radio&quot;, &quot;gcChckbxrdio&quot;:true}">
 			<p><span class="wb-fieldflow-label">Voulez-vous que nous vous contactions à propos de votre rétroaction?</span></p>
 			<ul>
