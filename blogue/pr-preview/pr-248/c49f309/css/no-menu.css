@@ -1,4 +1,0 @@
-/* Pages with no menu: 1px grey header line to match GC Design System header */
-#wb-bnr + hr {
-	border-top: 1px solid #d9d9d9;
-}
